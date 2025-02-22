@@ -1,0 +1,872 @@
+corpus linguistics
+corpus datum
+language use
+research question
+cluster analysis
+corpus linguist
+word corpus
+corpus study
+person pronoun
+p value
+word form
+number of word
+frequency list
+text corpus
+corpus analysis
+text type
+chi square
+co occurrence
+text length
+meta information
+speech act
+text text
+degree of freedom
+word list
+corpus text
+type of text
+pseudo title
+language corpus
+word frequency
+language user
+type token
+language documentation
+register analysis
+corpus research
+use of corpora
+language datum
+word length
+learner corpora
+point of view
+speech tagging
+k mean
+word text
+stop word
+word class
+part of speech
+different type of corpora
+data point
+sampling frame
+effect size
+concordance line
+type of information
+corpus annotation
+find instance
+size of corpus
+corpus corpus
+number of occurrence
+function word
+sub corpora
+character class
+language sample
+text file
+keyword analysis
+discourse marker
+corpora corpus
+natural language processing
+portion of corpus
+pos tag
+k means
+set of variable
+frequency of word
+occurrence of word
+speech writing
+tyneside speech
+language technology
+language variation
+word occur
+use of language
+find word
+corpus contain
+research project
+reference corpus
+effect size measure
+word occurrence
+corpus contains
+language acquisition
+learner corpus
+variation text length
+british library newspapers
+row vector
+corpus word
+type of corpus
+corpus type
+corpus sample
+type of datum
+meaning of word
+word phrase
+list of word
+language corpora
+speech category
+case study
+open corpus linguistics
+contains sample
+sample of speech
+inclusion corpus
+data matrix
+study of language
+text corpora
+corpus compiler
+type of corpora
+word type
+word collocate
+corpus use
+type of annotation
+number of time
+speech sample
+confidence interval
+answer research question
+coefficient of variation
+inter rater agreement
+component of ice
+period of english
+basis vector
+word boundary
+search word
+verb noun
+sample of language
+text production
+period of time
+corpora corpora
+language study
+search result
+frequency count
+word word
+use of corpus
+build corpus
+speech pos
+statistical description analysis
+collection of text
+use word
+number of character
+type of language
+sequence of word
+data set
+datum matrix
+open research practice
+x j
+input vector
+file manager
+exercise exercise
+word character
+language change
+language text
+corpus corpora
+word token
+corpus compilation
+corpus metadata
+corpus instance
+newspaper article
+frequency table
+corpus design
+let look example
+form of word
+london lund
+type of word
+datum table
+time period
+content word
+word of text
+unit of analysis
+speech tag
+absolute frequency of word
+need use
+use of word
+expected frequency of collocation
+word co
+judgement variable
+row total
+chapter section
+row column
+datum point
+area of language
+linguistic point of view
+structure of corpus
+learner corpus research
+large amount of datum
+helsinki corpus
+word sample
+international corpus of learner
+corpus chapter
+release doc tei p doc
+hypothesis generation
+z standardization
+total number of occurrence
+connection vector
+end of line
+c unit
+difference group
+user of corpus
+multi cast
+pronoun zero
+set of word
+study use
+corpora use
+information word
+transcription of spoken
+group of speaker
+field of study
+research area
+distance mean
+rate of occurrence
+mixed effect model
+language variety
+man woman
+datum need
+collection of datum
+language processing
+specific research question
+feature of interest
+example corpus
+time corpus
+token ratio
+use corpus
+press reportage
+mann whitney
+detail section
+certain research question
+representative of language
+word turn
+frequency of occurrence
+text instance
+language teaching
+analysis of corpus
+pearson chi
+historical corpus linguistics
+genre categorization
+number of hit
+text of length
+unit of text
+bnc coca
+age group
+segment of speech
+speaker b
+markup language
+vector space
+order of magnitude
+metric square mds
+k vector
+piece of text
+matter of fact
+operating system
+round bracket
+compare result
+area of linguistics
+language community
+computer corpus
+property of text
+basic concept corpus linguistics
+language production
+frequency datum
+speech rate
+corpus composition
+result corpus
+datum corpus
+purpose of corpus
+idea of corpus
+register study
+datum type
+set of datum
+audio file
+speech corpus
+theory of language
+corpora of english
+end of chapter
+type corpus
+range of text
+corpus size
+unit of measurement
+corpus project
+analysis of datum
+corpus annotation corpus annotation
+form of annotation
+annotation scheme
+layer of annotation
+classification tree
+error rate
+change language
+new zealand english
+different time period
+variety of language
+corpus of word
+language feature
+word frequent
+information corpus
+corpus creator
+corpus order
+purpose of study
+em em b er
+relative frequency of word
+word corpora
+association measure
+list of collocate
+word time
+type of analysis
+distance measure
+speaker writer
+second language acquisition
+news talk
+result of search
+face face
+form of language
+word sentence
+building corpus
+linguistic feature co
+discipline level of instruction
+researcher use
+word context
+search box
+information text
+n gram list
+significant difference use
+form of verb
+search pattern
+course use
+content of corpus
+trump speak
+type of speech
+domain of interest
+v w
+column vector
+absolute magnitude of variability
+real world object
+document collection
+dimensionality of datum
+data creation
+reduced dimensionality representation
+data object
+cluster validation
+advantage disadvantage
+e ps
+issue encounter
+punctuation mark
+byu interface
+google books
+translation equivalent
+total number of word
+childes database
+list of keyword
+annotation process
+research hypothesis
+field of linguistics
+corpus collection of text
+natural language text
+corpus query
+matukar panau
+chapter corpus
+contemporary american english coca corpus
+word language
+text need
+situational characteristic of text
+different age group
+reference corpora
+chapter chapter
+language rule
+string of character
+behaviour profile
+cause time factor
+part of word
+use corpora
+turn speaker
+chapter provide
+corpus software
+question corpus
+order use
+particular research question
+different type of annotation
+annotation system
+different form of verb
+text content
+column contains
+form function
+information table
+test statistic
+change time
+speech instance
+uses datum
+language contain
+language works
+corpora contain
+beginning of chapter
+research study
+language analysis
+corpus statistic
+section explore
+value mean
+point p
+create corpus
+word need
+research design
+datum analysis
+different research question
+word count
+report example
+word bnc
+word example
+bnc corpus
+node word
+frequency corpus
+collocation network
+point time
+study e g
+research report
+cross tab
+cross tabulation table
+corpus case
+correlation population
+point b
+factor analysis
+register variation
+group mean
+rank group
+gender use
+word issue
+peak trough technique
+data analysis
+research result
+symposium presentation
+register distribution
+large amount of text
+end of book
+example use
+www english corpora org
+different type of analysis
+corpus researcher
+language register
+search engine
+find verb
+different variety of english
+word meaning
+availability of text
+different type of text
+variable dependent variable
+text display score
+turn turn
+variability dependent
+way use
+feature count
+section discuss
+notion of corpus
+quantitative corpus linguistics
+instance corpus
+order representative
+extensible markup language
+key item analysis
+tea instance
+rule of thumb
+writer speaker
+entity recognition
+digital humanity corpus
+number of error
+web datum
+source of datum
+proportion of text
+level of analysis
+generation corpus
+target item
+corpus tool
+speaker turn
+santa barbara corpus
+quirk corpus
+british national corpus bnc corpus
+corpus determine
+kind of speech
+corpus issue
+individual speech writing
+permission use
+right of word
+capital letter
+accuracy rate
+structure phrase clause
+corpus section
+trump twitter
+collocation word
+frequent co occurrence
+structure datum
+vice versa
+representation of domain
+datum manifold
+data space
+dimensionality reduction method
+dimensionality reduction
+variance of v
+n datum matrix
+stress function
+datum object
+graph distance
+datum distribution
+cluster c
+k cluster
+point manifold
+core point
+noise point
+p cluster
+chronological variation research
+linguistics language technology
+corpus generation
+tend use
+create frequency list
+compound noun
+frequency breakdown
+style sheet
+comparable corpora parallel
+revision question
+main limitation use
+le monde corpus
+corpus internet
+annotation manual
+instance text
+text chapter
+corpus annotation chapter
+linguistic characteristic of text
+language instance
+wider range
+design principle
+different text type
+corpus building
+register dimension
+form of expression
+datum corpora
+situational feature of text
+hand hand
+specific research goal
+atc corpora
+linguistic research question
+metadata of corpus
+use level
+language choice
+university student
+look study
+kind of research
+speech corpora
+aligner use
+word level
+turn duration
+linear regression model
+datum frequency
+measure of dispersion
+word of interest
+research corpus
+medium file
+research agenda
+datum language
+file corpus
+different language corpus
+metadata corpus
+living room
+token token
+difficult time consuming
+poisson process
+datum use
+logistic regression model
+lot of information
+mixed effect regression
+datum help
+difference use
+sense of datum
+cluster data
+reason focus
+set of feature
+area of research
+black south africans
+speaker use
+corpus diverse
+corpus language
+language cf
+facet of language
+section corpus
+difference language
+language usage
+book book
+source of information
+british national corpus bnc
+sum of value
+second person pronoun
+frequency distribution
+mean median
+probability value
+null hypothesis p
+probability of outcome
+normality assumption
+speaker e
+significant difference group
+corpus designer
+effect e
+example illustrates
+text use
+punctuation token
+basis normalization
+word w
+variation corpus
+total number of token
+text b
+word right
+node frequency
+difference text
+keyword procedure
+element of subjectivity
+datum let
+research article
+article english
+probability ratio
+interest context probability
+value cell
+logistic regression technique
+datum e
+linguistic feature corpus
+baseline value
+corpus consists
+comma dash
+result of test
+case number
+pearson correlation
+correlation coefficient
+r r
+frequency of use
+different type of language
+dimension score
+z score
+statistical test use
+case text
+group variance
+large number of case
+small sample size
+use of pronoun
+correspondence plot
+development of language
+meta analysis
+linguistic datum analysis
+collocation measure
+corpus concordance line
+language pattern
+language context
+method involve
+chapter basic
+social medium post
+production circumstance
+telephone conversation
+project chapter
+unit of language
+kind of question
+work text
+way example
+example look
+closed class word
+complete following step step
+collocate function
+adjective cheap frugal thrifty
+difference way
+different language variety
+complementation pattern
+building corpora
+research research
+research purpose
+individual text file
+text analysis
+software program
+corpus figure
+n gram size
+observation variable
+frequency of person
+independent variable class size
+th percentile
+score group
+example example
+word average
+detail chapter
+means chance
+independent dependent variable
+observation cell
+formulate research question
+natural science mean
+division undergraduate
+student use
+feature corpus
+type of search
+element corpus
+collocation x
+number n
+significant coefficient female versus
+multi word unit
+learner corpus datum
+language system
+corpus of language
+speech versus
+form of plain
+word of corpus
+computer search
+kind of annotation
+context word
+datum method
+phase work
+datum text
+text project
+number of row
+number of column
+solution problem
+speech annotation
+datum researcher
+metalinguistic language use
+prompt input material
+database corpus
+quantitative corpus linguist
+fiction genre
+section focus
+use of pos
+result frequency
+optical character recognition
+corpus search
+word name
+part of name
+instance number
+instance noun
+multilingual language use
+lot of time
+chapter order
+document type
+character word
+replication crisis
+common corpus linguistics
+view link
+short text problem
+solution workaround
+section describe
+need of researcher
+straightforward approach
+lengthwise quantile
+tag text
+occurrence corpus
+analysis section
+proportion of tweet
+critical discourse analysis
+feature of intonation
+corpus kind
+ice gb
+chapter focuses
+english usage university college
+corpus contains word sample
+construction grammar
+qualitative corpus analysis
+html cc html
+word instance
+brown corpus corpus
+english norwegian parallel corpus
+permit study
+spoken of bnc
+english ice gb
+ethnographic information individual
+bnc contains
+range of genre
+individual text sample
+number of sample
+time frame
+natcorp ox ac
+corpora study
+native speaker status
+american component of ice
+number of example
+pause hesitation
+research assistant
+record of text
+text contains
+transcription of text
+transcription of speech
+uk english usage projects
+quantitative analysis of corpora
+occurrence word
+relevant datum corpus
+ice corpora
+natural language speech
+research application
+nature of datum
+indication of speaker
+river tyne
+cluster structure
+vector v
+distance pair
+research domain
+document contain
+matrix row
+set of value
+variable extraction method
+inner product of vector
+n dimensional datum matrix
+set of k
+dimensionality space
+distance relation
+mdecte datum
+euclidean distance matrix
+discussion of datum
+projection clustering
+p q
+input space
+training vector
+parameter value
+datum case
+cluster k
+vector x
+intrinsic cluster structure
+average linkage tree
+mean of sum
+cophenetic correlation coefficient
+dbscan k mean
+quantitative method corpus linguistics
+observed language use
+language datum information
+source language
+monitor corpus
+frequency analysis
+corpora collection
+native speaker of language
+look information
+file use
+project gutenberg
+zip archive
+context menu
+datum exercise
+different word form
+simple corpus tool
+file name
+unlimited number of time
+start antconc
+base form of verb
+sherlock holmes
+simple pos tagger
+proper noun nnp
+dropdown list click
+exercise try
+bncweb interface
+word tag combination
+particular word class
+language way
+xml version
+n gram word cluster
+exercise n
+degree of relatedness
+position right
+word appear
+attribute value pair
+display property
+background colour
+source target
+order study
+metadata chapter
+context of use
+search corpus
+english speaking learner
+translation process
+quantitative corpus study
+discourse connective
+parce que
+different mother tongue
+year of residence
+translation universal
+possible look occurrence
+age of year
+datum collection phase
+different portion of corpus
+mesure il
+mesure l
+base of normalization
+lexical richness of corpus
+test of independence
+neuch tel jura
