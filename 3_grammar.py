@@ -14,7 +14,6 @@ GRAMMAR = r"""
         {<NN.*><IN><NN.*>} 
 """
 
-
 CORPUS_FILE = "corpus_completo_procesado.txt"
 OUTPUT_FILE = "terminos_extraidos_filtrados.txt"
 
@@ -40,9 +39,10 @@ for sent in tagged_sentences:
     for subtree in tree.subtrees():
         if subtree.label() == 'NP':  
             term = " ".join(word for word, tag in subtree.leaves())
-            term_candidates.add(term)
+            if len(term.split()) > 1:  # Filtra términos de una sola palabra
+                term_candidates.add(term)
 
-print(f"✅ Se han extraído {len(term_candidates)} términos únicos.")
+print(f"✅ Se han extraído {len(term_candidates)} términos únicos de más de una palabra.")
 
 print("📊 Contando frecuencia de términos en el corpus...")
 term_freq = Counter(re.findall(r'\b(?:' + '|'.join(map(re.escape, term_candidates)) + r')\b', text))

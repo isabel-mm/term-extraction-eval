@@ -1,873 +1,2194 @@
 Término,C-Value
-corpus linguistics,412.1666666666667
-research question,177.14285714285714
-corpus datum,146.0
-language use,145.75
-cluster analysis,98.0
-word form,95.0
-frequency list,94.0
-number of word,88.75790004038474
-word corpus,88.0
-chi square,76.0
-corpus study,75.0
-text corpus,69.0
-corpus analysis,69.0
-p value,65.0
-use of corpora,64.9834625295674
-corpus corpus,64.0
-word list,64.0
-corpus building,61.0
-person pronoun,60.0
-co occurrence,59.0
-occurrence of word,58.64361252668277
-corpus annotation,56.0
-word class,56.0
-point of view,53.8887250245193
-type of text,52.30376252379815
-frequency of word,52.30376252379815
-degree of freedom,50.718800023076994
-data point,49.0
-word type,48.0
-use of language,47.548875021634686
-type token,47.0
-text length,46.0
-concordance line,46.0
-text type,45.0
-effect size,45.0
-speech act,45.0
-function word,44.0
-language corpus,44.0
-word phrase,43.0
-number of occurrence,42.793987519471216
-type of information,42.793987519471216
-corpus linguist,42.0
-word frequency,42.0
-reference corpus,42.0
-word word,42.0
-part of speech,41.209025018750054
-use of word,41.209025018750054
-text file,41.0
-word text,39.0
-corpus contains,39.0
-text text,39.0
+e g,798.9166666666666
+corpus linguistics,775.5
+case study,343.125
+research question,324.8333333333333
+corpus datum,288.6
+frequency list,253.83333333333334
+language use,218.2
+corpus linguist,156.5909090909091
+co occurrence,155.5
+corpus file,152.75
+word form,152.25
+number of word,143.43910631526464
+word list,137.25
+effect size,132.0
+word corpus,131.0
+p value,130.0
+cluster analysis,120.5
+corpus study,116.0
+corpus analysis,110.0
+corpus research,108.33333333333333
+occurrence of word,104.6075250475963
+language variety,102.0
+data point,101.0
+learner corpus,100.33333333333333
+frequency of word,94.30526879290879
+type token ratio,93.51278754254821
+concordance line,92.0
+degree of freedom,91.92782504182705
+corpus annotation,88.0
+learner corpora,86.0
+reference corpus,85.5
+data frame,84.5
+use of corpora,84.00301253822127
+data set,83.0
+part of speech,82.41805003750011
+annotation scheme,81.0
+chi square,77.0
+meta analysis,77.0
+research design,76.75
+text file,76.0
+text corpus,70.0
+parallel corpora,68.0
+word class,67.5
+text type,67.33333333333333
+speech act,67.0
+corpus building,67.0
+point of view,66.56842503028855
+character string,65.0
+keyword analysis,65.0
+use of language,63.39850002884624
+person pronoun,63.0
+research project,62.0
+type of datum,61.81353752812509
+variety of english,61.81353752812509
+natural language processing,61.81353752812509
+multi word,61.5
+data structure,61.0
+word type,60.0
+study of language,58.64361252668277
+use of corpus,58.64361252668277
+function word,57.0
+language datum,56.0
+corpus design,56.0
+word phrase,56.0
+language acquisition,55.0
+type of text,53.8887250245193
+number of case,53.8887250245193
+use of word,53.8887250245193
+measure of dispersion,53.8887250245193
+confidence interval,53.0
+association measure,53.0
+number of occurrence,52.30376252379815
+sequence of word,52.30376252379815
+character vector,52.0
+corpus compiler,52.0
+corpus size,51.0
+type of information,50.718800023076994
+character class,50.5
+corpus contains,50.0
+word length,49.0
+word frequency,48.0
+datum frame,48.0
+number of time,47.548875021634686
+list of word,47.548875021634686
+language variation,47.0
+text length,47.0
+regression model,46.0
+frequency of occurrence,45.963912520913524
+analysis of corpus,45.963912520913524
+line of code,44.37895002019237
+collection of text,44.37895002019237
+web page,44.0
+language teaching,44.0
+pos tagging,44.0
+sample size,43.0
+element of vector,42.793987519471216
+form of verb,42.793987519471216
+type of annotation,41.209025018750054
+number of text,41.209025018750054
+corpus compilation,41.0
+web corpus,41.0
+language corpus,40.0
+speech writing,40.0
+language user,40.0
+size of corpus,39.6240625180289
+type of corpora,39.6240625180289
+type of corpus,39.6240625180289
+word occur,39.5
 corpus text,39.0
+discourse marker,39.0
+word token,39.0
+frequency count,39.0
 effect size measure,38.039100017307746
-token ratio,37.0
-corpus research,37.0
+state of art,38.039100017307746
+word text,38.0
+pos tag,37.33333333333333
+meta information,37.0
 language documentation,37.0
-language datum,37.0
-type of datum,36.45413751658659
-study of language,36.45413751658659
-character class,36.0
-use corpus,35.0
-exercise exercise,35.0
-learner corpus,34.5
-learner corpora,34.0
-research project,34.0
+datum point,37.0
+ice gb,37.0
+corpus tool,37.0
+default setting,37.0
+speech community,37.0
+number of token,36.45413751658659
+analysis of datum,36.45413751658659
+speech tagging,36.0
+code file,36.0
+search engine,35.0
+search expression,35.0
+time period,35.0
+test statistic,35.0
+dimensionality reduction,35.0
+search word,35.0
+london lund corpus,34.86917501586544
+sample of language,34.86917501586544
+variety of language,34.86917501586544
+r code,34.0
+register analysis,34.0
+k means,34.0
+log likelihood,34.0
+vector space,33.5
 portion of corpus,33.284212515144276
-vector space,33.0
-meta information,33.0
-language acquisition,33.0
-word occurrence,33.0
-language variation,33.0
-pos tag,32.0
-language user,32.0
-sequence of word,31.69925001442312
-type of corpus,31.69925001442312
-corpus type,31.0
-word length,31.0
-use of corpus,30.114287513701967
-dimensionality reduction,30.0
-style sheet,30.0
-corpus instance,30.0
-register analysis,29.0
+field of corpus,33.284212515144276
+row column,33.0
+language change,33.0
+man woman,33.0
+et al,33.0
+correlation coefficient,33.0
+corpus type,33.0
+register variation,33.0
+use corpus,32.0
+subordinate clause,32.0
+corpus corpus,32.0
+frequency table,32.0
+corpus query,32.0
+kind of research,31.69925001442312
+word frequency list,31.69925001442312
+specific research question,31.69925001442312
+text category,31.0
+research area,31.0
+language sample,31.0
+application of corpus,30.114287513701967
+kind of datum,30.114287513701967
+second language acquisition,30.114287513701967
+meaning of word,30.114287513701967
+conditional inference tree,30.114287513701967
+actual script rstudio,30.114287513701967
+different type of corpora,30.0
+frequency distribution,30.0
+datum structure,30.0
+word order,30.0
+punctuation mark,30.0
+content word,30.0
+newspaper article,30.0
+language corpora,29.5
+datum corpus,29.0
 pseudo title,29.0
-form of verb,28.52932501298081
-size of corpus,28.52932501298081
+lob corpus,29.0
+word tag,29.0
+corpus contain,29.0
+style sheet,29.0
+speaker writer,29.0
+unit of analysis,28.52932501298081
+definition of corpus,28.52932501298081
+user of corpus,28.52932501298081
 statistical description analysis,28.52932501298081
-list of word,28.52932501298081
-different type of corpora,28.0
-chapter section,28.0
-language corpora,28.0
-datum corpus,28.0
-corpus compiler,28.0
-language sample,28.0
-frequency count,27.0
-confidence interval,27.0
-keyword analysis,27.0
-language variety,27.0
-user of corpus,26.94436251225965
-corpus annotation corpus annotation,26.0
-speech writing,26.0
-time period,26.0
-datum point,26.0
-example corpus,26.0
-type of annotation,25.359400011538497
+period of time,28.52932501298081
+end of chapter,28.52932501298081
+set of variable,28.52932501298081
+type of analysis,28.52932501298081
+word character,28.0
+corpus user,28.0
+word sequence,28.0
+mann whitney,28.0
+correspondence analysis,28.0
+corpora contain,28.0
+target language,27.0
+vice versa,27.0
+order determine,27.0
+research article,27.0
+study use,27.0
+language technology,27.0
+test hypothesis,27.0
+line break,27.0
+load corpus file,26.94436251225965
+combination of word,26.94436251225965
+type of speech,26.94436251225965
+number of character,26.94436251225965
+kind of analysis,26.94436251225965
+matter of fact,26.94436251225965
+answer research question,26.94436251225965
+stop word,26.0
+researcher use,26.0
+datum analysis,26.0
+find word,26.0
+datum table,26.0
+row vector,26.0
+thing need,26.0
+sub corpus,26.0
+sub corpora,26.0
+data matrix,26.0
+word occurrence,26.0
+large amount of datum,26.0
+input vector,26.0
+area of linguistics,25.359400011538497
+distribution of word,25.359400011538497
+structure of corpus,25.359400011538497
+table case study,25.359400011538497
+recommendation study exploration,25.359400011538497
 coefficient of variation,25.359400011538497
-meaning of word,25.359400011538497
-type of speech,25.359400011538497
-analysis of corpus,25.359400011538497
-language technology,25.0
-corpus size,25.0
-newspaper article,25.0
-corpora corpus,25.0
-content word,24.0
-discourse marker,24.0
-analysis of datum,23.774437510817343
-type of analysis,23.774437510817343
+pattern of language,25.359400011538497
+pearson chi square,25.359400011538497
+corpus driven study,25.359400011538497
+representative of language,25.359400011538497
+number of cluster,25.359400011538497
+form of word,25.359400011538497
+order study,25.0
+pearson correlation,25.0
+target corpus,25.0
+word boundary,25.0
+use language,25.0
+word level,25.0
+log odd,25.0
+word word,25.0
+time span,25.0
+target domain,25.0
+classification tree,24.0
+international corpus of learner,24.0
+function need,24.0
+node word,24.0
+frequency datum,24.0
+vector x,24.0
+inclusion corpus,24.0
+time corpus,24.0
+information corpus,24.0
+software program,24.0
+introduction corpus linguistics,23.774437510817343
 inter rater agreement,23.774437510817343
-type of corpora,23.774437510817343
-natural language processing,23.774437510817343
-man woman,23.0
+aspect of script,23.774437510817343
+mixed effect model,23.774437510817343
+number of study,23.774437510817343
+translation equivalent,23.0
+mother tongue,23.0
+operating system,23.0
+research hypothesis,23.0
+keyword list,23.0
+g lmm,23.0
+text corpora,23.0
+dispersion measure,23.0
 connection vector,23.0
-end of chapter,22.189475010096185
-set of variable,22.189475010096185
-number of time,22.189475010096185
+search result,23.0
+question mark,23.0
+face face,23.0
+word of text,22.189475010096185
+form of language,22.189475010096185
+set of word,22.189475010096185
 british library newspapers,22.189475010096185
-variation text length,22.189475010096185
-order study,22.0
-word character,22.0
-row vector,22.0
-corpus word,22.0
-press reportage,22.0
-inclusion corpus,21.0
-data matrix,21.0
-word token,21.0
-building corpus,21.0
-word sentence,21.0
-software program,21.0
-corpus design,21.0
-k means,21.0
-speech tagging,21.0
+area of research,22.189475010096185
+type of language,22.189475010096185
+high frequency verb,22.189475010096185
+component of ice,22.189475010096185
+probability of error,22.189475010096185
+rate of occurrence,22.189475010096185
+factor analysis,22.0
+language feature,22.0
+google books,22.0
+want use,22.0
+corpus search,22.0
+translation study,22.0
+method corpus,22.0
+need use,22.0
+use word,22.0
+software tool,22.0
+total number of word,22.0
+way corpus,22.0
+multimodal corpus,21.5
 language study,21.0
-sub corpora,21.0
-search word,21.0
-unit of analysis,20.604512509375027
-form of language,20.604512509375027
-frequency of occurrence,20.604512509375027
-collection of text,20.604512509375027
-type of language,20.604512509375027
+difference language,21.0
+data space,21.0
+difference group,21.0
+representative study,21.0
+use datum,21.0
+building corpus,21.0
+word expression,21.0
+collector vector,21.0
+precision recall,21.0
+press reportage,21.0
+speech sample,21.0
+point time,21.0
+register study,21.0
+language development,21.0
+variation text length,20.604512509375027
 sample of speech,20.604512509375027
-datum matrix,20.5
-frequency breakdown,20.0
-language change,20.0
+content of corpus,20.604512509375027
+corpus linguistics methodology,20.604512509375027
+group of speaker,20.604512509375027
+property of text,20.604512509375027
+type of discourse,20.604512509375027
+independence of observation,20.604512509375027
+context of corpus,20.604512509375027
+end of line,20.604512509375027
+linguistic research question,20.604512509375027
+let look example,20.604512509375027
+set of datum,20.604512509375027
+compare result,20.0
+cluster structure,20.0
+text text,20.0
+information word,20.0
+save file,20.0
 basis vector,20.0
-stop word,20.0
-case study,20.0
-corpus query,20.0
-area of linguistics,19.019550008653873
-structure of corpus,19.019550008653873
-specific research question,19.019550008653873
-variety of language,19.019550008653873
-answer research question,19.019550008653873
-number of character,19.019550008653873
-annotation scheme,19.0
-research design,19.0
-information corpus,19.0
-corpora contain,19.0
-use word,19.0
-speech sample,19.0
-frequency distribution,19.0
-corpus use,19.0
-ice gb,19.0
-corpus sample,19.0
-language teaching,19.0
-face face,18.0
-corpus composition,18.0
-text corpora,18.0
-verb noun,18.0
-language feature,18.0
-hypothesis generation,18.0
+ice corpora,20.0
+corpus method,20.0
+datum matrix,20.0
+count number,20.0
+frequency breakdown,20.0
+corpus composition,20.0
+basis function,20.0
+type token,20.0
+selection criterion,20.0
+head tail,20.0
+conclusion chapter,20.0
+element of x,19.019550008653873
+example of study,19.019550008653873
+domain of interest,19.019550008653873
+different word form,19.019550008653873
+kind of annotation,19.019550008653873
+learner corpus datum,19.019550008653873
+body of research,19.019550008653873
+principal component analysis,19.019550008653873
+element of list,19.019550008653873
+area of language,19.019550008653873
+number of hit,19.019550008653873
+number of row,19.019550008653873
+number of sentence,19.019550008653873
+male female speaker,19.019550008653873
+audio file,19.0
+language processing,19.0
+learner language,19.0
+tool method,19.0
+annotation system,19.0
+matrix verb,19.0
+monitor corpus,19.0
+annotation process,19.0
+dialect study,19.0
+concordance analysis,19.0
+corpus creator,19.0
+group variance,19.0
+word sentence,19.0
+frequency corpus,19.0
+word sample,19.0
+exercise box,19.0
+male speaker,18.5
+word family,18.0
+text analysis,18.0
+annotation tool,18.0
+computer program,18.0
+significance test,18.0
+difference use,18.0
+data analysis,18.0
 x j,18.0
-association measure,18.0
-period of time,17.43458750793272
-sample of language,17.43458750793272
-group of speaker,17.43458750793272
-representative of language,17.43458750793272
-number of hit,17.43458750793272
-learner corpus research,17.43458750793272
+corpus software,18.0
+file name,18.0
+define vector corpus file,18.0
+data collection,18.0
+text language,18.0
+research goal,18.0
+corpus architecture,18.0
+corpus project,18.0
+k mean,17.5
+second person pronoun,17.43458750793272
+particular research question,17.43458750793272
+academic word list,17.43458750793272
+description of corpus,17.43458750793272
+instance of phenomenon,17.43458750793272
+frequency of use,17.43458750793272
+section of corpus,17.43458750793272
+number of letter,17.43458750793272
+position of match,17.43458750793272
+example of language,17.43458750793272
+target discourse domain,17.43458750793272
+use of feature,17.43458750793272
+number of sample,17.43458750793272
+case study section,17.43458750793272
+context of use,17.43458750793272
+n gram list,17.43458750793272
+number of speaker,17.43458750793272
 open corpus linguistics,17.43458750793272
-content of corpus,17.43458750793272
-corpus order,17.0
-row column,17.0
+spoken of bnc,17.43458750793272
+source of datum,17.43458750793272
+example of type,17.43458750793272
+word tag combination,17.43458750793272
+corpus work,17.0
+speech corpus,17.0
+corpus researcher,17.0
+computer language,17.0
+variation use,17.0
+study corpus,17.0
+age group,17.0
+wider range,17.0
+cut point,17.0
+split infinitive,17.0
 information text,17.0
-report example,17.0
-language processing,17.0
-speaker writer,17.0
-researcher use,17.0
-punctuation mark,17.0
-annotation process,17.0
-monitor corpus,17.0
-pearson correlation,17.0
-pearson chi,17.0
-corpus contain,16.5
-release doc tei p doc,16.253496664211536
-k mean,16.0
-study use,16.0
-cluster structure,16.0
-language register,16.0
-need use,16.0
+grammaticality judgment,17.0
+analysis corpus,17.0
+helsinki corpus,17.0
+reference corpora,17.0
+significance level,17.0
+frequency dispersion,17.0
+contingency table,17.0
+advantage disadvantage,17.0
+verb phrase,17.0
+datum datum,17.0
 linguistic point of view,16.0
-british national corpus bnc,16.0
-corpus corpora,16.0
-international corpus of learner,16.0
-audio file,16.0
-difference language,16.0
-research area,16.0
+word sense,16.0
+source target,16.0
+world englishes,16.0
+word processor,16.0
+regression analysis,16.0
+word bnc,16.0
+detail chapter,16.0
+corpora corpus,16.0
+language language,16.0
+corpus language,16.0
+multimodal corpora,16.0
+software package,16.0
+use corpora,16.0
+sampling frame,16.0
+tyneside speech,16.0
+speech rate,16.0
 parce que,16.0
-data space,16.0
-london lund,16.0
-corpus project,16.0
-annotation system,16.0
-matter of fact,15.84962500721156
-component of ice,15.84962500721156
-form of word,15.84962500721156
-different word form,15.84962500721156
-domain of interest,15.84962500721156
-corpus of word,15.84962500721156
+corpus sample,16.0
+case study case study,16.0
+total number of occurrence,16.0
+kind of question,15.84962500721156
 open research practice,15.84962500721156
-area of language,15.84962500721156
-speech rate,15.0
-word context,15.0
-compare result,15.0
-advantage disadvantage,15.0
-speech corpus,15.0
-vector v,15.0
+rule of thumb,15.84962500721156
+mixed effect regression,15.84962500721156
+chapter of book,15.84962500721156
+size of sample,15.84962500721156
+length of corpus,15.84962500721156
+theory of language,15.84962500721156
+field of linguistics,15.84962500721156
+order of magnitude,15.84962500721156
+collection of datum,15.84962500721156
+form of annotation,15.84962500721156
+field of study,15.84962500721156
+historical corpus linguistics,15.84962500721156
+section of chapter,15.84962500721156
+different language variety,15.84962500721156
+attribute value pair,15.84962500721156
+number of instance,15.84962500721156
+number of column,15.84962500721156
+test datum,15.0
+effect model,15.0
+build corpus,15.0
+project gutenberg,15.0
+language education,15.0
 matukar panau,15.0
-production circumstance,15.0
-turn speaker,15.0
-time corpus,15.0
-input vector,15.0
-word sample,15.0
+xml file,15.0
+pronoun use,15.0
+source domain,15.0
+frequency information,15.0
+example illustrate,15.0
+information retrieval,15.0
+create corpus,15.0
+word n,15.0
+word pair,15.0
+information speaker,15.0
+bar plot,15.0
+language learner,15.0
+model selection,15.0
+non corpus,15.0
+discourse domain,15.0
 find instance,15.0
-corpus section,15.0
-vice versa,15.0
-corpus compilation,15.0
-language text,15.0
-corpora corpora,15.0
-end of line,14.264662506490405
-rate of occurrence,14.264662506490405
-result of search,14.264662506490405
-type of word,14.264662506490405
-n gram list,14.264662506490405
-range of text,14.264662506490405
+hypothesis generation,15.0
+approach corpus,15.0
+vector v,15.0
+work corpus,15.0
+collostruction strength,15.0
+source language,15.0
+distance point,15.0
 optical character recognition,14.264662506490405
+unit of measurement,14.264662506490405
+type of word,14.264662506490405
+santa barbara corpus,14.264662506490405
+term of size,14.264662506490405
+word sense disambiguation,14.264662506490405
+logistic regression model,14.264662506490405
+multiple correspondence analysis,14.264662506490405
+result of study,14.264662506490405
+beginning of chapter,14.264662506490405
+example of use,14.264662506490405
+kind of word,14.264662506490405
+datum retrieval annotation,14.264662506490405
+nature of datum,14.264662506490405
+research corpus linguistics,14.264662506490405
+result of test,14.264662506490405
+frequency of item,14.264662506490405
+sorted frequency list,14.264662506490405
+number of match,14.264662506490405
+end of book,14.264662506490405
+result of search,14.264662506490405
+list of keyword,14.264662506490405
+purpose of study,14.264662506490405
+feature of interest,14.264662506490405
+number of child,14.264662506490405
+set of value,14.264662506490405
+grammar of language,14.264662506490405
+case of word,14.264662506490405
+kind of language,14.264662506490405
+create frequency list,14.264662506490405
 period of english,14.264662506490405
-historical corpus linguistics,14.264662506490405
-number of sample,14.264662506490405
-search result,14.0
-point time,14.0
-difference group,14.0
-total number of occurrence,14.0
-z standardization,14.0
-corpus chapter,14.0
-corpus search,14.0
-sampling frame,14.0
-factor analysis,14.0
-tyneside speech,14.0
-expected frequency of collocation,14.0
-correlation coefficient,14.0
-absolute frequency of word,14.0
-corpus collection of text,14.0
-datum analysis,14.0
-information word,14.0
-v w,14.0
+change time,14.0
+z score,14.0
+text processing,14.0
+k cluster,14.0
+grammar book,14.0
+datum object,14.0
+compile result data frame,14.0
+verb noun,14.0
 absolute magnitude of variability,14.0
-frequency corpus,14.0
-large amount of datum,14.0
-difference use,14.0
-text instance,14.0
-frequency datum,14.0
-type corpus,14.0
-text analysis,13.0
-word boundary,13.0
-example use,13.0
+phenomenon investigation,14.0
+text speaker,14.0
+target word,14.0
+z standardization,14.0
+production circumstance,14.0
+file manager,14.0
+detail section,14.0
+expected frequency of collocation,14.0
+word count,14.0
+research study,14.0
+research community,14.0
+look word,14.0
+mean score,14.0
+example corpus,14.0
+computer science,14.0
+language register,14.0
+corpus collection,14.0
+corpora study,13.0
+complementation pattern,13.0
+translation direction,13.0
+zipf law,13.0
+time frame,13.0
+collocation research,13.0
+apply function,13.0
+variation change,13.0
+data object,13.0
+random intercept,13.0
+collocation network,13.0
+turn speaker,13.0
+word construction,13.0
+word combination,13.0
+solution problem,13.0
+research application,13.0
 group mean,13.0
-helsinki corpus,13.0
-chapter corpus,13.0
-chapter chapter,13.0
-find word,13.0
-word level,13.0
-datum object,13.0
-corpus tool,13.0
-corpus language,13.0
+word corpora,13.0
 trump speak,13.0
-age group,13.0
-use corpora,13.0
-register study,13.0
-result of test,12.679700005769249
-word of text,12.679700005769249
-collection of datum,12.679700005769249
-order of magnitude,12.679700005769249
-property of text,12.679700005769249
-mixed effect model,12.679700005769249
+bnc coca,13.0
+speaker age,13.0
+described chapter,13.0
+file corpus,13.0
+row total,13.0
+bnc contains,13.0
+concordance program,13.0
+learner datum,13.0
+mi score,13.0
+frequency analysis,13.0
+word frequent,13.0
+difference frequency,13.0
+variation language,13.0
+lot of information,12.679700005769249
+stage of language,12.679700005769249
+characteristic of corpus,12.679700005769249
+population of text,12.679700005769249
+vector of word,12.679700005769249
+point of comparison,12.679700005769249
 metric square mds,12.679700005769249
-text of length,12.679700005769249
-set of datum,12.679700005769249
-segment of speech,12.679700005769249
-transcription of speech,12.679700005769249
-area of research,12.679700005769249
-dimensionality of datum,12.679700005769249
-end of book,12.679700005769249
+window of car,12.679700005769249
+string of character,12.679700005769249
+annotation of corpus,12.679700005769249
+english corpus linguistics,12.679700005769249
 number of error,12.679700005769249
-cross tabulation table,12.679700005769249
-field of linguistics,12.679700005769249
-measure of dispersion,12.679700005769249
-build corpus,12.0
-corpora study,12.0
-group variance,12.0
-feature count,12.0
-column vector,12.0
-occurrence word,12.0
-word turn,12.0
-word collocate,12.0
-research domain,12.0
-corpora use,12.0
-corpus metadata,12.0
-discipline level of instruction,12.0
-datum table,12.0
-translation equivalent,12.0
-different type of analysis,12.0
-www english corpora org,12.0
-corpus software,12.0
-corpus case,12.0
-create corpus,12.0
-classification tree,12.0
-question corpus,12.0
-multi cast,12.0
+complex research design,12.679700005769249
+level of analysis,12.679700005769249
+representativeness of corpus,12.679700005769249
+term of frequency,12.679700005769249
+segment of speech,12.679700005769249
+contrastive interlanguage analysis,12.679700005769249
+generate frequency list,12.679700005769249
+type of file,12.679700005769249
+quantitative corpus linguistics,12.679700005769249
+dimensionality of datum,12.679700005769249
+text of length,12.679700005769249
+rchoose dir dir,12.679700005769249
+value of k,12.679700005769249
+panel of fig,12.679700005769249
+commercial search engine,12.679700005769249
+general service list,12.679700005769249
+history of language,12.679700005769249
+learner corpus study,12.679700005769249
+distribution of value,12.679700005769249
+second case study,12.679700005769249
+number of way,12.679700005769249
+childes database,12.0
+markup language,12.0
+pos tagger,12.0
+distance measure,12.0
 round bracket,12.0
-transcription of spoken,11.094737505048093
-list of keyword,11.094737505048093
-piece of text,11.094737505048093
-test of independence,11.094737505048093
-particular research question,11.094737505048093
-kind of question,11.094737505048093
-unit of text,11.094737505048093
-second language acquisition,11.094737505048093
-let look example,11.094737505048093
-field of study,11.094737505048093
-context of use,11.094737505048093
-kind of research,11.094737505048093
+page number,12.0
+feature count,12.0
+different type of analysis,12.0
+vector txt,12.0
+vector element,12.0
+research domain,12.0
+datum order,12.0
+racie avanc e corpus,12.0
+corpus word,12.0
+contrastive linguistics translation study,12.0
+occurrence corpus,12.0
+cramer v,12.0
+native speaker of language,12.0
+classification accuracy,12.0
+language text,12.0
+www english corpora org,12.0
+absolute frequency of word,12.0
+different variety of english,12.0
+list element,12.0
+output file,12.0
+column vector,12.0
+speaker corpus,12.0
+time word,12.0
+register difference,12.0
+multi cast,12.0
+accuracy rate,12.0
+level of education,11.094737505048093
+verb particle construction,11.094737505048093
+interim result file,11.094737505048093
+length of vector,11.094737505048093
+concordance of word,11.094737505048093
+number of level,11.094737505048093
+form of datum,11.094737505048093
+level of instruction,11.094737505048093
+language acquisition corpus,11.094737505048093
 use of pronoun,11.094737505048093
+range of text,11.094737505048093
+high frequency word,11.094737505048093
+www tei c,11.094737505048093
+purpose of corpus,11.094737505048093
+coefficient of determination,11.094737505048093
+linear regression model,11.094737505048093
+class of word,11.094737505048093
+multi word sequence,11.094737505048093
+list of collocate,11.094737505048093
+method of analysis,11.094737505048093
+sample of size,11.094737505048093
+accuracy of annotation,11.094737505048093
+transcription of spoken,11.094737505048093
+non word character,11.094737505048093
+unit of text,11.094737505048093
 base of normalization,11.094737505048093
-rule of thumb,11.094737505048093
-feature of interest,11.094737505048093
-theory of language,11.094737505048093
+part of word,11.094737505048093
+partial dependence score,11.094737505048093
+new zealand english,11.094737505048093
+test of independence,11.094737505048093
+word of corpus,11.094737505048093
+range of genre,11.094737505048093
 layer of annotation,11.094737505048093
-form of annotation,11.094737505048093
-source of datum,11.094737505048093
-santa barbara corpus,11.094737505048093
-study e g,11.094737505048093
-language usage,11.0
-graph distance,11.0
-meta analysis,11.0
-th percentile,11.0
+random effect model,11.094737505048093
+transcription of speech,11.094737505048093
+result of query,11.094737505048093
+number of verb,11.094737505048093
+bnc world edition,11.094737505048093
+define search expression,11.094737505048093
+case study chapter,11.094737505048093
+relationship word,11.0
+discourse study,11.0
+corpus corpora,11.0
+case corpus,11.0
+corpora use,11.0
+language community,11.0
 speaker turn,11.0
+learner use,11.0
+text production,11.0
+result file,11.0
+question corpus,11.0
+value level,11.0
+difference mean,11.0
+structure datum,11.0
+matrix clause,11.0
+corpus consists,11.0
+interaction effect,11.0
+study shows,11.0
+variationist sociolinguistics,11.0
+collocation box,11.0
+change language,11.0
+angle bracket,11.0
 research corpus,11.0
-corpus researcher,11.0
-language analysis,11.0
-search engine,11.0
-word example,11.0
-capital letter,11.0
-exercise try,11.0
-contains sample,11.0
-file manager,11.0
-data object,11.0
-frequency table,11.0
-speech pos,11.0
-text need,11.0
-operating system,11.0
-ice corpora,11.0
-markup language,11.0
-speaker b,11.0
-datum need,11.0
-em em b er,10.0
-detail section,10.0
-instance corpus,10.0
-search box,10.0
-distance measure,10.0
-word time,10.0
+language pair,11.0
+let briefly,11.0
+permission use,11.0
+language usage,11.0
+rank sum,11.0
+speaker sex,11.0
+file word,11.0
+v w,11.0
+element corpus,11.0
+approach study,11.0
+keyword context,11.0
+speaker group,11.0
+word embedding,11.0
+gardner davies,11.0
+graph distance,11.0
+keyword procedure,11.0
+particle placement,11.0
+complement clause,11.0
+student report,11.0
+tone unit,11.0
+quotation mark,11.0
+sentence length,11.0
+corpus construction,11.0
+language production,11.0
+speaker use,10.0
+vector factor,10.0
+language description,10.0
 matrix row,10.0
-relative frequency of word,10.0
-n dimensional datum matrix,10.0
-k vector,10.0
-generation corpus,10.0
-k cluster,10.0
-vector x,10.0
-change language,10.0
-document collection,10.0
-genre categorization,10.0
-basic concept corpus linguistics,10.0
-language community,10.0
-data analysis,10.0
-probability ratio,10.0
-permission use,10.0
-solution problem,10.0
-text production,10.0
-word instance,10.0
-datum manifold,10.0
-speech category,10.0
-reference corpora,10.0
-total number of word,10.0
-situational characteristic of text,10.0
+stance feature,10.0
 byu interface,10.0
-time frame,10.0
-level of analysis,9.509775004326936
-euclidean distance matrix,9.509775004326936
-nature of datum,9.509775004326936
-purpose of corpus,9.509775004326936
-set of word,9.509775004326936
-dimensionality reduction method,9.509775004326936
-mixed effect regression,9.509775004326936
-list of collocate,9.509775004326936
-create frequency list,9.509775004326936
-multi word unit,9.509775004326936
+xml format,10.0
+tertium comparationis,10.0
+example sentence,10.0
+tag corpus,10.0
+step process,10.0
+ice component,10.0
+n dimensional datum matrix,10.0
+web corpora,10.0
+speech category,10.0
+research language,10.0
+search box,10.0
+basic concept corpus linguistics,10.0
+time text,10.0
+cluster validation,10.0
+different type of annotation,10.0
+k vector,10.0
+base form of verb,10.0
+corpus source,10.0
+cluster tree,10.0
+discourse type,10.0
+type occur,10.0
+corpus resource,10.0
+difference way,10.0
+current state of art,10.0
+th percentile,10.0
+em em b er,10.0
+relative frequency of word,10.0
+research agenda,10.0
+datum need,10.0
+need corpus,10.0
+research topic,10.0
+child autism spectrum disorder,10.0
+web datum,10.0
+different type of datum,10.0
+fact corpus,10.0
+form function,10.0
+situational characteristic of text,10.0
+way use,10.0
+genre categorization,10.0
+datum corpora,10.0
+technique corpus,10.0
+probability ratio,10.0
+language method,10.0
+test result,10.0
+speaker sample,10.0
+datum type,10.0
+word meaning,10.0
+discipline level of instruction,10.0
+datum manifold,10.0
+text need,10.0
+presence absence,10.0
+cluster analysis hypothesis generation,10.0
+word collocate,10.0
+language structure,10.0
+corpus order,10.0
+language system,10.0
+function definition,10.0
+difference distribution,10.0
+corpus builder,10.0
+software application,10.0
+address research question,9.509775004326936
+attribute of vector,9.509775004326936
+multimodal corpus research,9.509775004326936
+empirical case study,9.509775004326936
+area of grammar,9.509775004326936
+logistic regression analysis,9.509775004326936
+representative research question,9.509775004326936
+cluster analysis method,9.509775004326936
+genre text type,9.509775004326936
+piece of text,9.509775004326936
+general reference corpus,9.509775004326936
+unit of language,9.509775004326936
+frequency of construction,9.509775004326936
+plot pca pca,9.509775004326936
 metalinguistic language use,9.509775004326936
+quality of result,9.509775004326936
+euclidean distance matrix,9.509775004326936
+point of departure,9.509775004326936
+corpus of language,9.509775004326936
+kind of result,9.509775004326936
+english lingua franca,9.509775004326936
+philosophy of science,9.509775004326936
+case of collocation,9.509775004326936
+development of language,9.509775004326936
+specialized word list,9.509775004326936
+cross tabulation table,9.509775004326936
+reliability of annotation,9.509775004326936
+number of degree,9.509775004326936
+level of formality,9.509775004326936
+lot of time,9.509775004326936
+corpus linguistics literature,9.509775004326936
+corpora of english,9.509775004326936
+vector space v,9.509775004326936
+study of grammar,9.509775004326936
+foreign language learner,9.509775004326936
+significant difference group,9.509775004326936
+number of problem,9.509775004326936
+type of exercise,9.509775004326936
 certain research question,9.509775004326936
-linguistics language technology,9.509775004326936
-contemporary american english coca corpus,9.287712379549449
-british national corpus bnc corpus,9.287712379549449
-research agenda,9.0
-mann whitney,9.0
-change time,9.0
-accuracy rate,9.0
-cluster c,9.0
-analysis section,9.0
-word count,9.0
-distance mean,9.0
-language production,9.0
-cluster validation,9.0
-collocation network,9.0
-google books,9.0
-corpus generation,9.0
-childes database,9.0
-keyword procedure,9.0
+rest of chapter,9.509775004326936
+actual language use,9.509775004326936
+social medium platform,9.509775004326936
+lexical co occurrence,9.509775004326936
+small sample size,9.509775004326936
+double square bracket,9.509775004326936
+variable importance score,9.509775004326936
+use of stance,9.509775004326936
+numeric dependent variable,9.509775004326936
+non standard use,9.509775004326936
+number of collocate,9.509775004326936
+extensible markup language,9.509775004326936
 stress function,9.0
-project chapter,9.0
-register variation,9.0
-research hypothesis,9.0
-corpus designer,9.0
-c unit,9.0
+r function,9.0
+bnc baby,9.0
+word pattern,9.0
+research issue,9.0
+corpus example,9.0
+line line,9.0
+frequency value,9.0
+research purpose,9.0
+case group,9.0
+corpus generation,9.0
+distribution corpus,9.0
+variation corpus,9.0
+article type,9.0
+research context,9.0
+corpus technique,9.0
+wh clause,9.0
+corpus time,9.0
+dispersion corpus,9.0
 parameter value,9.0
-data set,9.0
-project gutenberg,9.0
-source language,9.0
-section focus,8.0
-revision question,8.0
-research application,8.0
-datum method,8.0
-context word,8.0
-element corpus,8.0
-score group,8.0
-corpus contains word sample,8.0
-research purpose,8.0
-way example,8.0
-work text,8.0
-dimension score,8.0
-corpus consists,8.0
-linguistic characteristic of text,8.0
-text b,8.0
-basis normalization,8.0
-input space,8.0
-occurrence corpus,8.0
-native speaker of language,8.0
-context menu,8.0
-file name,8.0
-datum help,8.0
-language instance,8.0
-base form of verb,8.0
-different variety of english,8.0
+verb construction,9.0
+error rate,9.0
+sentence structure,9.0
+dimension score,9.0
+distance mean,9.0
+feature text,9.0
+research field,9.0
+training datum,9.0
+document collection,9.0
+type corpus,9.0
+value cell,9.0
+collocate display,9.0
+kendall tau,9.0
+type word,9.0
+length word,9.0
+jane austen,9.0
+row name,9.0
+problem corpus,9.0
+word turn,9.0
+corpus designer,9.0
+present study,9.0
+research report,9.0
+vector length,9.0
+fichtner c,9.0
+corpus development,9.0
+rank position,9.0
+language context,9.0
+research paper,9.0
+f score,9.0
+comment exercise,9.0
+c unit,9.0
+publication bias,9.0
+input file,9.0
+cross tabulation,9.0
+search pattern,9.0
+language analysis,9.0
+corpus differ,9.0
+factor level,9.0
+mosaic plot,8.0
+function name,8.0
+english norwegian parallel corpus,8.0
+family word,8.0
+access element,8.0
+element vector,8.0
+discussion section,8.0
+counsel phase,8.0
+address problem,8.0
+argument specifies,8.0
+homoform multi word unit,8.0
+different type of language,8.0
+file save,8.0
+grammar pattern,8.0
+capital letter,8.0
+merriam webster,8.0
+post test,8.0
+case point,8.0
+different type of information,8.0
+minimum co occurrence frequency,8.0
+method study,8.0
+hour week,8.0
+form meaning,8.0
+error analysis,8.0
+search function,8.0
+tend use,8.0
 judgement variable,8.0
-corpus creator,8.0
+fact word,8.0
+small set of word,8.0
+task corpus,8.0
+linguistic characteristic of text,8.0
+annotation layer,8.0
+token word,8.0
 different form of verb,8.0
-section discuss,8.0
-e ps,8.0
-datum type,8.0
+value table,8.0
+contains sample,8.0
+datum help,8.0
+ice usa,8.0
+information file,8.0
+time bnc,8.0
+space character,8.0
 research result,8.0
-word frequent,8.0
-different type of annotation,8.0
-large amount of text,8.0
-pronoun zero,8.0
+reference level,8.0
 different type of text,8.0
-row total,8.0
-probability of outcome,7.92481250360578
-availability of text,7.92481250360578
-lot of information,7.92481250360578
-idea of corpus,7.92481250360578
-linear regression model,7.92481250360578
-range of genre,7.92481250360578
+feature corpus,8.0
+r package,8.0
+avoid problem,8.0
+example study,8.0
+revision question,8.0
+e ps,8.0
+bogus refugee,8.0
+hampe sch,8.0
+distance vector,8.0
+frequency range,8.0
+data creation,8.0
+sub discipline of linguistics,8.0
+different part of world,8.0
+binary logistic regression model,8.0
+research tool,8.0
+word cluster,8.0
+major point of criticism,8.0
+second line of code,8.0
+effective degree of freedom,8.0
+speaker hearer,8.0
+approach use,8.0
+rchoose dir define directory,8.0
+clear memory define load,8.0
+order test,8.0
+role play,8.0
+student use,8.0
+optimal random effect structure,8.0
+research interest,8.0
+speech corpora,8.0
+error correction,8.0
+query corpus,8.0
+phi cram r v,8.0
+cluster c,8.0
+frequency rank,8.0
+word structure,8.0
+character sequence,8.0
+large collection of text,8.0
+construction grammar,8.0
+word appear,8.0
+large number of word,8.0
+input space,8.0
+compute dp,8.0
+section presents,8.0
+practical guide r section,8.0
+basis normalization,8.0
+regression line,8.0
+literature review,8.0
+text contains,8.0
+large amount of text,8.0
+result corpus,8.0
+hapax legomenon,8.0
+linguistics language technology,7.92481250360578
+level of corpus,7.92481250360578
+proportion of language,7.92481250360578
+different age group,7.92481250360578
 metadata of corpus,7.92481250360578
-corpora of english,7.92481250360578
-structure phrase clause,7.92481250360578
-unit of measurement,7.92481250360578
-word of corpus,7.92481250360578
-corpus of language,7.92481250360578
-new zealand english,7.92481250360578
+small scale study,7.92481250360578
+tree building sequence,7.92481250360578
+availability of text,7.92481250360578
+consideration of space,7.92481250360578
+intrinsic cluster structure,7.92481250360578
+word form mind,7.92481250360578
+metaphorical pattern analysis,7.92481250360578
+different research question,7.92481250360578
 different time period,7.92481250360578
-discussion of datum,7.92481250360578
-frequency of use,7.92481250360578
-purpose of study,7.92481250360578
-natural science mean,7.92481250360578
-transcription of text,7.92481250360578
+dimensional vector space,7.92481250360578
+passive voice sentence,7.92481250360578
+description of language,7.92481250360578
+future direction chapter,7.92481250360578
+design of corpus,7.92481250360578
+phenomenon of interest,7.92481250360578
+complete linkage distance,7.92481250360578
+statistic corpus linguistics,7.92481250360578
+sample standard deviation,7.92481250360578
+idea of corpus,7.92481250360578
+difference man woman,7.92481250360578
+evolution of language,7.92481250360578
 right of word,7.92481250360578
-beginning of chapter,7.92481250360578
-significant difference use,7.92481250360578
-real world object,7.92481250360578
-kind of annotation,7.92481250360578
-reduced dimensionality representation,7.92481250360578
-variance of v,7.92481250360578
-kind of speech,7.92481250360578
-le monde corpus,7.92481250360578
-digital humanity corpus,7.92481250360578
+frequent co occurrence,7.92481250360578
+corpus of tweet,7.92481250360578
+modifier of possessive,7.92481250360578
+number of clause,7.92481250360578
+corpora of language,7.92481250360578
+group of language,7.92481250360578
+set of feature,7.92481250360578
+multi party dialogue,7.92481250360578
 representation of domain,7.92481250360578
-replication crisis,7.0
-detail chapter,7.0
-corpus statistic,7.0
-research study,7.0
-result corpus,7.0
-bnc contains,7.0
-news talk,7.0
-bnc coca,7.0
+kind of variation,7.92481250360578
+kind of speech,7.92481250360578
+word processing program,7.92481250360578
+set of question,7.92481250360578
+transcription of text,7.92481250360578
+central tendency measure,7.92481250360578
+type of search,7.92481250360578
+real world object,7.92481250360578
+computational method tool,7.92481250360578
+le monde corpus,7.92481250360578
+population sample drawn,7.92481250360578
+significant difference use,7.92481250360578
+word of interest,7.92481250360578
+natural science mean,7.92481250360578
+view of language,7.92481250360578
+white house press,7.92481250360578
+second generation corpus,7.92481250360578
+different mother tongue,7.92481250360578
+reason of space,7.92481250360578
+range of language,7.92481250360578
+proportion of text,7.92481250360578
+choice of corpus,7.92481250360578
+type of bias,7.92481250360578
+form of analysis,7.92481250360578
+percent of word,7.92481250360578
+number of factor,7.92481250360578
+high token frequency,7.92481250360578
+digital humanity corpus,7.92481250360578
+critical discourse analysis,7.92481250360578
+cram r v,7.92481250360578
+probability of occurrence,7.92481250360578
+number of example,7.92481250360578
+study of kind,7.92481250360578
+statistical software package,7.92481250360578
+categorical dependent variable,7.92481250360578
+occurrence of character,7.92481250360578
+main subordinate clause,7.92481250360578
+probability of outcome,7.92481250360578
+type of graph,7.92481250360578
+data structure r,7.92481250360578
+computational tool method,7.92481250360578
+variance of v,7.92481250360578
+reduced dimensionality representation,7.92481250360578
+area of corpus,7.92481250360578
+notion of corpus,7.92481250360578
+research question study,7.92481250360578
+level of significance,7.92481250360578
+number of year,7.92481250360578
+discussion of datum,7.92481250360578
+sum of value,7.92481250360578
+context of language,7.92481250360578
+sample of study,7.92481250360578
 writer speaker,7.0
-datum researcher,7.0
-datum use,7.0
-order use,7.0
-difference way,7.0
-section corpus,7.0
-language context,7.0
-book book,7.0
-text contains,7.0
-collocation word,7.0
-core point,7.0
-frequency analysis,7.0
+work text,7.0
+access datum,7.0
+information value,7.0
+probability value,7.0
+student presentation,7.0
+core corpus,7.0
+information table,7.0
 point manifold,7.0
-error rate,7.0
-text chapter,7.0
-correspondence plot,7.0
-word need,7.0
-datum case,7.0
-research report,7.0
-corpus kind,7.0
-file corpus,7.0
-quirk corpus,7.0
-example example,7.0
-character word,7.0
-hand hand,7.0
-data creation,7.0
-datum corpora,7.0
-speech corpora,7.0
+structure corpus,7.0
+level annotation,7.0
+study design,7.0
+gender difference,7.0
+word formation,7.0
+analysis section,7.0
+category label,7.0
+distribution text,7.0
+variation datum,7.0
+example section,7.0
+frequency comparison,7.0
+character range,7.0
+portmanteau tag,7.0
+research method,7.0
+language speaker,7.0
+distance relation,7.0
+access part,7.0
+information datum,7.0
+relation word,7.0
+datum exploration,7.0
+difference length,7.0
+sentence corpus,7.0
 document type,7.0
-comparable corpora parallel,6.339850002884624
-different age group,6.339850002884624
-main limitation use,6.339850002884624
-linguistic research question,6.339850002884624
-lot of time,6.339850002884624
-year of residence,6.339850002884624
-number of example,6.339850002884624
-observed language use,6.339850002884624
-linguistic datum analysis,6.339850002884624
-set of k,6.339850002884624
-second person pronoun,6.339850002884624
-cophenetic correlation coefficient,6.339850002884624
-proportion of text,6.339850002884624
-different text type,6.339850002884624
-learner corpus datum,6.339850002884624
-string of character,6.339850002884624
-intrinsic cluster structure,6.339850002884624
-statistical test use,6.339850002884624
-different research question,6.339850002884624
-n datum matrix,6.339850002884624
-notion of corpus,6.339850002884624
-quantitative corpus study,6.339850002884624
-natural language text,6.339850002884624
-record of text,6.339850002884624
-number of column,6.339850002884624
-part of word,6.339850002884624
-dropdown list click,6.339850002884624
-spoken of bnc,6.339850002884624
-variable dependent variable,6.339850002884624
-text display score,6.339850002884624
-extensible markup language,6.339850002884624
-particular word class,6.339850002884624
-quantitative corpus linguistics,6.339850002884624
-frequent co occurrence,6.339850002884624
-set of feature,6.339850002884624
-type of search,6.339850002884624
+speaker cluster,7.0
+replication crisis,7.0
+quirk corpus,7.0
+discourse context,7.0
+number character,7.0
+code editor,7.0
+reference grammar,7.0
+query option,7.0
+university student,7.0
+horror aequi,7.0
+decision tree,7.0
+datum text,7.0
+query string,7.0
+news talk,7.0
+core point,7.0
+coin flip,7.0
+word use,7.0
+research team,7.0
+word right,7.0
+keyness analysis,7.0
+use frequency,7.0
+pattern corpus,7.0
+visualisation technique,7.0
+effect plot,7.0
+conversation analysis,7.0
+need create,7.0
+text b,7.0
+rank group,7.0
+ad hoc,7.0
+newspaper language,7.0
+newspaper corpus,7.0
+correspondence plot,7.0
+xml version,7.0
+multiword unit,7.0
+translation choice,7.0
+p cluster,7.0
+target child,7.0
+translation language,7.0
+radio phone,7.0
+data vector,7.0
+match character,7.0
+computer corpus,7.0
+target item,7.0
+example word,7.0
+metadata corpus,7.0
+stefanowitsch gries,7.0
+source of information,6.339850002884624
+corpus file dir,6.339850002884624
+percent of variation,6.339850002884624
+particular research project,6.339850002884624
+percent of datum,6.339850002884624
 key item analysis,6.339850002884624
-unit of language,6.339850002884624
-cause time factor,6.339850002884624
+pattern of word,6.339850002884624
+co citation analysis,6.339850002884624
+natcorp ox ac,6.339850002884624
+type ii error,6.339850002884624
+second level predictor,6.339850002884624
+element of text,6.339850002884624
+previous case study,6.339850002884624
 peak trough technique,6.339850002884624
-chronological variation research,6.339850002884624
+approach language analysis,6.339850002884624
+mean score group,6.339850002884624
+quality of corpus,6.339850002884624
+text display score,6.339850002884624
+independent dependent variable,6.339850002884624
+order of presentation,6.339850002884624
+number of hour,6.339850002884624
+need of researcher,6.339850002884624
+language acquisition research,6.339850002884624
+argument character vector,6.339850002884624
+meaning of sentence,6.339850002884624
+linguistic feature corpus,6.339850002884624
+related corpus linguistics,6.339850002884624
+digital scholar lab,6.339850002884624
+argument vector factor,6.339850002884624
+part of datum,6.339850002884624
+remainder of book,6.339850002884624
+iteration of loop,6.339850002884624
+multiple element vector,6.339850002884624
+user of corpora,6.339850002884624
+differential collexeme analysis,6.339850002884624
+child language datum,6.339850002884624
+recursive partitioning method,6.339850002884624
+word of caution,6.339850002884624
+significance of difference,6.339850002884624
+v link adj,6.339850002884624
+particular point time,6.339850002884624
+annotation of datum,6.339850002884624
+change search term,6.339850002884624
+particular language variety,6.339850002884624
+section of book,6.339850002884624
+predictor of interest,6.339850002884624
+particular word class,6.339850002884624
 degree of relatedness,6.339850002884624
+range of method,6.339850002884624
+specific language impairment,6.339850002884624
+quantitative corpus study,6.339850002884624
+main limitation use,6.339850002884624
+year of residence,6.339850002884624
+frequency class number,6.339850002884624
+spoken language corpora,6.339850002884624
+corpus contain text,6.339850002884624
+different research project,6.339850002884624
+different text type,6.339850002884624
+set of factor,6.339850002884624
+application of chi,6.339850002884624
+flip coin time,6.339850002884624
+possessive modifier discourse,6.339850002884624
+discuss detail section,6.339850002884624
+record of text,6.339850002884624
 individual speech writing,6.339850002884624
-speech instance,6.0
-feature corpus,6.0
-adjective cheap frugal thrifty,6.0
-different type of language,6.0
-value mean,6.0
-uk english usage projects,6.0
-complete following step step,6.0
-trump twitter,6.0
-information table,6.0
-search pattern,6.0
-course use,6.0
-test statistic,6.0
-quantitative analysis of corpora,6.0
+phase of interaction,6.339850002884624
+cluster analysis corpus,6.339850002884624
+variable column variable,6.339850002884624
+majority of example,6.339850002884624
+definition of similarity,6.339850002884624
+ment type database,6.339850002884624
+different point time,6.339850002884624
+mean of sum,6.339850002884624
+chronological variation research,6.339850002884624
+observed language use,6.339850002884624
+lexical decision task,6.339850002884624
+wall street journal,6.339850002884624
+occurrence of verb,6.339850002884624
+group of learner,6.339850002884624
+wiggly basis function,6.339850002884624
+use corpus datum,6.339850002884624
+high frequency vocabulary,6.339850002884624
+important role play,6.339850002884624
+corpus linguistics paper,6.339850002884624
+statistical test use,6.339850002884624
+aspect of research,6.339850002884624
+annotation corpus datum,6.339850002884624
+comparison of frequency,6.339850002884624
+inspection of concordance,6.339850002884624
+define character class,6.339850002884624
+measure of association,6.339850002884624
+notion of word,6.339850002884624
+family of method,6.339850002884624
+null hypothesis significance,6.339850002884624
+file name directory,6.339850002884624
+certain text type,6.339850002884624
+individual feature approach,6.339850002884624
+corpus retrieval software,6.339850002884624
+type of material,6.339850002884624
+available companion website,6.339850002884624
+block of code,6.339850002884624
+lemma word family,6.339850002884624
+cause time factor,6.339850002884624
+lexical constructional bias,6.339850002884624
+datum data frame,6.339850002884624
+set of k,6.339850002884624
+version of script,6.339850002884624
+social medium language,6.339850002884624
+form of plain,6.339850002884624
+low frequency word,6.339850002884624
+indication of speaker,6.339850002884624
+frequent word corpus,6.339850002884624
+matter of degree,6.339850002884624
+available sketch engine,6.339850002884624
+second language variety,6.339850002884624
+example of text,6.339850002884624
+family of corpora,6.339850002884624
+modern corpus linguistics,6.339850002884624
+type of resource,6.339850002884624
+statistical analysis determine,6.339850002884624
+statistic corpus datum,6.339850002884624
+lexical frequency profile,6.339850002884624
+need of study,6.339850002884624
+level of granularity,6.339850002884624
+high quality recording,6.339850002884624
+eighteenth century collection,6.339850002884624
+result of comparison,6.339850002884624
+mean of value,6.339850002884624
+word morpheme,6.0
+diachronic study,6.0
+score dataset,6.0
+total number of hit,6.0
+function table,6.0
+television radio,6.0
+table create frequency list,6.0
 inner product of vector,6.0
-word corpora,6.0
-example look,6.0
-structure datum,6.0
-large number of case,6.0
-student use,6.0
-language cf,6.0
-form function,6.0
+trump twitter,6.0
 order representative,6.0
-register distribution,6.0
-english usage university college,6.0
-speaker use,6.0
-computer corpus,6.0
-unlimited number of time,6.0
-word meaning,6.0
+observer paradox,6.0
+gender balance,6.0
+news agency,6.0
+distance cluster,6.0
+load prepare corpus file,6.0
+time week,6.0
 translation universal,6.0
-chapter provide,6.0
-datum language,6.0
-symposium presentation,6.0
-medium file,6.0
-english norwegian parallel corpus,6.0
-language way,6.0
-n gram word cluster,6.0
-word language,6.0
-situational feature of text,6.0
-design principle,6.0
-annotation manual,6.0
-american component of ice,6.0
-independent variable class size,6.0
-p cluster,6.0
-text content,6.0
-significant coefficient female versus,6.0
-column contains,6.0
-value cell,6.0
-lexical richness of corpus,6.0
+respondent age,6.0
 article english,6.0
-language system,6.0
-web datum,6.0
-different portion of corpus,6.0
+conclusion drawn,6.0
+concordance search,6.0
+way language,6.0
+symposium presentation,6.0
+frequency change,6.0
+datum use,6.0
+discourse structure,6.0
+assign label,6.0
+quantitative analysis of corpora,6.0
+uk english usage projects,6.0
+construction pattern,6.0
+r script,6.0
+medium file,6.0
+collocation word,6.0
+way search,6.0
+annotation manual,6.0
+single tree fit datum,6.0
+language works,6.0
+study area,6.0
+american component of ice,6.0
+strength weakness,6.0
+design principle,6.0
+saw section,6.0
+analysis procedure,6.0
+bonferroni correction,6.0
+optimal fixed effect structure,6.0
+look case,6.0
+collocation measure,6.0
+ice corpus,6.0
+intonation unit,6.0
+frequency frequency,6.0
+corpus offer,6.0
+line word,6.0
+significant coefficient female versus,6.0
+contour line,6.0
+point data,6.0
+section chapter,6.0
+issue challenge,6.0
+transcription convention,6.0
+vast majority of corpus,6.0
+john benjamins,6.0
+approach problem,6.0
+word file,6.0
+cumulative percentage of variance,6.0
+vector qwe,6.0
+different measure of dispersion,6.0
+methodology corpus,6.0
+xml tag,6.0
+value mean,6.0
+situational feature of text,6.0
+dispersion plot,6.0
+annotation standard,6.0
+linguistic variable of interest,6.0
+association word,6.0
+large number of case,6.0
+column name,6.0
+lexical richness of corpus,6.0
+perl python,6.0
+random co occurrence baseline,6.0
+observed frequency of collocation,6.0
 total number of token,6.0
-quantitative method corpus linguistics,6.0
-rank group,6.0
-solution workaround,6.0
+case word,6.0
+value corpus,6.0
 example illustrates,6.0
-speaker e,6.0
+result study,6.0
+corpus hand,6.0
+item structure,6.0
+case variable,6.0
+www laurenceanthony net software,6.0
+coca bnc,6.0
+sentence word,6.0
+information frequency,6.0
+methodology study,6.0
+cross validation,6.0
+work corpora,6.0
+chapter focuses,6.0
+use lot,6.0
+word time,6.0
+v v,6.0
+conduct corpus,6.0
+scent term reuk geur,6.0
+language research,6.0
+corpus consultation,6.0
+result vector,6.0
+error annotation,6.0
+male speaker female speaker,6.0
+corpus metadata,6.0
+word differ,6.0
+course use,6.0
+verb cause,6.0
+rissanen problem,6.0
+dependency relation,6.0
+unlimited number of time,6.0
+regression equation,6.0
+text content,6.0
+different level of annotation,6.0
+step corpus,6.0
+line number,6.0
+look information,6.0
+word language,6.0
 language rule,6.0
-probability value,6.0
-word average,5.0
+corpus reflect,6.0
+verb occurs,6.0
+co uk,6.0
+different variety of language,6.0
+order use,6.0
+hardware software,6.0
+data value,6.0
+word context,6.0
+datum bnc,6.0
+calculate lexical dispersion corpus,6.0
+solution workaround,6.0
+datum language,6.0
+output vector,6.0
+start tag,6.0
+wide range of text,6.0
+frequency column,6.0
+demographic information speaker writer,6.0
+conditional variable importance score,6.0
+ing form of verb,6.0
+voice quality,6.0
+different portion of corpus,6.0
+grammatical category of word,6.0
+corpus interface,6.0
+large number of people,6.0
+frequency of co,5.811529169310906
 fiction genre,5.0
-chapter focuses,5.0
-lengthwise quantile,5.0
-result frequency,5.0
-construction grammar,5.0
-number n,5.0
-issue encounter,5.0
-research article,5.0
-file use,5.0
-turn turn,5.0
-variation corpus,5.0
-text use,5.0
-look information,5.0
-word issue,5.0
-datum exercise,5.0
-sherlock holmes,5.0
-poisson process,5.0
-metadata corpus,5.0
-xml version,5.0
+context use,5.0
+language family,5.0
+form text,5.0
+search hit,5.0
+annotation category,5.0
+ice contains,5.0
+phenomenon study,5.0
+search form,5.0
+coordinate system,5.0
+size composition,5.0
+bootstrap sample,5.0
+cluster result,5.0
+target feature,5.0
+translation shift,5.0
+check code,5.0
+phenomenon x,5.0
+vector list,5.0
+language way,5.0
+research trend,5.0
+research paradigm,5.0
+target audience,5.0
+list vector,5.0
 difference text,5.0
-exercise n,5.0
-university student,5.0
-word appear,5.0
-way use,5.0
-wider range,5.0
+vector r,5.0
+result discussion,5.0
+visualization technique,5.0
+text order,5.0
+laurence anthony,5.0
+particle verb,5.0
+feature time,5.0
+exclamation mark,5.0
+word usage,5.0
+case datum,5.0
+use tag,5.0
+tree structure,5.0
+sex age,5.0
+study begin,5.0
+way word,5.0
+book journal,5.0
+point space,5.0
+probability theory,5.0
+word string,5.0
+reason use,5.0
+press conference,5.0
+point corpus,5.0
+analysis technique,5.0
+period sample,5.0
+respect datum,5.0
+value vector,5.0
+background information,5.0
+length limit,5.0
+year france,5.0
+context menu,5.0
+word end,5.0
+text contain,5.0
+explore detail,5.0
+data annotation,5.0
+entity recognition,5.0
+introduce study,5.0
+keyword theme,5.0
+collocate slot,5.0
+language world,5.0
+design criterion,5.0
+type error,5.0
+news text,5.0
+twitter post,5.0
+description theory,5.0
+matrix table,5.0
+world knowledge,5.0
+boy girl,5.0
+example use,5.0
+corpus needs,5.0
+register parameter,5.0
+verb begin,5.0
+correlation matrix,5.0
+dimension inspect,5.0
+citation analysis,5.0
+hesitation marker,5.0
+word document,5.0
+stress pattern,5.0
+cluster shape,5.0
+twitter corpus,5.0
+sort result,5.0
+sentence type,5.0
+keyword key,5.0
+calculate distance,5.0
+closeness pair,5.0
+hit rate,5.0
+word contain,5.0
+problem arises,5.0
+plot ecdf,5.0
+row contain,5.0
+coca coha,5.0
+word gram,5.0
+probability p,5.0
+lengthwise quantile,5.0
+collocate node,5.0
+use argument,5.0
+bivariate design,5.0
+vector contains,5.0
+introduction r,5.0
+column table,5.0
+perform search,5.0
+poisson process,5.0
+search option,5.0
+lattice cell,5.0
+intuition datum,5.0
+uses datum,5.0
 noise point,5.0
-corpus determine,5.0
-corpus issue,5.0
-word right,5.0
+register research,5.0
+index value,5.0
+loglength type,5.0
+look file,5.0
+time interval,5.0
+balance representativeness,5.0
+sentence boundary,5.0
+approach dialectology,5.0
 behaviour profile,5.0
-distance relation,5.0
-node word,5.0
-language pattern,5.0
-collocation measure,5.0
-z score,5.0
-section explore,5.0
-p q,5.0
-bnc corpus,5.0
-case number,5.0
-language works,5.0
-chapter basic,5.0
+issue encounter,5.0
+look study,5.0
+approach analysis,5.0
+translation process,5.0
+baseline model,5.0
+hand hand,5.0
+telephone conversation,5.0
+word beginning,5.0
+language contact,5.0
+space punctuation,5.0
+corpus meant,5.0
+sherlock holmes,5.0
+stem type,5.0
+bilingualism score,5.0
+corpus vary,5.0
+sla study,5.0
+collocation graph,5.0
+second problem,5.0
+question consider,5.0
+ambiguity tag,5.0
 comma dash,5.0
-datum e,5.0
-datum let,5.0
-critical discourse analysis,4.754887502163468
-attribute value pair,4.754887502163468
-proportion of tweet,4.754887502163468
-indication of speaker,4.754887502163468
-english speaking learner,4.754887502163468
-set of value,4.754887502163468
-linguistic feature co,4.754887502163468
-datum collection phase,4.754887502163468
-possible look occurrence,4.754887502163468
-age of year,4.754887502163468
-feature of intonation,4.754887502163468
-qualitative corpus analysis,4.754887502163468
-different mother tongue,4.754887502163468
-native speaker status,4.754887502163468
-html cc html,4.754887502163468
-simple corpus tool,4.754887502163468
-average linkage tree,4.754887502163468
-natcorp ox ac,4.754887502163468
-dbscan k mean,4.754887502163468
-language datum information,4.754887502163468
-individual text sample,4.754887502163468
-natural language speech,4.754887502163468
-ethnographic information individual,4.754887502163468
-variable extraction method,4.754887502163468
-english ice gb,4.754887502163468
-simple pos tagger,4.754887502163468
-proper noun nnp,4.754887502163468
-word tag combination,4.754887502163468
-mean of sum,4.754887502163468
-brown corpus corpus,4.754887502163468
-relevant datum corpus,4.754887502163468
-neuch tel jura,4.754887502163468
-interest context probability,4.754887502163468
-word of interest,4.754887502163468
-independent dependent variable,4.754887502163468
-different language corpus,4.754887502163468
-n gram size,4.754887502163468
-difficult time consuming,4.754887502163468
-individual text file,4.754887502163468
-logistic regression model,4.754887502163468
-sense of datum,4.754887502163468
-different language variety,4.754887502163468
-black south africans,4.754887502163468
-closed class word,4.754887502163468
-facet of language,4.754887502163468
-social medium post,4.754887502163468
-source of information,4.754887502163468
-corpus concordance line,4.754887502163468
-development of language,4.754887502163468
-sum of value,4.754887502163468
-small sample size,4.754887502163468
-null hypothesis p,4.754887502163468
-significant difference group,4.754887502163468
+test difference,5.0
+word register,5.0
+association strength,5.0
+language question,5.0
+click cell,5.0
+word co,4.916666666666668
+mean sentence length,4.754887502163468
+expected frequency cell,4.754887502163468
+set of sense,4.754887502163468
+observation of language,4.754887502163468
 element of subjectivity,4.754887502163468
-linguistic feature corpus,4.754887502163468
-formulate research question,4.754887502163468
+range of issue,4.754887502163468
+daily mail reader,4.754887502163468
+level of proficiency,4.754887502163468
+corpus linguistics investigation,4.754887502163468
+different research design,4.754887502163468
+question of nativity,4.754887502163468
+r of course,4.754887502163468
+proportion of variance,4.754887502163468
+grep returns position,4.754887502163468
+degree of association,4.754887502163468
+element of bb,4.754887502163468
+different corpus part,4.754887502163468
+percentage of text,4.754887502163468
+sc length diff,4.754887502163468
+direction of effect,4.754887502163468
+natural language speech,4.754887502163468
+fragment of reality,4.754887502163468
+single square bracket,4.754887502163468
+dimensional contingency table,4.754887502163468
+important issue corpus,4.754887502163468
+raw text file,4.754887502163468
+series of command,4.754887502163468
+source of variation,4.754887502163468
+current multimodal corpus,4.754887502163468
+number of part,4.754887502163468
+order of frequency,4.754887502163468
+word occur time,4.754887502163468
+token text corpus,4.754887502163468
+collocate word co,4.754887502163468
+start end tag,4.754887502163468
+upper right corner,4.754887502163468
+residual standard error,4.754887502163468
+geographical variation research,4.754887502163468
 frequency of person,4.754887502163468
-logistic regression technique,4.754887502163468
-specific research goal,4.754887502163468
-use of pos,4.754887502163468
-multilingual language use,4.754887502163468
-corpus annotation chapter,4.754887502163468
-common corpus linguistics,4.754887502163468
-prompt input material,4.754887502163468
+native learner corpus,4.754887502163468
+closed class word,4.754887502163468
+different classification approach,4.754887502163468
+corpus datum annotation,4.754887502163468
+subject random intercept,4.754887502163468
+beginning of section,4.754887502163468
+individual text file,4.754887502163468
+n gram size,4.754887502163468
+random effect factor,4.754887502163468
+th percentile means,4.754887502163468
+social medium post,4.754887502163468
+practical guide r,4.754887502163468
+regular expression search,4.754887502163468
+number of turn,4.754887502163468
+phonetic segment interview,4.754887502163468
+cluster analysis tool,4.754887502163468
+relevant research question,4.754887502163468
+involved production circumstance,4.754887502163468
+formulate research question,4.754887502163468
+mean square group,4.754887502163468
+high ttr value,4.754887502163468
+entire data set,4.754887502163468
+good corpus linguist,4.754887502163468
+u test kruskal,4.754887502163468
+ready corpus tool,4.754887502163468
+aggregate effect size,4.754887502163468
+different language register,4.754887502163468
+word brown corpus,4.754887502163468
+n gram word,4.754887502163468
+anonymous inline function,4.754887502163468
+mean word length,4.754887502163468
+value of cell,4.754887502163468
+area corpus linguistics,4.754887502163468
+spoken learner corpora,4.754887502163468
+set of cluster,4.754887502163468
+reliability of analysis,4.754887502163468
+effect size confidence,4.754887502163468
+type error rate,4.754887502163468
+normed frequency count,4.754887502163468
+case of hypothesis,4.754887502163468
+statistical significance testing,4.754887502163468
+corpus software program,4.754887502163468
+natural language text,4.754887502163468
+distribution of vector,4.754887502163468
+general purpose corpus,4.754887502163468
+return issue chapter,4.754887502163468
+transfer mother tongue,4.754887502163468
+apparent time study,4.754887502163468
+discussion of language,4.754887502163468
+trigger context menu,4.754887502163468
+facet of language,4.754887502163468
+ethnographic information individual,4.754887502163468
+extra line break,4.754887502163468
+simple corpus tool,4.754887502163468
+black south africans,4.754887502163468
+html cc html,4.754887502163468
+initial capital letter,4.754887502163468
+sense of datum,4.754887502163468
+negative character class,4.754887502163468
+individual text sample,4.754887502163468
+test result table,4.754887502163468
+simple pos tagger,4.754887502163468
+level of adequacy,4.754887502163468
+cambridge university press,4.754887502163468
+datum violate assumption,4.754887502163468
+stride of horse,4.754887502163468
+proportion of tweet,4.754887502163468
+linguistic feature co,4.754887502163468
+different word type,4.754887502163468
+distribution of occurrence,4.754887502163468
+different association measure,4.754887502163468
+social science research,4.754887502163468
+n gram method,4.754887502163468
+different text genre,4.754887502163468
+intensity of emotion,4.754887502163468
+speech recognition software,4.754887502163468
+consequence of fact,4.754887502163468
+feature of intonation,4.754887502163468
+corpus research area,4.754887502163468
+qualitative corpus analysis,4.754887502163468
+corpus contain sample,4.754887502163468
+normal distribution mean,4.754887502163468
+dropdown list click,4.754887502163468
+frequent content word,4.754887502163468
 form of expression,4.754887502163468
-short text problem,4.754887502163468
-number of row,4.754887502163468
-form of plain,4.754887502163468
-need of researcher,4.754887502163468
+available software implementation,4.754887502163468
+usefulness of corpora,4.754887502163468
+handful of text,4.754887502163468
+raw datum metadata,4.754887502163468
+parliamentary debate genre,4.754887502163468
+creator of corpus,4.754887502163468
+difficult time consuming,4.754887502163468
+applied corpus linguistics,4.754887502163468
+datum collection phase,4.754887502163468
+number of cell,4.754887502163468
+context frame rule,4.754887502163468
+specific research goal,4.754887502163468
+standard reference corpus,4.754887502163468
+lot of people,4.754887502163468
+speech of word,4.754887502163468
+english speaking learner,4.754887502163468
+compiler of corpus,4.754887502163468
+suitable parameter value,4.754887502163468
+real life language,4.754887502163468
+average linkage tree,4.754887502163468
+n gram analysis,4.754887502163468
+specific research purpose,4.754887502163468
+dbscan k mean,4.754887502163468
+english language corpora,4.754887502163468
+basic frequency list,4.754887502163468
+single word list,4.754887502163468
+co reference relation,4.754887502163468
+oslo bergen corpus,4.754887502163468
+textbook corpus linguistics,4.754887502163468
+set of example,4.754887502163468
+variable extraction method,4.754887502163468
+number of result,4.754887502163468
+expression like match,4.754887502163468
+multilingual language use,4.754887502163468
+example of pos,4.754887502163468
+scope of corpus,4.754887502163468
+raw datum table,4.754887502163468
+english speaking world,4.754887502163468
+handful of word,4.754887502163468
+use of hedge,4.754887502163468
+multivariate research design,4.754887502163468
+study research question,4.754887502163468
 part of name,4.754887502163468
-gender use,4.0
+individual word form,4.754887502163468
+word selection criterion,4.754887502163468
+different language background,4.754887502163468
+academic formula list,4.754887502163468
+use of capital,4.754887502163468
+cluster output analysis,4.754887502163468
+range of feature,4.754887502163468
+case rank value,4.754887502163468
+god truth fallacy,4.754887502163468
+active voice sentence,4.754887502163468
+slope stability analysis,4.754887502163468
+high frequency item,4.754887502163468
+use of pos,4.754887502163468
+n delaney collentine,4.754887502163468
+relevant datum corpus,4.754887502163468
+object of sentence,4.754887502163468
+envelope of variation,4.754887502163468
+open access publication,4.754887502163468
+method dimensionality reduction,4.754887502163468
+use of prominence,4.754887502163468
+neural network architecture,4.754887502163468
+state of affair,4.754887502163468
+major word class,4.754887502163468
+large scale study,4.754887502163468
+present case study,4.754887502163468
+component of bnc,4.754887502163468
+purpose of chapter,4.754887502163468
+linguistic research design,4.754887502163468
+old man use,4.754887502163468
+problem of course,4.754887502163468
+common corpus linguistics,4.754887502163468
+search corpus,4.5
+html code,4.0
+function use,4.0
+database corpus,4.0
+time coca,4.0
+match occurrence,4.0
+verb adverb,4.0
+sheer size,4.0
+computer analysis,4.0
+police boat,4.0
+package rchoicedialogs,4.0
+word size,4.0
+word subset,4.0
+sentence number,4.0
+corpus variety,4.0
+word glowbe,4.0
+transcription system,4.0
+corpus comprises,4.0
+result outcome,4.0
+word set,4.0
+verb modal,4.0
+sentence contain,4.0
+data format,4.0
+sample datum,4.0
+fact text,4.0
+living room,4.0
+engineering content,4.0
+colligation collostruction,4.0
+argument structure,4.0
+construct query,4.0
+use simple,4.0
+research discipline,4.0
+discourse community,4.0
+table shows,4.0
+researcher study,4.0
+word choice,4.0
+view result,4.0
+speaker text,4.0
+alternation phenomenon,4.0
+corpora datum,4.0
+sense disambiguation,4.0
+building block,4.0
+deal problem,4.0
+interview datum,4.0
+test independence,4.0
+result publication,4.0
+mark davies,4.0
+cassette tape,4.0
+word total,4.0
+core modal,4.0
+find verb,4.0
+function matches,4.0
+difference term,4.0
+analysis example,4.0
+arm length,4.0
+relationship response,4.0
+diphone deviation,4.0
+contour plot,4.0
+input table,4.0
+issue dealt,4.0
+target source,4.0
+advance corpus,4.0
+collocation corpus,4.0
+data model,4.0
+compare datum,4.0
+cosine proximity,4.0
+result section,4.0
+speaker preferring,4.0
+regression approach,4.0
+data dimensionality,4.0
+sample contains,4.0
+decrease value,4.0
+example spoken,4.0
+sample b,4.0
+analysis start,4.0
+woman man,4.0
+register subregister,4.0
+permit study,4.0
+corpus chapter,4.0
+transcription information,4.0
+hypothesis swans,4.0
+generation corpus,4.0
+length distribution,4.0
+matter n,4.0
+probability significance,4.0
+document corpus,4.0
+test chi,4.0
+language choice,4.0
 datum distribution,4.0
+result analysis,4.0
+turn duration,4.0
+pronoun zero,4.0
+number k,4.0
+day night,4.0
+annotation time,4.0
+way datum,4.0
+search lemma,4.0
+corpus internet,4.0
+meet assumption,4.0
+datum range,4.0
+xml declaration,4.0
+effect random,4.0
+frequency effect,4.0
+compound noun,4.0
+check box,4.0
 zip archive,4.0
-punctuation token,4.0
+web address,4.0
+source corpus,4.0
+country country,4.0
+possibility use,4.0
+language investigation,4.0
+choose option,4.0
+grammar case,4.0
+corpus determine,4.0
+menu item,4.0
+raise awareness,4.0
+difference construction,4.0
+corpus element,4.0
+word name,4.0
+speech annotation,4.0
+interest context,4.0
+building corpora,4.0
+decision use,4.0
+assumption language,4.0
+gender use,4.0
 point b,4.0
 correlation population,4.0
-mean median,4.0
-entity recognition,4.0
-target item,4.0
-tea instance,4.0
-tend use,4.0
-look study,4.0
-compound noun,4.0
-corpus diverse,4.0
-variability dependent,4.0
-instance text,4.0
-cluster data,4.0
-start antconc,4.0
-find verb,4.0
-living room,4.0
-metadata chapter,4.0
-straightforward approach,4.0
-source target,4.0
-bncweb interface,4.0
-language choice,4.0
-datum frequency,4.0
-turn duration,4.0
-corpus internet,4.0
-means chance,4.0
-cluster k,4.0
-telephone conversation,4.0
-section describe,4.0
-chapter order,4.0
-instance noun,4.0
-word name,4.0
-permit study,4.0
-database corpus,4.0
-datum text,4.0
-collocation x,4.0
-corpus figure,4.0
-uses datum,4.0
-language contain,4.0
-research research,4.0
-complementation pattern,4.0
-distance pair,4.0
-pause hesitation,4.0
-point p,4.0
+bnc corpus,4.0
+vowel consonant,4.0
+speaker behave,4.0
+method method,4.0
+scale predictor,4.0
+classification approach,4.0
 baseline value,4.0
-word bnc,4.0
-case text,4.0
-method involve,3.0
-translation process,3.0
-document contain,3.0
-background colour,3.0
-phase work,3.0
-effect e,3.0
-text project,3.0
-speech annotation,3.0
-register dimension,3.0
-discourse connective,3.0
-projection clustering,3.0
-use level,3.0
-instance number,3.0
-node frequency,3.0
-view link,3.0
-mesure il,3.0
-mesure l,3.0
+test met,4.0
+datum post,4.0
+point p,4.0
+figure note,4.0
+straightforward approach,4.0
+exercise reader,4.0
+argument use,4.0
+book book,4.0
+string vector,4.0
+mean median,4.0
+argument vector,4.0
+text domain,4.0
+publishing house,4.0
+fiction text,4.0
+river tyne,4.0
+book chapter,4.0
+split character,4.0
+distribution figure,4.0
+time series,4.0
+wise comparison,4.0
+utterance tag,4.0
+elf speaker,4.0
+interrater reliability,4.0
+difference category,4.0
+language dictionary,4.0
+concordance result,4.0
+way interaction,4.0
+corpus result,4.0
+collocation x,4.0
+vector counter,4.0
+focus form,4.0
+example demonstrate,4.0
+line retrieves,4.0
+normality assumption,4.0
+way r,4.0
+research collocation,4.0
+word noun,4.0
+variability dependent,4.0
+df b,4.0
+news reporting,4.0
+machine language,4.0
+entity corpus,4.0
+distance pair,4.0
+effect relationship,4.0
+time effort,4.0
+collocate occur,4.0
+time time,4.0
+function r,4.0
+punctuation token,4.0
+function loop,4.0
+result k,3.0
 training vector,3.0
-atc corpora,3.0
-display property,3.0
-position right,3.0
-token token,3.0
-collocate function,3.0
-reason focus,3.0
-river tyne,3.0
-dimensionality space,3.0
-building corpora,3.0
-mdecte datum,3.0
-corpora collection,3.0
-normality assumption,3.0
-computer search,3.0
-tag text,3.0
-observation variable,3.0
-observation cell,3.0
-research assistant,3.0
-division undergraduate,3.0
+technology development,3.0
+example collection,3.0
+annotation software,3.0
+paste datum,3.0
+normality requirement,3.0
+multivariate design,3.0
+stem affix,3.0
+fiction newspaper,3.0
+result differ,3.0
+start antconc,3.0
+option click,3.0
+query result,3.0
+annotation refer,3.0
+reference time,3.0
+background colour,3.0
+pseudo class,3.0
+computer tool,3.0
+discourse connective,3.0
+cohesion marker,3.0
+equivalence language,3.0
+discourse segment,3.0
+condition cause,3.0
+percent probability,3.0
+background assumption,3.0
+silverstein hierarchy,3.0
+sense mean,3.0
+corpus practitioner,3.0
+list coverage,3.0
+people cancer,3.0
+space discuss,3.0
+paramount importance,3.0
+year time,3.0
+coverage c,3.0
+speech tagger,3.0
+web content,3.0
+model quality,3.0
+multilevel model,3.0
+p predictor,3.0
+model model,3.0
+parameter estimate,3.0
+moderator analysis,3.0
+token ratio,3.0
+try save,3.0
+projection clustering,3.0
+look verb,3.0
+speaker b,3.0
+family member,3.0
+newspaper section,3.0
+bre ame,3.0
+dialectology sociolinguistics,3.0
+concordance package,3.0
+research group,3.0
+author identity,3.0
+example coca,3.0
+speaker role,3.0
+gsl avl,3.0
+association pattern,3.0
+dalton puffer,3.0
+clause clause,3.0
+approach identify,3.0
+word span,3.0
+briefly introduce,3.0
+exploratory tool,3.0
+lcr study,3.0
+change result,3.0
+concordance datum,3.0
+excerpt b,3.0
+effect population,3.0
+relationship x,3.0
+difference rank,3.0
+model summary,3.0
+need datum,3.0
+test following,3.0
+observation use,3.0
+frequency exclusivity,3.0
+attempt use,3.0
+time combination,3.0
+distance occurrence,3.0
+figure introduction,3.0
+bootstrap test,3.0
+collocation idiom,3.0
+interaction corpus,3.0
+corpus purpose,3.0
+predictor effect,3.0
+example line,3.0
+basis analysis,3.0
+woman woman,3.0
+speech production,3.0
+web crawler,3.0
+entry point,3.0
+language differ,3.0
+production perception,3.0
+information theory,3.0
+register dimension,3.0
+woman soap,3.0
+computer script,3.0
+example context,3.0
+referent expression,3.0
+picture book,3.0
 aligner use,3.0
+pairwise correlation,3.0
+word company,3.0
+account probability,3.0
+world language,3.0
+corpus range,3.0
+computer searching,3.0
+annotation file,3.0
+advance technology,3.0
+difference genre,3.0
+year period,3.0
+head noun,3.0
+work author,3.0
+research variation,3.0
+annotation metadata,3.0
+difference lies,3.0
+brings problem,3.0
+wellington corpus,3.0
+method help,3.0
+datum section,3.0
+example dataset,3.0
+bell curve,3.0
+assumption datum,3.0
+referent index,3.0
+datum spss,3.0
+cluster technique,3.0
+word boat,3.0
+concordance output,3.0
+companion file,3.0
+issue hand,3.0
+sc mc,3.0
+right corner,3.0
+eigenvector eigenvalue,3.0
+superscript denotes,3.0
+mdecte datum,3.0
+child learner,3.0
+vector value,3.0
+cd rom,3.0
+measure length,3.0
+frequency sort,3.0
+function script,3.0
+windows computer,3.0
 speech versus,3.0
-word occur,2.0
-r r,0.75
-cross tab,0.0
-search corpus,-1.0
-quantitative corpus linguist,-1.584962500721156
-word co,-4.0
-speech tag,-10.0
-word w,-29.0
+information sample,3.0
+segment transcription,3.0
+comma pause,3.0
+number n,3.0
+people city,3.0
+thing world,3.0
+issue consider,3.0
+research assistant,3.0
+proximity measure,3.0
+dimensionality space,3.0
+bncweb interface,3.0
+ice bnc,3.0
+proceeds step,3.0
+analysis understanding,3.0
+dataset contains,3.0
+replicability reproducibility,3.0
+result list,3.0
+windows system,3.0
+character gram,3.0
+word line,3.0
+distance j,3.0
+r data,3.0
+mass weight,3.0
+model prediction,3.0
+way set,3.0
+division undergraduate,3.0
+observation cell,3.0
+test want,3.0
+variability datum,3.0
+score group,3.0
+relationship measure,3.0
+change dependent,3.0
+book uses,3.0
+variation form,3.0
+capture word,3.0
+mode medium,3.0
+twitter datum,3.0
+entity use,3.0
+speech error,3.0
+determine error,3.0
+result gries,3.0
+test goodness,3.0
+way look,3.0
+issue exercise,3.0
+atc corpora,3.0
+check file,3.0
+line anchor,3.0
+fact use,3.0
+dataframe csv,3.0
+change element,3.0
+user chooses,3.0
+range operator,3.0
+data geometry,3.0
+n datum,2.5
+proportion of v,1.584962500721156
+speech tag,1.5
+book corpus,1.0
+problem arise,0.0
+text use,-1.0
+language r,-2.0
+cross tab,-2.5
+language speak,-4.0
+quantitative corpus linguist,-4.754887502163468
+word w,-8.0
+speaker g,-8.0
+corpus use,-8.0
+historical corpus linguist,-9.509775004326936
+b c,-10.0
+learner l,-15.0
+corpus b,-34.5
+occurrence of w,-96.68271254399052
