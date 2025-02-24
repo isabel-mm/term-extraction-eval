@@ -1,691 +1,682 @@
 corpus linguistics
-case study
-research question
 corpus datum
 frequency list
 corpus linguist
-co occurrence
 p value
 language use
-word corpus
 word form
-word list
+case study
+cluster analysis
 effect size
 corpus file
-cluster analysis
-corpus study
-chi square
-data set
+word corpus
+word list
+co occurrence
 learner corpora
-data point
-learner corpus
-annotation scheme
-corpus analysis
-number of word
+data set
+chi square
+corpus study
 concordance line
-parallel corpora
-corpus annotation
+number of word
+data point
 reference corpus
-corpus research
-meta analysis
+corpus analysis
 data frame
-person pronoun
+annotation scheme
+learner corpus
+parallel corpora
+meta analysis
 language variety
-degree of freedom
-keyword analysis
 speech act
-text corpus
-text file
-confidence interval
-type token ratio
-pos tag
-association measure
-character string
-multi word
-corpus building
-corpus compiler
-word length
-function word
-frequency of word
-text length
-research project
-word type
-use of corpora
+person pronoun
+keyword analysis
+corpus research
+degree of freedom
 data structure
-character vector
+type token ratio
+confidence interval
+character string
+corpus compiler
+corpus building
+pos tag
+text corpus
+association measure
+text length
+corpus annotation
+text file
 text type
-research design
-language datum
-discourse marker
-variety of english
-word frequency
-web corpus
-meta information
-word class
-web page
-corpus contains
+use of corpora
+frequency of word
+word length
+character vector
+word type
 corpus design
+function word
+research design
+research project
+word class
+language acquisition
+corpus contains
 type of datum
 pos tagging
 word occur
-et al
-datum frame
 part of speech
+web page
+word frequency
+meta information
+discourse marker
+variety of english
+k mean
+web corpus
 test statistic
 speech tagging
-sample size
-natural language processing
-corpus size
 log likelihood
-default setting
-language variation
-type of text
-register analysis
-text category
-search result
-character class
-word phrase
-k means
-man woman
 occurrence of word
+natural language processing
+language datum
+default setting
+type of text
+corpus contain
+register analysis
+sample size
+subordinate clause
+datum frame
 r code
 corpus query
+corpus size
 vice versa
-corpus compilation
-k mean
-language teaching
-corpus tool
-language acquisition
+character class
 ice gb
-lob corpus
-dimensionality reduction
-corpus contain
-frequency count
-frequency table
-number of time
-number of case
-point of view
-subordinate clause
-type of information
-line of code
-pseudo title
-newspaper article
-measure of dispersion
-use of corpus
-correlation coefficient
-regression model
-datum point
-correspondence analysis
-sequence of word
 find word
-corpus type
-language documentation
-sub corpora
-search engine
-research article
-thing need
-g lmm
-language user
 word token
 search expression
-number of text
-register variation
-function need
-research hypothesis
-size of corpus
-researcher use
+text category
+corpus compilation
+word phrase
+number of time
+datum point
+number of case
+language teaching
+man woman
+corpus tool
+lob corpus
+type of information
+line of code
+dimensionality reduction
+k means
+newspaper article
+language documentation
+correspondence analysis
+pseudo title
+word text
+corpus type
+type of corpus
+frequency count
+search result
+frequency table
+correlation coefficient
+regression model
+language variation
+thing need
+sequence of word
+study of language
 number of occurrence
 stop word
-need use
+measure of dispersion
+use of corpus
+use corpus
 content word
-language sample
+search engine
+number of text
+function need
+g lmm
+language user
+researcher use
+need use
+london lund
+frequency of occurrence
+multi word unit
 speech writing
-order determine
-male speaker
+register variation
 mann whitney
 code file
-order study
-study of language
-question mark
-london lund corpus
-log odd
-frequency of occurrence
-row column
-want use
-search word
-punctuation mark
-type of corpora
-use language
-type of corpus
+multimodal corpus
+research hypothesis
 corpus text
 language corpus
-face face
-use corpus
-specific research question
+test hypothesis
+sub corpora
 classification tree
-speech community
-state of art
+log odd
+language sample
 speech tag
-pearson correlation
-operating system
+row column
+want use
 element of vector
-input vector
-actual script rstudio
-row vector
 language technology
 sub corpus
-analysis of corpus
-google books
-word sequence
+size of corpus
+question mark
+state of art
 time corpus
+male speaker
+search word
+operating system
+punctuation mark
+input vector
+actual script rstudio
+language change
+use language
+face face
+analysis of corpus
+use of language
+speech community
+corpora contain
+target domain
+google books
 factor analysis
-word sample
-representative study
-exercise box
+compare result
+pearson correlation
 line break
+datum structure
 save file
 word boundary
 press reportage
-style sheet
-word text
-kind of datum
-test hypothesis
+time span
 type of annotation
-corpus use
 inclusion corpus
 time period
-research area
+file name
 speech sample
-language change
-use of language
-word frequency list
-word level
-translation study
-word n
-field of corpus
-speaker writer
-compare result
-second language acquisition
-precision recall
-dispersion measure
-datum structure
-word character
-multimodal corpus
-sample of language
-time span
-corpus search
-frequency distribution
 number of token
-datum table
+translation study
+word sequence
+field of corpus
+word sample
+dispersion measure
+exercise box
+collector vector
+row vector
+style sheet
+corpus composition
+frequency distribution
+list of word
 set of variable
-word order
-target domain
+word level
 corpus architecture
-datum analysis
-type of analysis
 keyword list
 cut point
+speaker writer
 collection of text
-ice corpora
+example illustrate
 helsinki corpus
 sampling frame
+ice corpora
 group variance
-language corpora
+detail section
 split infinitive
 recommendation study exploration
-head tail
+precision recall
+word character
+word tag
 load corpus file
+response variable
+data matrix
 vector space
 connection vector
 frequency breakdown
-speech rate
-corpus composition
-text corpora
-different type of corpora
+way corpus
+type of corpora
+sample of language
+register study
+corpus search
+word sense
 statistical description analysis
-list of word
-conditional inference tree
+datum table
+word frequency list
+research article
 node word
-example illustrate
+matrix verb
+representative study
+second language acquisition
 word family
 matter of fact
-collector vector
 grammaticality judgment
-data matrix
 portion of corpus
 basis function
+speech rate
 type token
 find instance
 frequency datum
+search corpus
 audio file
-age group
-speech corpus
+multi word
+corpus use
 end of chapter
-corpus user
-file name
-annotation process
-corpora contain
+language feature
+word order
+word bnc
+datum analysis
+type of analysis
 word context
-mother tongue
+conditional inference tree
 conclusion chapter
-target language
 translation equivalent
 detail chapter
-matrix verb
-unit of analysis
-use word
 coefficient of variation
 use of word
 inter rater agreement
-x j
-information corpus
+language corpora
 selection criterion
-word tag
 model selection
-word occurrence
-multimodal corpora
+tyneside speech
+difference group
 point time
-representative of language
-register study
-kind of research
+structure of corpus
+age group
+research goal
 meaning of word
+study use
+frequency information
+regression analysis
+corpus software
+corpus user
 let look example
 software program
-information speaker
-language feature
-word bnc
+annotation process
+bar plot
 world englishes
 bnc coca
 learner language
+data collection
+co occurrence of word
 z score
 text analysis
 component of ice
-target corpus
 significance test
-significance level
+mother tongue
 combination of word
-collostruction strength
+target language
+corpus method
+unit of analysis
 monitor corpus
 dialect study
 number of study
-concordance analysis
 large amount of datum
-answer research question
-source target
-count number
 effect size measure
-corpus creator
+use word
 distribution of word
-contingency table
-row total
 described chapter
 definition of corpus
 vector x
+head tail
+apply function
 probability of error
 aspect of script
-tyneside speech
+hypothesis generation
 k cluster
 change time
+text corpora
 verb noun
-structure of corpus
-research goal
-language processing
-turn speaker
-frequency information
-search corpus
-introduction corpus linguistics
-number of cluster
-advantage disadvantage
-word of text
-corpus driven study
-collocation research
-corpus method
-complementation pattern
-translation direction
-detail section
-apply function
-pearson chi square
-type of speech
-vector v
-basis vector
-high frequency verb
-pattern of language
-difference group
-matukar panau
 text language
-linguistic research question
-period of time
-reference corpora
-kind of analysis
-language study
-regression analysis
-corpus software
-text processing
-information word
-text text
-area of language
-corpus project
-analysis of datum
-difference language
-word processor
-software tool
-research study
-total number of word
-frequency dispersion
-word word
-application of corpus
-second person pronoun
-source language
-zipf law
-collocation network
-form of verb
-word embedding
-international corpus of learner
-datum matrix
-variation text length
-number of hit
-british library newspapers
-open corpus linguistics
-trump speak
-sample of speech
-markup language
-data space
-z standardization
-principal component analysis
-round bracket
-way corpus
-corpus collection
+representative of language
 datum corpus
 datum datum
-word co
-set of word
-mi score
-number of letter
+speech corpus
+language processing
+turn speaker
+text text
+analysis of datum
+introduction corpus linguistics
+mixed effect model
+advantage disadvantage
+word of text
+target corpus
+corpus driven study
+complementation pattern
+collostruction strength
+application of corpus
+concordance analysis
+translation direction
+corpus creator
+zipf law
+contingency table
+row total
+information corpus
+load file
+pearson chi
+number of hit
+type of speech
+datum matrix
+basis vector
+multimodal corpora
+high frequency verb
+word n
+pattern of language
+corpora corpus
+text genre
+kind of analysis
+corpus approach
+language study
+information word
+need corpus
+area of language
+corpus project
 xml file
-particular research question
-build corpus
+information speaker
+number of cluster
+word processor
+software tool
+word word
+collocation research
+total number of word
+frequency dispersion
+verb phrase
+second person pronoun
+production circumstance
+kind of datum
+source target
+count number
+word w
+collocation network
+cramer v
+x j
+information text
+word embedding
+datum retrieval
+number of row
+international corpus of learner
+information retrieval
+british library newspapers
+open corpus linguistics
+markup language
+vector v
+z standardization
+principal component analysis
+word occurrence
+corpus collection
+text production
+period of time
+reference corpora
+text processing
+mi score
+keyword context
+number of letter
+research corpus
 annotation system
-instance of phenomenon
+form of word
+research area
 mixed effect regression
 test datum
-bar plot
 th percentile
 difference use
-mixed effect model
+quantitative corpus linguistics
 variety of language
-area of research
 word frequent
+difference language
+approach corpus
+corpus linguistics methodology
+learner datum
 let briefly
+significance level
+word sentence
+data analysis
 discourse domain
-study use
-verb phrase
 difference frequency
-occurrence corpus
-non corpus
+example of study
+corpus work
 solution problem
-production circumstance
-register difference
 student report
-data collection
 gardner davies
-speaker age
-create corpus
-word w
+source language
 frequency corpus
+cross tabulation
 independence of observation
-cramer v
 number of character
 type of language
-speech category
 search box
-look word
+form of verb
 different language variety
-information text
-value level
 interaction effect
 annotation tool
-computer program
 file manager
-number of row
 attribute value pair
 result file
+phenomenon investigation
+variation text length
 computer science
-information retrieval
-permission use
+trump speak
+sample of speech
 angle bracket
-language development
-source domain
-variationist sociolinguistics
+target discourse
+data space
+cluster validation
 multi cast
-corpora corpus
-text production
 wider range
-set of datum
-case corpus
+word co
+set of word
 example of language
-text speaker
-need corpus
 santa barbara corpus
-field of study
-form of word
+instance of phenomenon
+rate of occurrence
 kind of language
 rule of thumb
-corpus construction
-tool method
 research topic
-frequency analysis
-learner datum
-difference way
-data analysis
-target word
-example of study
-keyword context
-method corpus
+learner use
+language education
+result indicate
+research study
+occurrence corpus
+non corpus
 research report
+register difference
 purpose of study
-corpus work
+corpus sample
 present study
 frequency of use
 academic word list
 way use
 research application
 grammar book
+number of type
+speaker age
 feature of interest
 corpus designer
+create corpus
 different word form
+corpus differ
+example corpus
+fact corpus
 keyword procedure
 probability ratio
 distance measure
-use datum
+feature count
+look word
 n gram list
+value level
 mean score
 word turn
 concordance program
+computer program
 element of x
 row name
 end of line
 element of list
-length word
+sorted frequency list
 number of sentence
 source of datum
 order of magnitude
 define vector corpus file
-file corpus
 element corpus
-genre categorization
 bnc contains
 period of english
 v w
 graph distance
 computer language
-table case study
 comment exercise
+round bracket
 area of linguistics
+language community
 building corpus
-user of corpus
-research agenda
-variation language
+word construction
+language production
+content of corpus
 representativeness of corpus
 kind of question
+set of datum
+kind of research
 theory of language
 use corpora
 corpus consists
+corpus language
+corpus builder
+text speaker
 unit of measurement
+object of research
 optical character recognition
 group of speaker
 relationship word
-rate of occurrence
+corpus annotation corpus annotation
+matrix clause
 kendall tau
-logistic regression model
 lot of information
 multiple correspondence analysis
-collection of datum
+variationist sociolinguistics
+change language
 beginning of chapter
+corpus construction
+tool method
 section of corpus
-word corpora
-corpus linguistics methodology
+frequency analysis
 tag corpus
-fact word
-learner use
-case study section
-language education
+data type
+difference way
+target word
 term of frequency
 discourse study
 type of discourse
+corpus technique
+method corpus
 tend use
 case point
-context of corpus
-corpus sample
-learner corpus datum
 accuracy rate
 error analysis
 hour week
 word pair
 male female speaker
 type occur
-corpus differ
 value table
 judgement variable
-value cell
 result of test
+use datum
 group mean
 publication bias
+speech category
 corpus researcher
-feature count
+analysis corpus
 f score
 collocate display
-r function
-quantitative corpus linguistics
 output file
-vector factor
 list element
-sorted frequency list
-word sentence
-rchoose dir dir
+length word
 word tag combination
 classification accuracy
 particle placement
-phenomenon investigation
-work corpus
+context of corpus
+genre categorization
 open research practice
+generation corpus
 contains sample
-step process
+permission use
 avoid problem
-target discourse domain
-hypothesis generation
-cluster structure
+research domain
 distance vector
-n datum
 total number of occurrence
 k vector
-cluster validation
 software package
 hampe sch
 bogus refugee
+language development
 panel of fig
-merriam webster
-datum retrieval annotation
+speaker sex
+source domain
 revision question
 parce que
+language method
 property of text
-word construction
-kind of word
+matukar panau
 sentence structure
-content of corpus
+user of corpus
 corpus word
+research agenda
 example sentence
 web corpora
-corpus corpus
-example study
 string of character
-word sense disambiguation
 part of word
 training datum
+case corpus
 word collocate
 frequency of co
+question corpus
 layer of annotation
 form of annotation
-matrix clause
 form of language
-form function
 distance mean
 type of word
+logistic regression model
 reference level
-new zealand english
+random intercept
+error rate
 research community
 datum need
+collection of datum
 language usage
-research result
-page number
+corpora use
 english corpus linguistics
 project gutenberg
+word corpora
 word count
+fact word
 space character
 tone unit
 time bnc
-word meaning
 characteristic of corpus
 stage of language
 example of type
+body of research
 stefanowitsch gries
 word combination
-wh clause
-newspaper corpus
-corpus technique
+conversation analysis
 radio phone
-language analysis
-speaker group
+stance feature
 counsel phase
-corpora study
-historical corpus linguistics
+tertium comparationis
+learner corpus datum
 learner corpus study
 pos tagger
-contrastive interlanguage analysis
 case of word
-language learner
-word sense
 number of verb
+difference mean
 text of length
 expected frequency of collocation
-cross tab
 mosaic plot
 article type
 test result
 result of search
+coefficient of determination
 case group
-complement clause
+time frame
 language register
-linguistic point of view
 discussion section
 research issue
 frequency value
-size of sample
 element vector
 length of vector
 function name
-factor level
+argument vector
+vector factor
+number of column
 length of corpus
-file word
 section of chapter
 create frequency list
 position of match
@@ -696,395 +687,369 @@ file save
 set of value
 need create
 fichtner c
-compile result data frame
-second case study
+rchoose dir dir
+file corpus
 family word
-fact corpus
+variable importance score
+effect plot
 kind of annotation
 number of child
 document type
 replication crisis
-web datum
 quirk corpus
 www tei c
 spoken of bnc
-time frame
 segment of speech
 domain of interest
-data creation
-research domain
-metric square mds
+cluster structure
+n datum
+data vector
+document collection
+stress function
 e ps
-childes database
+python r
+translation choice
+commercial search engine
 code editor
-speaker sex
+practical guide r
+merriam webster
 window of car
 complex research design
-rank position
-hapax legomenon
 c unit
+field of linguistics
+language text
 query option
+kind of word
 corpus corpora
 text contains
 result corpus
-datum type
-language community
+conclusion corpus
 speech corpora
 university student
 rest of chapter
 corpora of english
-question corpus
+example of use
+corpus of language
 text need
 range of text
 research context
 transcription of spoken
 medium file
-corpus builder
 accuracy of annotation
-parameter value
-random intercept
+multi word expression
+form function
 decision tree
 numeric dependent variable
-error rate
-change language
 variation change
 difference length
+new zealand english
 time word
 presence absence
 b c
-language structure
 language system
-actual language use
-word use
+page number
+computer corpora
 variation use
 number of problem
 saw section
 john benjamins
-research corpus
+structure datum
 research team
 list of keyword
 word right
+word meaning
 list of collocate
 difference distribution
 section chapter
-multi word sequence
 word pattern
-use frequency
 corpus resource
-body of research
-conversation analysis
+wh clause
+corpus pragmatics
+language analysis
 point of comparison
 different variety of english
-stance feature
 intonation unit
-use of stance
+methodology corpus
 student use
-feature text
-tertium comparationis
-ice corpus
 ice component
 non standard use
+contrastive interlanguage analysis
 collocation box
+language learner
 error correction
 context of use
 type of exercise
-difference mean
+newspaper corpus
+choice of corpus
 significant difference group
+example illustrates
 absolute frequency of word
 time text
-example corpus
 collocation measure
-number of instance
-cross tabulation
-coefficient of determination
+cross tab
+value cell
 small sample size
 bonferroni correction
 news talk
 symposium presentation
+complement clause
+work corpora
 www english corpora org
 linguistic feature co
 type word
 frequency rank
 television radio
-text contain
-certain research question
-description of corpus
-analysis corpus
-distribution of value
 score dataset
 level of education
-social medium platform
-generate frequency list
-lexical co occurrence
+datum corpora
 construction grammar
-number character
+number of match
+size of sample
 vector length
 function table
-number of column
+factor level
 double square bracket
 interim result file
+file word
 verb particle construction
+define search expression
 extensible markup language
 xml format
 nature of datum
+data value
+function definition
 compute dp
 sentence length
-variable importance score
-effect plot
-order representative
-grammar pattern
+compile result data frame
+historical corpus linguistics
+metalinguistic language use
 unit of text
-research corpus linguistics
-distribution corpus
 number of sample
-data vector
+data creation
 column vector
 absolute magnitude of variability
 matrix row
 dimensionality of datum
+datum object
+euclidean distance matrix
 value of k
 input space
-p cluster
 piece of text
 word appear
-general reference corpus
 contrastive linguistics translation study
-translation choice
 time week
-commercial search engine
-respondent age
+childes database
 plot pca pca
-case study case study
+let discuss
+hapax legomenon
 character sequence
-language acquisition corpus
 racie avanc e corpus
-language text
-basic concept corpus linguistics
-language production
 article english
-ad hoc
 purpose of corpus
 idea of corpus
+variation language use
+corpus metadata
 term of size
 corpus reflect
 different age group
-metadata of corpus
 language rule
 result of study
 word language
-language r
-corpus language
 look information
 query corpus
-corpus of language
-step corpus
 availability of text
 consideration of space
-different type of annotation
-example word
 text content
-calculate distance
-poisson process
+parameter value
+table shows
 linear regression model
 type corpus
 different time period
 uses datum
 speaker use
 grammar of language
-language description
 class of word
 phenomenon of interest
-corpora use
-order test
-empirical case study
+research result
+language structure use
+word use
 english lingua franca
 current state of art
-address research question
 datum text
 verb cause
-computational tool method
 hardware software
+corpus corpus
 area of corpus
+word n gram
 notion of corpus
 annotation of corpus
 probability of outcome
 approach use
-structure datum
 voice quality
 speaker hearer
-keyness analysis
 case of collocation
 datum bnc
-token ratio
+distribution text
 description theory
 matrix table
-stress pattern
-telephone conversation
+singular present tense
 horror aequi
 time interval
 stem type
-reference grammar
 word register
 target item
-study of kind
 critical discourse analysis
+discourse type
 word cluster
-white house press
 research tool
 point of departure
-software application
-second generation corpus
+speaker group
+use of stance
 study corpus
-methodology corpus
-dimension score
-approach dialectology
+corpora study
+range of genre
+feature corpus
+register research
 variation corpus
+ice corpus
 research field
 balance representativeness
 section presents
+different mother tongue
 error annotation
-level of analysis
 general service list
 multiword unit
-line line
 corpus consultation
+post test
 percent of word
-literature review
 language language
 newspaper language
 sum of value
 regression line
+information value
+datum spreadsheet
 difference man woman
-different research question
-em em b er
+probability value
+datum data
+type of graph
+type of study
+em em b
 basis normalization
 sample standard deviation
+dispersion corpus
 relative frequency of word
 v v
 text b
+number of instance
 word time
 chapter focuses
 example use
-example of use
+use example
 type error
 rank group
 correspondence plot
 development of language
-sentence word
 end of book
 approach study
+co occurrence pattern
 unit of language
 coca bnc
+text contain
 address problem
 set of question
+news text
 central tendency measure
+distribution of value
 population sample drawn
 significant difference use
-natural science mean
 chapter of book
-case variable
-news agency
+entity recognition
+cross validation
+social medium platform
 sentence type
 concordance of word
-datum corpora
+r function
 translation language
-information frequency
-number of match
-data structure r
+lexical co occurrence
 argument specifies
 vector txt
 vector element
 number of level
 access element
 result vector
-search option
 attribute of vector
 match character
 non word character
+check code
 problem arises
-define search expression
+course use
 bnc world edition
 xml tag
 xml version
-case study chapter
 main subordinate clause
 row contain
 categorical dependent variable
 frequency of construction
 reason of space
-word differ
 word gram
 capital letter
 collocate slot
-high token frequency
 loglength type
-different type of datum
+response x
 word of corpus
 pattern corpus
-statistical software package
+grammar pattern
 test of independence
 association strength
 cram r v
-metalinguistic language use
-digital humanity corpus
 quantitative corpus linguist
 ambiguity tag
-corpus interface
 number of error
-rissanen problem
-choice of corpus
+web datum
+child language datum
+solution workaround
 proportion of text
 sentence boundary
 lengthwise quantile
 bilingualism score
 speaker turn
 sentence corpus
-corpus vary
-computer corpus
+distribution corpus
 number of speaker
 observer paradox
 ice usa
-speaker b
 question consider
 specialized word list
-cluster analysis hypothesis generation
 speaker cluster
 datum manifold
-document collection
 second problem
 reduced dimensionality representation
-variance of v
-data object
-euclidean distance matrix
-stress function
-datum object
+metric square mds
+distance relation
 cluster shape
+data object
 core point
+p cluster
 closeness pair
-complete linkage distance
 corpus generation
 frequency range
+general reference corpus
 future direction chapter
 look case
-level of formality
 hit rate
-multimodal corpus research
 look file
 dimension inspect
-representative research question
 visualisation technique
-datum order
-random effect model
 contour line
-citation analysis
 keyword theme
 native speaker of language
 intuition datum
-result of query
+bnc baby
+way search
+ditto tag
 assign label
-coin flip
+series of head
 number of degree
-bivariate design
 word expression
 introduce study
 quotation mark
@@ -1094,41 +1059,41 @@ context menu
 issue encounter
 byu interface
 year france
-language method
 collocation word
 le monde corpus
 annotation manual
+lexical dispersion corpus
 base of normalization
 discourse context
-field of linguistics
 modern corpus linguistics
 space punctuation
+basic concept corpus linguistics
 example of text
 corpus meant
-design principle
+different research project
 situational characteristic of text
-corpus metadata
-hand hand
+datum type
+interest corpus
 family of corpora
+language choice
 look study
 behaviour profile
 sense disambiguation
 cause time factor
 language context
+result study
 word morpheme
 problem arise
+language r
 measure of association
-colligation collostruction
 sample datum
+problem corpus
 design criterion
-datum language
-order use
 type of file
 language world
 metadata corpus
 living room
 value corpus
-different type of information
 different form of verb
 token word
 argument structure
@@ -1137,19 +1102,18 @@ dependency relation
 annotation layer
 number of clause
 use simple
+poisson process
+datum use
 information table
-table shows
+recursive partitioning method
 speaker text
-group of language
-corpora datum
+corpus sociolinguistics
 set of feature
 interview datum
-corpus variety
 coca coha
+variation register
 access datum
-history of language
 corpus development
-approach corpus
 computer analysis
 strength weakness
 available sketch engine
@@ -1158,25 +1122,26 @@ level annotation
 type of resource
 sheer size
 low frequency word
-type of search
-word size
 word contain
 word glowbe
+computational tool method
 computational method tool
 high quality recording
 small set of word
 collocate node
 corpus retrieval software
+high frequency word
 inspection of concordance
+comparison of frequency
 construction pattern
 statistic corpus linguistics
 search function
-keyword key
+keyness analysis
 form meaning
-method study
+important role play
 minimum co occurrence frequency
 result outcome
-distribution text
+language description
 text use
 word total
 area of grammar
@@ -1186,223 +1151,217 @@ genre text type
 logistic regression analysis
 core modal
 frequency frequency
-word formation
 historical corpus linguist
 description of language
+reference grammar
 base form of verb
-discourse type
+study of kind
 indication of speaker
-diachronic study
-eighteenth century collection
+white house press
+press conference
+software application
+research datum
+eighteenth century collection online
 discourse community
 use of feature
-research question study
 number of year
-range of genre
-feature corpus
+word lemma
 individual feature approach
-register research
+dimension score
 sentence contain
 engineering content
-register parameter
+feature text
 matter of degree
-different type of text
 research discipline
 building block
+concordance search
+approach dialectology
+letter editor
 second language variety
+small scale study
 approach analysis
 language contact
-sla study
+multi word item
 word beginning
-different mother tongue
 verb adverb
 learner l
 research method
 study shows
 word subset
-lemma word family
 frequency of item
 corpus time
 frequency column
 language question
 book chapter
-post test
+study design
 need of study
 number of way
-core corpus
+focus form
 english norwegian parallel corpus
 fiction text
 certain text type
 publishing house
-text domain
-translation process
 book book
 exercise reader
 available companion website
-information value
 value mean
-probability value
+normality assumption
+end of text
 datum exploration
-type of graph
-example illustrates
 straightforward approach
+use frequency
 speaker sample
+calculate distance
 collocation graph
 figure note
 probability of occurrence
 interest context
 test met
-baseline model
+need datum
+linguistic feature corpus
 baseline value
 scale predictor
 comma dash
 correlation population
 correlation matrix
 point b
-different type of language
 corpus needs
 variation datum
-example section
-statistical test use
 gender use
 use of pronoun
-cross tabulation table
-distance point
 peak trough technique
 different part of world
-work corpora
-research paper
+sentence word
 large amount of text
-different type of analysis
+difference word
 writer speaker
-assumption language
+telephone conversation
 level of instruction
+laurence anthony
 work text
 find verb
 decision use
 frequency comparison
-building corpora
 twitter post
 research purpose
-news text
 design of corpus
 text display score
 use lot
-student presentation
+hand corner
 variability dependent
 independent dependent variable
 df b
 discipline level of instruction
-effect relationship
 structure corpus
 need of researcher
-entity recognition
 data annotation
-previous case study
 number of example
 annotation standard
 twitter corpus
+news agency
 machine language
+social media language
 entity corpus
 kind of result
+generate frequency list
 related corpus linguistics
 time effort
 perl python
 perform search
+information frequency
 column table
-function r
+notion of word
 introduction r
 vector of word
 vector contains
 use argument
 access part
-argument vector factor
-part of datum
 form of analysis
 remainder of book
-function loop
 iteration of loop
-output vector
-way r
+search option
 multiple element vector
+split character
 argument character vector
 element of text
 second line of code
+function matches
 natcorp ox ac
 start tag
 utterance tag
-data value
 line retrieves
-function definition
 lot of time
+case study chapter
 percent of variation
 probability p
 percent of datum
+word differ
 line number
 rchoose dir define directory
 clear memory define load
-corpus file dir
-plot ecdf
 vector counter
 corpus example
 collocation x
 regression equation
 optimal random effect structure
 analysis section
-way interaction
+family of method
+partial dependence score
 binary logistic regression model
+work corpus
 concordance result
 key item analysis
 research interest
+work corpus linguistics
 difference category
 distribution figure
-phi cram r v
 rank sum
 particular research project
 user of corpora
 speech annotation
 co uk
 word name
-case word
+corpus interface
 digital scholar lab
-child language datum
+rissanen problem
+corpora of language
 approach problem
-research language
 length distribution
-generation corpus
-conclusion drawn
 philosophy of science
 transcription information
 corpus chapter
-kind of speech
 record of text
 permit study
+computer corpus
 kind of variation
+age gender
 large number of word
 individual speech writing
 woman man
-right of word
+task corpus
 sample b
 sample contains
 speaker corpus
+speaker b
 trump twitter
-frequent co occurrence
-cluster analysis corpus
+cluster analysis method
+river tyne
 representation of domain
 vector space v
 real world object
 data dimensionality
 n dimensional datum matrix
+probability theory
 variable column variable
-distance relation
 definition of similarity
 cluster c
 distance cluster
 point manifold
 lattice cell
-cosine proximity
 noise point
 tree building sequence
+single linkage criterion
+single linkage distance
 intrinsic cluster structure
 mean of sum
 index value
@@ -1410,22 +1369,23 @@ chronological variation research
 observed language use
 linguistics language technology
 corpus offer
-data model
+homoform multi word unit
 lexical decision task
-collocation corpus
 foreign language learner
 occurrence of verb
 sort result
 issue challenge
 transcription convention
+level of formality
 method of analysis
 target source
-language pair
 group of learner
+web corpus approach
 explore detail
-issue dealt
-practical guide r section
+case variable
+data table
 input table
+stress pattern
 wiggly basis function
 effective degree of freedom
 contour plot
@@ -1433,45 +1393,45 @@ diphone deviation
 sample of size
 high frequency vocabulary
 relationship response
+citation analysis
 corpus linguistics paper
 major point of criticism
 matter n
-discuss detail section
 sub discipline of linguistics
-bnc baby
-way search
-category label
+result of query
+interrater reliability
 possessive modifier discourse
+coin flip
 flip coin time
 modifier of possessive
 probability significance
 level of significance
 difference construction
+bivariate design
 world knowledge
 boy girl
-grammar case
 v link adj
 verb begin
 choose option
 jane austen
 hesitation marker
+web address
+meta datum
+source corpus
 zip archive
 word document
 change search term
 check box
-word form mind
 compound noun
 word end
 sherlock holmes
 particular word class
 click cell
 degree of relatedness
-xml declaration
 specific language impairment
 quantitative corpus study
 main limitation use
 child autism spectrum disorder
-year of residence
 translation universal
 corpus internet
 frequency class number
@@ -1484,9 +1444,10 @@ spoken language corpora
 language differ
 linguistic characteristic of text
 population of text
-different research project
+ad hoc
 real life language
 context of language
+design principle
 different text type
 large number of people
 production perception
@@ -1497,77 +1458,66 @@ raw datum metadata
 situational feature of text
 result analysis
 test difference
+hand hand
 specific research goal
 standard reference corpus
 atc corpora
 example collection
 sex age
 aspect of research
+big reference corpora
 language family
-language choice
 account probability
 context use
+issue discuss
 word company
 pairwise correlation
-result study
 aligner use
 applied corpus linguistics
-turn duration
 picture book
 referent expression
-example context
+step corpus
+aim of corpus
 dispersion plot
 handful of text
 woman soap
 woman woman
-association word
 word of interest
 occurrence of w
 lot of people
 speech of word
-corpus hand
 information theory
 compiler of corpus
 set of factor
-problem corpus
-corpus contain text
-entry point
 web crawler
+datum language
 speech production
 language speaker
 world language
 r package
 computer script
-corpus range
+importance of corpora
 day night
 co reference relation
 annotation time
 way datum
 oslo bergen corpus
 form text
-relation word
-referent index
 set of example
-way language
-difficult time consuming
 meet assumption
-assumption datum
 bell curve
 normal distribution mean
 datum range
-datum use
 test chi
-example dataset
 test result table
-recursive partitioning method
 datum help
 effect random
 predictor of interest
 pronoun use
-datum section
-sense of datum
 method help
+reason focus
 particular language variety
+corpora datum
 wellington corpus
 black south africans
 apparent time study
@@ -1578,60 +1528,59 @@ annotation file
 particular point time
 annotation metadata
 research variation
+datum research
+study language use
 facet of language
-work author
 head noun
 possibility use
+corpora corpora
 language investigation
 number of collocate
 year period
 target audience
 study area
 corpus research area
+type of search
+word size
 difference genre
 advance technology
 computer searching
 speech recognition software
-example line
+search item
 n gram method
 significance of difference
 word of caution
 number of result
-high frequency word
-social science research
 different association measure
-frequency effect
 different word type
 concordance datum
 application of chi
 predictor effect
 datum violate assumption
 regression approach
-tree structure
 exploratory tool
 use of prominence
+keyword key
 briefly introduce
 analysis example
 word span
-important role play
+difference near synonym
 state of affair
-present case study
-purpose of chapter
 study begin
 way word
 sample of study
 discourse structure
 analysis procedure
-approach identify
+token ratio
 study of grammar
 advance corpus
-view of language
+corpus grammar
 wall street journal
+likelihood ratio
 frequency change
 clause clause
-role play
 dalton puffer
-different point time
+word formation
 ment type database
 association pattern
 difference term
@@ -1639,11 +1588,9 @@ proportion of language
 object of sentence
 speaker role
 word string
-press conference
 use of hedge
 family member
-study research question
-example coca
+spoken corpus focus
 example spoken
 different language background
 academic formula list
@@ -1651,19 +1598,19 @@ phase of interaction
 range of feature
 author identity
 analysis start
-high frequency item
+group of language
 point corpus
 example of pos
-register subregister
 analysis technique
 n delaney collentine
+compare register
 slope stability analysis
 research group
 active voice sentence
+register parameter
 period sample
 large collection of text
 concordance package
-concordance search
 range of method
 different variety of language
 dialectology sociolinguistics
@@ -1672,44 +1619,45 @@ background information
 bre ame
 newspaper section
 envelope of variation
-small scale study
 component of bnc
+corpus evidence
 large scale study
 elf speaker
 lcr study
+sla study
 transfer mother tongue
 native learner corpus
+level of analysis
+lemma word family
 gsl avl
-corpus source
 change result
 attempt use
 language dictionary
+information need
 pattern of word
-corpus purpose
 word usage
 corpus result
 level of proficiency
 interaction corpus
 collocation idiom
 feature time
-study design
-target feature
-focus form
+treatment of passive
+core corpus
 translation shift
 mean sentence length
 percentage of text
 bootstrap test
 source of information
 figure introduction
-normality assumption
-wide range of text
+null hypothesis states
 type of bias
-corpus order
-information datum
+text copyright
+look frequency
+corpus answer
+trend datum
 male speaker female speaker
 punctuation token
 source of variation
-dispersion corpus
 number of part
 total number of token
 time time
@@ -1724,13 +1672,15 @@ collocate occur
 frequency exclusivity
 difference text
 excerpt b
+comparison corpora
 element of subjectivity
+case case
 daily mail reader
+figure use
 different research design
 observation use
 test following
-need datum
-linguistic feature corpus
+baseline model
 model summary
 meaning of sentence
 difference rank
@@ -1747,32 +1697,33 @@ effect population
 wise comparison
 u test kruskal
 point p
+distance point
 time series
 quality of corpus
 reliability of analysis
 effect size confidence
 effect model
 normed frequency count
+project chapter
 datum spss
 mean score group
-approach language analysis
-corpus software program
 basis analysis
 natural language text
-book corpus
+book corpus linguistics
 conduct corpus
+relationship participant
 mode medium
-social medium post
-laurence anthony
 www laurenceanthony net software
 word file
 capture word
 frequent word corpus
 closed class word
+reason register
 passive voice sentence
 variation form
 gender difference
 book uses
+field of study
 bnc corpus
 individual text file
 n gram size
@@ -1781,32 +1732,26 @@ frequency of person
 relationship measure
 th percentile means
 score group
-variability datum
 number of turn
 test want
 observation cell
 involved production circumstance
-formulate research question
-mean square group
 division undergraduate
+effect relationship
+relationship type
 vowel consonant
 way set
 methodology study
-corpus datum annotation
 method method
 different classification approach
 model prediction
-cross validation
 classification approach
 mass weight
 level of granularity
 scent term reuk geur
 result of comparison
 language research
-r data
 datum post
-social medium language
-n gram word
 twitter datum
 entity use
 ready corpus tool
@@ -1814,58 +1759,55 @@ good corpus linguist
 version of script
 raw text file
 speech error
-notion of word
-check file
 block of code
+function r
 argument use
 vector qwe
-range operator
+r vector
 element of bb
 string vector
 vector r
 important issue corpus
 user chooses
 change element
-argument vector
+output vector
 dataframe csv
 column name
-datum data frame
+result value
 list vector
 single square bracket
 series of command
 fact use
 determine error
+way r
 vector list
-split character
 r of course
 grep returns position
 corpus element
-function matches
 line anchor
 expression like match
 match occurrence
 occurrence of character
 look verb
 issue exercise
-check code
 portmanteau tag
 character range
 define character class
 way look
 start end tag
+annotation tag
 different level of annotation
 sentence number
 package rchoicedialogs
 function use
 anonymous inline function
-course use
+term of role
 test goodness
 value of cell
-result gries
 test independence
 case datum
 distribution of vector
-value vector
+function vector
 regular expression search
 word line
 beginning of section
@@ -1873,9 +1815,10 @@ line word
 load prepare corpus file
 character gram
 table create frequency list
-file name directory
+corpus file dir
 windows system
 windows computer
+plot ecdf
 function script
 verb modal
 frequency sort
@@ -1893,13 +1836,12 @@ null hypothesis significance
 significant coefficient female versus
 statistical analysis determine
 vast majority of corpus
+example section
 optimal fixed effect structure
-family of method
 sc mc
-partial dependence score
 direction of effect
+random forests
 issue hand
-companion file
 single tree fit datum
 language works
 statistic corpus datum
@@ -1913,33 +1855,36 @@ handful of word
 individual word form
 child learner
 phenomenon study
+phi cram r v
 information sample
 search hit
 god truth fallacy
 database corpus
+digital humanity corpus
 problem of course
 use of pos
 fiction genre
+discussion conclusion
+example frequency
 use of capital
-bncweb interface
 part of name
-comparison of frequency
 total number of hit
 word choice
 result list
 multilingual language use
 lexical constructional bias
+annotation method
 linguistic research design
 replicability reproducibility
-corpora of language
+part of datum
 annotation category
-common corpus linguistics
+copyright problem
 open access publication
-solution workaround
+research language
 length limit
 fact text
 dataset contains
-corpus linguistics literature
+conclusion drawn
 corpus of tweet
 neural network architecture
 cluster output analysis
@@ -1948,49 +1893,51 @@ proportion of tweet
 distribution of occurrence
 annotation corpus datum
 search form
+verb walk
 consequence of fact
 feature of intonation
+kind of speech
 qualitative corpus analysis
-cambridge university press
-html cc html
+trump speech
+html cc
 level of adequacy
 discussion of language
-researcher study
+study type
 ethnographic information individual
 view result
 gender balance
 individual text sample
 ice contains
 ice bnc
-corpus contain sample
+humanity text
 comma pause
 language speak
 american component of ice
 multi party dialogue
 research assistant
-task corpus
 cassette tape
+right of word
 word processing program
 transcription of text
 transcription of speech
+corpus of speech
 creator of corpus
 transcription system
 police boat
 context frame rule
 use tag
 uk english usage projects
+frequent co occurrence
 quantitative analysis of corpora
+word table
 relevant datum corpus
 word selection criterion
 issue consider
+online corpus
+aspect of domain
 natural language speech
 book journal
-cluster analysis method
-cluster analysis tool
 thing world
-range of issue
-river tyne
-relevant research question
 phonetic segment interview
 point data
 point space
@@ -1999,20 +1946,25 @@ people city
 distance pair
 number n
 mean of value
-cluster tree
+frequency matrix
 document corpus
 segment transcription
 decrease value
+proximity data
 data geometry
 proximity measure
 method dimensionality reduction
+mean rate of occurrence
+column represent
 variable extraction method
-probability theory
 inner product of vector
+datum figure
 set of k
 dimensionality space
 proceeds step
+variance data
 right corner
+original datum matrix
 eigenvector eigenvalue
 superscript denotes
 number k
@@ -2026,45 +1978,50 @@ projection clustering
 number of cell
 training vector
 available software implementation
+selection of k
 suitable parameter value
+reference cluster
 average linkage tree
-respect datum
-cluster result
+number of data
+section outlines
+cophenetic correlation coefficient
 speaker g
 dbscan k mean
-result k
 result section
-range of language
 observation of language
-geographical variation research
 technology development
 question of nativity
+processing of corpus
 result publication
 type of material
 demographic information speaker writer
 information file
+corpus vary
 phenomenon x
 language way
 corpus comprises
 ing form of verb
 annotation software
-reference time
+coca interface
+data model
 corpus practitioner
 research paradigm
-homoform multi word unit
 list coverage
 different measure of dispersion
 different corpus part
 people cancer
 word set
+collocation corpus
 alternation phenomenon
-text order
 space discuss
 majority of example
+corpus analysis toolkit
 word brown corpus
 data format
+source target language
 paramount importance
 item structure
+language pair
 spoken learner corpora
 statistical significance testing
 particle verb
@@ -2072,14 +2029,17 @@ year time
 target child
 coverage c
 number of hour
+hour sample
 language acquisition research
+transcription annotation
+criterion set
 html code
 speech tagger
 scope of corpus
 web content
-current multimodal corpus
 sc length diff
 mean median
+issue dealt
 dimensional contingency table
 expected frequency cell
 proportion of variance
@@ -2093,12 +2053,11 @@ speaker behave
 residual standard error
 model quality
 multilevel model
+random effect model
 second level predictor
-practical guide r
-p predictor
-random effect factor
 subject random intercept
 model model
+datum sample
 parameter estimate
 entire data set
 bootstrap sample
@@ -2109,24 +2068,22 @@ area corpus linguistics
 different language register
 aggregate effect size
 moderator analysis
-research trend
 co citation analysis
 research collocation
 word noun
 exclamation mark
-corpus linguistics investigation
 order of frequency
+lob flob corpora
+question word
 fragment of reality
 example demonstrate
 set of sense
 try save
 sense mean
+manual datum extraction
 silverstein hierarchy
-reliability of annotation
-interrater reliability
 stride of horse
 return issue chapter
-raw datum table
 background assumption
 hypothesis swans
 percent probability
@@ -2137,30 +2094,32 @@ speaker preferring
 multivariate design
 old man use
 quality of result
-compare datum
 word structure
+table case study
+citation database
+study difference
 arm length
+hapax token
 stem affix
 fiction newspaper
 result differ
 differential collexeme analysis
 intensity of emotion
+text domain
+air force
 raise awareness
-use corpus datum
 section of book
-menu item
-corpus determine
 different text genre
 country country
+table of content
 trigger context menu
-source corpus
-web address
-extra line break
 simple corpus tool
 start antconc
 initial capital letter
 negative character class
 unlimited number of time
+test corpus
+restrict search
 simple pos tagger
 dropdown list click
 option click
@@ -2169,24 +2128,28 @@ search lemma
 single word list
 basic frequency list
 paste datum
+byu interface allow
 n gram analysis
 annotation refer
+xml declaration
 background colour
 pseudo class
+corpus childes
 computer tool
 grammatical category of word
 english speaking learner
+translation process
 evolution of language
-discourse connective
 cohesion marker
 usefulness of corpora
+year of residence
 parliamentary debate genre
 equivalence language
+possible look occurrence
 frequent content word
 datum collection phase
 different portion of corpus
 discourse segment
 condition cause
-calculate lexical dispersion corpus
 lexical richness of corpus
 word boat

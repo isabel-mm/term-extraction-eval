@@ -34,6 +34,13 @@ def contar_ocurrencias(terminos, texto):
         conteo[termino] = len(re.findall(r'\b' + re.escape(termino) + r'\b', texto))
     return conteo
 
+# Obtener términos más largos en los que aparece el término
+def obtener_terminos_mas_largos(terminos):
+    terminos_mas_largos = {}
+    for termino in terminos:
+        terminos_mas_largos[termino] = [t for t in terminos if termino in t and termino != t]
+    return terminos_mas_largos
+
 # Calcular C-Value
 def calcular_cvalue(terminos, conteo_ocurrencias):
     cvalue_scores = {}
@@ -68,9 +75,15 @@ if __name__ == "__main__":
     else:
         conteo_ocurrencias = contar_ocurrencias(terminos, texto_corpus)
         cvalue_scores = calcular_cvalue(terminos, conteo_ocurrencias)
+        terminos_mas_largos = obtener_terminos_mas_largos(terminos)
         
         # Guardar resultados en CSV
-        df_cvalue = pd.DataFrame(cvalue_scores.items(), columns=["Término", "C-Value"])
+        df_cvalue = pd.DataFrame({
+            "Término": cvalue_scores.keys(),
+            "C-Value": cvalue_scores.values(),
+            "Términos Más Largos": [", ".join(terminos_mas_largos[t]) for t in cvalue_scores.keys()]
+        })
+        
         df_cvalue = df_cvalue.sort_values(by="C-Value", ascending=False)
         df_cvalue.to_csv("cvalue_resultados.csv", encoding="utf-8", index=False)
         

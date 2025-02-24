@@ -1,691 +1,682 @@
-corpus linguistics	383
-case study	230
-research question	164
-corpus datum	151
-frequency list	140
+corpus linguistics	411
+corpus datum	170
+frequency list	150
 corpus linguist	128
-co occurrence	110
-p value	104
+p value	102
 language use	101
-word corpus	85
-word form	84
-word list	84
-effect size	81
-corpus file	75
-cluster analysis	71
-corpus study	69
+word form	95
+case study	92
+cluster analysis	88
+effect size	82
+corpus file	81
+word corpus	81
+word list	81
+co occurrence	79
+learner corpora	74
+data set	71
 chi square	69
-data set	69
-learner corpora	68
-data point	68
-learner corpus	62
-annotation scheme	61
-corpus analysis	61
-number of word	60
-concordance line	58
-parallel corpora	58
-corpus annotation	56
-reference corpus	55
-corpus research	55
-meta analysis	53
-data frame	53
-person pronoun	52
-language variety	50
+corpus study	68
+concordance line	65
+number of word	62
+data point	62
+reference corpus	59
+corpus analysis	59
+data frame	58
+annotation scheme	56
+learner corpus	56
+parallel corpora	56
+meta analysis	56
+language variety	53
+speech act	53
+person pronoun	53
+keyword analysis	53
+corpus research	52
 degree of freedom	50
-keyword analysis	50
-speech act	49
-text corpus	47
-text file	45
-confidence interval	44
-type token ratio	43
+data structure	48
+type token ratio	45
+confidence interval	45
+character string	45
+corpus compiler	43
+corpus building	43
 pos tag	43
-association measure	43
-character string	43
-multi word	42
-corpus building	41
-corpus compiler	40
-word length	40
-function word	40
+text corpus	42
+association measure	42
+text length	41
+corpus annotation	40
+text file	40
+text type	39
+use of corpora	39
 frequency of word	39
-text length	39
-research project	38
-word type	37
-use of corpora	37
-data structure	37
+word length	38
 character vector	37
-text type	34
-research design	34
-language datum	34
-discourse marker	34
-variety of english	33
-word frequency	33
-web corpus	33
-meta information	33
-word class	33
+word type	36
+corpus design	35
+function word	35
+research design	35
+research project	35
+word class	34
+language acquisition	34
+corpus contains	33
+type of datum	33
+pos tagging	33
+word occur	33
+part of speech	32
 web page	32
-corpus contains	32
-corpus design	32
-type of datum	32
-pos tagging	32
-word occur	32
-et al	32
-datum frame	32
-part of speech	30
+word frequency	32
+meta information	32
+discourse marker	32
+variety of english	31
+k mean	31
+web corpus	30
 test statistic	30
 speech tagging	30
-sample size	30
-natural language processing	29
-corpus size	28
-log likelihood	28
+log likelihood	29
+occurrence of word	29
+natural language processing	28
+language datum	28
 default setting	28
-language variation	27
 type of text	27
+corpus contain	27
 register analysis	27
-text category	27
-search result	27
-character class	27
-word phrase	27
-k means	27
-man woman	27
-occurrence of word	27
+sample size	27
+subordinate clause	27
+datum frame	27
 r code	27
 corpus query	26
+corpus size	26
 vice versa	26
-corpus compilation	26
-k mean	26
-language teaching	26
-corpus tool	26
-language acquisition	26
+character class	26
 ice gb	26
-lob corpus	26
-dimensionality reduction	26
-corpus contain	25
-frequency count	25
-frequency table	25
+find word	26
+word token	25
+search expression	25
+text category	25
+corpus compilation	25
+word phrase	25
 number of time	25
+datum point	25
 number of case	25
-point of view	25
-subordinate clause	25
+language teaching	25
+man woman	25
+corpus tool	25
+lob corpus	25
 type of information	25
 line of code	25
-pseudo title	25
+dimensionality reduction	25
+k means	25
 newspaper article	24
-measure of dispersion	24
-use of corpus	24
-correlation coefficient	24
-regression model	24
-datum point	24
+language documentation	24
 correspondence analysis	24
-sequence of word	24
-find word	24
+pseudo title	24
+word text	23
 corpus type	23
-language documentation	23
-sub corpora	23
-search engine	23
-research article	23
+type of corpus	23
+frequency count	23
+search result	23
+frequency table	23
+correlation coefficient	23
+regression model	23
+language variation	23
 thing need	23
-g lmm	23
-language user	22
-word token	22
-search expression	22
+sequence of word	23
+study of language	22
+number of occurrence	22
+stop word	22
+measure of dispersion	22
+use of corpus	22
+use corpus	22
+content word	22
+search engine	22
 number of text	22
-register variation	22
 function need	22
-research hypothesis	22
-size of corpus	21
+g lmm	22
+language user	21
 researcher use	21
-number of occurrence	21
-stop word	21
 need use	21
-content word	21
-language sample	21
+london lund	21
+frequency of occurrence	21
+multi word unit	21
 speech writing	21
-order determine	21
-male speaker	21
+register variation	21
 mann whitney	21
 code file	21
-order study	21
-study of language	20
-question mark	20
-london lund corpus	20
+multimodal corpus	21
+research hypothesis	21
+corpus text	20
+language corpus	20
+test hypothesis	20
+sub corpora	20
+classification tree	20
 log odd	20
-frequency of occurrence	20
+language sample	20
+speech tag	20
 row column	20
 want use	20
-search word	20
-punctuation mark	20
-type of corpora	19
-use language	19
-type of corpus	19
-corpus text	19
-language corpus	19
-face face	19
-use corpus	19
-specific research question	19
-classification tree	19
-speech community	19
+element of vector	20
+language technology	20
+sub corpus	19
+size of corpus	19
+question mark	19
 state of art	19
-speech tag	19
-pearson correlation	19
+time corpus	19
+male speaker	19
+search word	19
 operating system	19
-element of vector	19
+punctuation mark	19
 input vector	19
 actual script rstudio	19
-row vector	19
-language technology	19
-sub corpus	18
+language change	18
+use language	18
+face face	18
 analysis of corpus	18
+use of language	18
+speech community	18
+corpora contain	18
+target domain	18
 google books	18
-word sequence	18
-time corpus	18
 factor analysis	18
-word sample	18
-representative study	18
-exercise box	18
+compare result	18
+pearson correlation	18
 line break	18
+datum structure	18
 save file	18
 word boundary	18
 press reportage	18
-style sheet	18
-word text	17
-kind of datum	17
-test hypothesis	17
+time span	17
 type of annotation	17
-corpus use	17
 inclusion corpus	17
 time period	17
-research area	17
+file name	17
 speech sample	17
-language change	17
-use of language	17
-word frequency list	17
-word level	17
+number of token	17
 translation study	17
-word n	17
+word sequence	17
 field of corpus	17
-speaker writer	17
-compare result	17
-second language acquisition	17
-precision recall	17
+word sample	17
 dispersion measure	17
-datum structure	17
-word character	17
-multimodal corpus	17
-sample of language	16
-time span	16
-corpus search	16
+exercise box	17
+collector vector	17
+row vector	17
+style sheet	17
+corpus composition	16
 frequency distribution	16
-number of token	16
-datum table	16
+list of word	16
 set of variable	16
-word order	16
-target domain	16
+word level	16
 corpus architecture	16
-datum analysis	16
-type of analysis	16
 keyword list	16
 cut point	16
+speaker writer	16
 collection of text	16
-ice corpora	16
+example illustrate	16
 helsinki corpus	16
 sampling frame	16
+ice corpora	16
 group variance	16
-language corpora	16
+detail section	16
 split infinitive	16
 recommendation study exploration	16
-head tail	16
+precision recall	16
+word character	16
+word tag	16
 load corpus file	16
+response variable	16
+data matrix	16
 vector space	16
 connection vector	16
 frequency breakdown	16
-speech rate	15
-corpus composition	15
-text corpora	15
-different type of corpora	15
+way corpus	15
+type of corpora	15
+sample of language	15
+register study	15
+corpus search	15
+word sense	15
 statistical description analysis	15
-list of word	15
-conditional inference tree	15
+datum table	15
+word frequency list	15
+research article	15
 node word	15
-example illustrate	15
+matrix verb	15
+representative study	15
+second language acquisition	15
 word family	15
 matter of fact	15
-collector vector	15
 grammaticality judgment	15
-data matrix	15
 portion of corpus	15
 basis function	15
+speech rate	14
 type token	14
 find instance	14
 frequency datum	14
+search corpus	14
 audio file	14
-age group	14
-speech corpus	14
+multi word	14
+corpus use	14
 end of chapter	14
-corpus user	14
-file name	14
-annotation process	14
-corpora contain	14
+language feature	14
+word order	14
+word bnc	14
+datum analysis	14
+type of analysis	14
 word context	14
-mother tongue	14
+conditional inference tree	14
 conclusion chapter	14
-target language	14
 translation equivalent	14
 detail chapter	14
-matrix verb	14
-unit of analysis	14
-use word	14
 coefficient of variation	14
 use of word	14
 inter rater agreement	14
-x j	14
-information corpus	14
+language corpora	14
 selection criterion	14
-word tag	14
 model selection	14
-word occurrence	14
-multimodal corpora	14
+tyneside speech	14
+difference group	13
 point time	13
-representative of language	13
-register study	13
-kind of research	13
+structure of corpus	13
+age group	13
+research goal	13
 meaning of word	13
+study use	13
+frequency information	13
+regression analysis	13
+corpus software	13
+corpus user	13
 let look example	13
 software program	13
-information speaker	13
-language feature	13
-word bnc	13
+annotation process	13
+bar plot	13
 world englishes	13
 bnc coca	13
 learner language	13
+data collection	13
+co occurrence of word	13
 z score	13
 text analysis	13
 component of ice	13
-target corpus	13
 significance test	13
-significance level	13
+mother tongue	13
 combination of word	13
-collostruction strength	13
+target language	13
+corpus method	13
+unit of analysis	13
 monitor corpus	13
 dialect study	13
 number of study	13
-concordance analysis	13
 large amount of datum	13
-answer research question	13
-source target	13
-count number	13
 effect size measure	13
-corpus creator	13
+use word	13
 distribution of word	13
-contingency table	13
-row total	13
 described chapter	13
 definition of corpus	13
 vector x	13
+head tail	13
+apply function	13
 probability of error	13
 aspect of script	13
-tyneside speech	13
+hypothesis generation	13
 k cluster	13
 change time	12
+text corpora	12
 verb noun	12
-structure of corpus	12
-research goal	12
+text language	12
+representative of language	12
+datum corpus	12
+datum datum	12
+speech corpus	12
 language processing	12
 turn speaker	12
-frequency information	12
-search corpus	12
+text text	12
+analysis of datum	12
 introduction corpus linguistics	12
-number of cluster	12
+mixed effect model	12
 advantage disadvantage	12
 word of text	12
+target corpus	12
 corpus driven study	12
-collocation research	12
-corpus method	12
 complementation pattern	12
+collostruction strength	12
+application of corpus	12
+concordance analysis	12
 translation direction	12
-detail section	12
-apply function	12
-pearson chi square	12
+corpus creator	12
+zipf law	12
+contingency table	12
+row total	12
+information corpus	12
+load file	12
+pearson chi	12
+number of hit	12
 type of speech	12
-vector v	12
+datum matrix	12
 basis vector	12
+multimodal corpora	12
 high frequency verb	12
+word n	12
 pattern of language	11
-difference group	11
-matukar panau	11
-text language	11
-linguistic research question	11
-period of time	11
-reference corpora	11
+corpora corpus	11
+text genre	11
 kind of analysis	11
+corpus approach	11
 language study	11
-regression analysis	11
-corpus software	11
-text processing	11
 information word	11
-text text	11
+need corpus	11
 area of language	11
 corpus project	11
-analysis of datum	11
-difference language	11
+xml file	11
+information speaker	11
+number of cluster	11
 word processor	11
 software tool	11
-research study	11
+word word	11
+collocation research	11
 total number of word	11
 frequency dispersion	11
-word word	11
-application of corpus	11
+verb phrase	11
 second person pronoun	11
-source language	11
-zipf law	11
+production circumstance	11
+kind of datum	11
+source target	11
+count number	11
+word w	11
 collocation network	11
-form of verb	11
+cramer v	11
+x j	11
+information text	11
 word embedding	11
+datum retrieval	11
+number of row	11
 international corpus of learner	11
-datum matrix	11
-variation text length	11
-number of hit	11
+information retrieval	11
 british library newspapers	11
 open corpus linguistics	11
-trump speak	11
-sample of speech	11
 markup language	11
-data space	11
+vector v	11
 z standardization	11
 principal component analysis	11
-round bracket	11
-way corpus	10
+word occurrence	11
 corpus collection	10
-datum corpus	10
-datum datum	10
-word co	10
-set of word	10
+text production	10
+period of time	10
+reference corpora	10
+text processing	10
 mi score	10
+keyword context	10
 number of letter	10
-xml file	10
-particular research question	10
-build corpus	10
+research corpus	10
 annotation system	10
-instance of phenomenon	10
+form of word	10
+research area	10
 mixed effect regression	10
 test datum	10
-bar plot	10
 th percentile	10
 difference use	10
-mixed effect model	10
+quantitative corpus linguistics	10
 variety of language	10
-area of research	10
 word frequent	10
+difference language	10
+approach corpus	10
+corpus linguistics methodology	10
+learner datum	10
 let briefly	10
+significance level	10
+word sentence	10
+data analysis	10
 discourse domain	10
-study use	10
-verb phrase	10
 difference frequency	10
-occurrence corpus	10
-non corpus	10
+example of study	10
+corpus work	10
 solution problem	10
-production circumstance	10
-register difference	10
 student report	10
-data collection	10
 gardner davies	10
-speaker age	10
-create corpus	10
-word w	10
+source language	10
 frequency corpus	10
+cross tabulation	10
 independence of observation	10
-cramer v	10
 number of character	10
 type of language	10
-speech category	10
 search box	10
-look word	10
+form of verb	10
 different language variety	10
-information text	10
-value level	10
 interaction effect	10
 annotation tool	10
-computer program	10
 file manager	10
-number of row	10
 attribute value pair	10
 result file	10
+phenomenon investigation	10
+variation text length	10
 computer science	10
-information retrieval	10
-permission use	10
+trump speak	10
+sample of speech	10
 angle bracket	10
-language development	10
-source domain	10
-variationist sociolinguistics	9
+target discourse	10
+data space	10
+cluster validation	10
 multi cast	9
-corpora corpus	9
-text production	9
 wider range	9
-set of datum	9
-case corpus	9
+word co	9
+set of word	9
 example of language	9
-text speaker	9
-need corpus	9
 santa barbara corpus	9
-field of study	9
-form of word	9
+instance of phenomenon	9
+rate of occurrence	9
 kind of language	9
 rule of thumb	9
-corpus construction	9
-tool method	9
 research topic	9
-frequency analysis	9
-learner datum	9
-difference way	9
-data analysis	9
-target word	9
-example of study	9
-keyword context	9
-method corpus	9
+learner use	9
+language education	9
+result indicate	9
+research study	9
+occurrence corpus	9
+non corpus	9
 research report	9
+register difference	9
 purpose of study	9
-corpus work	9
+corpus sample	9
 present study	9
 frequency of use	9
 academic word list	9
 way use	9
 research application	9
 grammar book	9
+number of type	9
+speaker age	9
 feature of interest	9
 corpus designer	9
+create corpus	9
 different word form	9
+corpus differ	9
+example corpus	9
+fact corpus	9
 keyword procedure	9
 probability ratio	9
 distance measure	9
-use datum	9
+feature count	9
+look word	9
 n gram list	9
+value level	9
 mean score	9
 word turn	9
 concordance program	9
+computer program	9
 element of x	9
 row name	9
 end of line	9
 element of list	9
-length word	9
+sorted frequency list	9
 number of sentence	9
 source of datum	9
 order of magnitude	9
 define vector corpus file	9
-file corpus	9
 element corpus	9
-genre categorization	9
 bnc contains	9
 period of english	9
 v w	9
 graph distance	9
 computer language	9
-table case study	9
 comment exercise	9
+round bracket	9
 area of linguistics	8
+language community	8
 building corpus	8
-user of corpus	8
-research agenda	8
-variation language	8
+word construction	8
+language production	8
+content of corpus	8
 representativeness of corpus	8
 kind of question	8
+set of datum	8
+kind of research	8
 theory of language	8
 use corpora	8
 corpus consists	8
+corpus language	8
+corpus builder	8
+text speaker	8
 unit of measurement	8
+object of research	8
 optical character recognition	8
 group of speaker	8
 relationship word	8
-rate of occurrence	8
+corpus annotation corpus annotation	8
+matrix clause	8
 kendall tau	8
-logistic regression model	8
 lot of information	8
 multiple correspondence analysis	8
-collection of datum	8
+variationist sociolinguistics	8
+change language	8
 beginning of chapter	8
+corpus construction	8
+tool method	8
 section of corpus	8
-word corpora	8
-corpus linguistics methodology	8
+frequency analysis	8
 tag corpus	8
-fact word	8
-learner use	8
-case study section	8
-language education	8
+data type	8
+difference way	8
+target word	8
 term of frequency	8
 discourse study	8
 type of discourse	8
+corpus technique	8
+method corpus	8
 tend use	8
 case point	8
-context of corpus	8
-corpus sample	8
-learner corpus datum	8
 accuracy rate	8
 error analysis	8
 hour week	8
 word pair	8
 male female speaker	8
 type occur	8
-corpus differ	8
 value table	8
 judgement variable	8
-value cell	8
 result of test	8
+use datum	8
 group mean	8
 publication bias	8
+speech category	8
 corpus researcher	8
-feature count	8
+analysis corpus	8
 f score	8
 collocate display	8
-r function	8
-quantitative corpus linguistics	8
 output file	8
-vector factor	8
 list element	8
-sorted frequency list	8
-word sentence	8
-rchoose dir dir	8
+length word	8
 word tag combination	8
 classification accuracy	8
 particle placement	8
-phenomenon investigation	8
-work corpus	8
+context of corpus	8
+genre categorization	8
 open research practice	8
+generation corpus	8
 contains sample	8
-step process	8
+permission use	8
 avoid problem	8
-target discourse domain	8
-hypothesis generation	8
-cluster structure	8
+research domain	8
 distance vector	8
-n datum	8
 total number of occurrence	8
 k vector	8
-cluster validation	8
 software package	8
 hampe sch	8
 bogus refugee	8
+language development	8
 panel of fig	8
-merriam webster	8
-datum retrieval annotation	8
+speaker sex	8
+source domain	8
 revision question	8
 parce que	8
+language method	8
 property of text	7
-word construction	7
-kind of word	7
+matukar panau	7
 sentence structure	7
-content of corpus	7
+user of corpus	7
 corpus word	7
+research agenda	7
 example sentence	7
 web corpora	7
-corpus corpus	7
-example study	7
 string of character	7
-word sense disambiguation	7
 part of word	7
 training datum	7
+case corpus	7
 word collocate	7
 frequency of co	7
+question corpus	7
 layer of annotation	7
 form of annotation	7
-matrix clause	7
 form of language	7
-form function	7
 distance mean	7
 type of word	7
+logistic regression model	7
 reference level	7
-new zealand english	7
+random intercept	7
+error rate	7
 research community	7
 datum need	7
+collection of datum	7
 language usage	7
-research result	7
-page number	7
+corpora use	7
 english corpus linguistics	7
 project gutenberg	7
+word corpora	7
 word count	7
+fact word	7
 space character	7
 tone unit	7
 time bnc	7
-word meaning	7
 characteristic of corpus	7
 stage of language	7
 example of type	7
+body of research	7
 stefanowitsch gries	7
 word combination	7
-wh clause	7
-newspaper corpus	7
-corpus technique	7
+conversation analysis	7
 radio phone	7
-language analysis	7
-speaker group	7
+stance feature	7
 counsel phase	7
-corpora study	7
-historical corpus linguistics	7
+tertium comparationis	7
+learner corpus datum	7
 learner corpus study	7
 pos tagger	7
-contrastive interlanguage analysis	7
 case of word	7
-language learner	7
-word sense	7
 number of verb	7
+difference mean	7
 text of length	7
 expected frequency of collocation	7
-cross tab	7
 mosaic plot	7
 article type	7
 test result	7
 result of search	7
+coefficient of determination	7
 case group	7
-complement clause	7
+time frame	7
 language register	7
-linguistic point of view	7
 discussion section	7
 research issue	7
 frequency value	7
-size of sample	7
 element vector	7
 length of vector	7
 function name	7
-factor level	7
+argument vector	7
+vector factor	7
+number of column	7
 length of corpus	7
-file word	7
 section of chapter	7
 create frequency list	7
 position of match	7
@@ -696,395 +687,369 @@ file save	7
 set of value	7
 need create	7
 fichtner c	7
-compile result data frame	7
-second case study	7
+rchoose dir dir	7
+file corpus	7
 family word	7
-fact corpus	7
+variable importance score	7
+effect plot	7
 kind of annotation	7
 number of child	7
 document type	7
 replication crisis	7
-web datum	7
 quirk corpus	7
 www tei c	7
 spoken of bnc	7
-time frame	7
 segment of speech	7
 domain of interest	7
-data creation	7
-research domain	7
-metric square mds	7
+cluster structure	7
+n datum	7
+data vector	7
+document collection	7
+stress function	7
 e ps	7
-childes database	7
+python r	7
+translation choice	7
+commercial search engine	7
 code editor	7
-speaker sex	7
+practical guide r	7
+merriam webster	7
 window of car	7
 complex research design	7
-rank position	7
-hapax legomenon	7
 c unit	7
+field of linguistics	6
+language text	6
 query option	6
+kind of word	6
 corpus corpora	6
 text contains	6
 result corpus	6
-datum type	6
-language community	6
+conclusion corpus	6
 speech corpora	6
 university student	6
 rest of chapter	6
 corpora of english	6
-question corpus	6
+example of use	6
+corpus of language	6
 text need	6
 range of text	6
 research context	6
 transcription of spoken	6
 medium file	6
-corpus builder	6
 accuracy of annotation	6
-parameter value	6
-random intercept	6
+multi word expression	6
+form function	6
 decision tree	6
 numeric dependent variable	6
-error rate	6
-change language	6
 variation change	6
 difference length	6
+new zealand english	6
 time word	6
 presence absence	6
 b c	6
-language structure	6
 language system	6
-actual language use	6
-word use	6
+page number	6
+computer corpora	6
 variation use	6
 number of problem	6
 saw section	6
 john benjamins	6
-research corpus	6
+structure datum	6
 research team	6
 list of keyword	6
 word right	6
+word meaning	6
 list of collocate	6
 difference distribution	6
 section chapter	6
-multi word sequence	6
 word pattern	6
-use frequency	6
 corpus resource	6
-body of research	6
-conversation analysis	6
+wh clause	6
+corpus pragmatics	6
+language analysis	6
 point of comparison	6
 different variety of english	6
-stance feature	6
 intonation unit	6
-use of stance	6
+methodology corpus	6
 student use	6
-feature text	6
-tertium comparationis	6
-ice corpus	6
 ice component	6
 non standard use	6
+contrastive interlanguage analysis	6
 collocation box	6
+language learner	6
 error correction	6
 context of use	6
 type of exercise	6
-difference mean	6
+newspaper corpus	6
+choice of corpus	6
 significant difference group	6
+example illustrates	6
 absolute frequency of word	6
 time text	6
-example corpus	6
 collocation measure	6
-number of instance	6
-cross tabulation	6
-coefficient of determination	6
+cross tab	6
+value cell	6
 small sample size	6
 bonferroni correction	6
 news talk	6
 symposium presentation	6
+complement clause	6
+work corpora	6
 www english corpora org	6
 linguistic feature co	6
 type word	6
 frequency rank	6
 television radio	6
-text contain	6
-certain research question	6
-description of corpus	6
-analysis corpus	6
-distribution of value	6
 score dataset	6
 level of education	6
-social medium platform	6
-generate frequency list	6
-lexical co occurrence	6
+datum corpora	6
 construction grammar	6
-number character	6
+number of match	6
+size of sample	6
 vector length	6
 function table	6
-number of column	6
+factor level	6
 double square bracket	6
 interim result file	6
+file word	6
 verb particle construction	6
+define search expression	6
 extensible markup language	6
 xml format	6
 nature of datum	6
+data value	6
+function definition	6
 compute dp	6
 sentence length	6
-variable importance score	6
-effect plot	6
-order representative	6
-grammar pattern	6
+compile result data frame	6
+historical corpus linguistics	6
+metalinguistic language use	6
 unit of text	6
-research corpus linguistics	6
-distribution corpus	6
 number of sample	6
-data vector	6
+data creation	6
 column vector	6
 absolute magnitude of variability	6
 matrix row	6
 dimensionality of datum	6
+datum object	6
+euclidean distance matrix	6
 value of k	6
 input space	6
-p cluster	6
 piece of text	6
 word appear	6
-general reference corpus	6
 contrastive linguistics translation study	6
-translation choice	6
 time week	6
-commercial search engine	6
-respondent age	6
+childes database	6
 plot pca pca	6
-case study case study	6
+let discuss	6
+hapax legomenon	6
 character sequence	6
-language acquisition corpus	6
 racie avanc e corpus	6
-language text	5
-basic concept corpus linguistics	5
-language production	5
 article english	5
-ad hoc	5
 purpose of corpus	5
 idea of corpus	5
+variation language use	5
+corpus metadata	5
 term of size	5
 corpus reflect	5
 different age group	5
-metadata of corpus	5
 language rule	5
 result of study	5
 word language	5
-language r	5
-corpus language	5
 look information	5
 query corpus	5
-corpus of language	5
-step corpus	5
 availability of text	5
 consideration of space	5
-different type of annotation	5
-example word	5
 text content	5
-calculate distance	5
-poisson process	5
+parameter value	5
+table shows	5
 linear regression model	5
 type corpus	5
 different time period	5
 uses datum	5
 speaker use	5
 grammar of language	5
-language description	5
 class of word	5
 phenomenon of interest	5
-corpora use	5
-order test	5
-empirical case study	5
+research result	5
+language structure use	5
+word use	5
 english lingua franca	5
 current state of art	5
-address research question	5
 datum text	5
 verb cause	5
-computational tool method	5
 hardware software	5
+corpus corpus	5
 area of corpus	5
+word n gram	5
 notion of corpus	5
 annotation of corpus	5
 probability of outcome	5
 approach use	5
-structure datum	5
 voice quality	5
 speaker hearer	5
-keyness analysis	5
 case of collocation	5
 datum bnc	5
-token ratio	5
+distribution text	5
 description theory	5
 matrix table	5
-stress pattern	5
-telephone conversation	5
+singular present tense	5
 horror aequi	5
 time interval	5
 stem type	5
-reference grammar	5
 word register	5
 target item	5
-study of kind	5
 critical discourse analysis	5
+discourse type	5
 word cluster	5
-white house press	5
 research tool	5
 point of departure	5
-software application	5
-second generation corpus	5
+speaker group	5
+use of stance	5
 study corpus	5
-methodology corpus	5
-dimension score	5
-approach dialectology	5
+corpora study	5
+range of genre	5
+feature corpus	5
+register research	5
 variation corpus	5
+ice corpus	5
 research field	5
 balance representativeness	5
 section presents	5
+different mother tongue	5
 error annotation	5
-level of analysis	5
 general service list	5
 multiword unit	5
-line line	5
 corpus consultation	5
+post test	5
 percent of word	5
-literature review	5
 language language	5
 newspaper language	5
 sum of value	5
 regression line	5
+information value	5
+datum spreadsheet	5
 difference man woman	5
-different research question	5
-em em b er	5
+probability value	5
+datum data	5
+type of graph	5
+type of study	5
+em em b	5
 basis normalization	5
 sample standard deviation	5
+dispersion corpus	5
 relative frequency of word	5
 v v	5
 text b	5
+number of instance	5
 word time	5
 chapter focuses	5
 example use	5
-example of use	5
+use example	5
 type error	5
 rank group	5
 correspondence plot	5
 development of language	5
-sentence word	5
 end of book	5
 approach study	5
+co occurrence pattern	5
 unit of language	5
 coca bnc	5
+text contain	5
 address problem	5
 set of question	5
+news text	5
 central tendency measure	5
+distribution of value	5
 population sample drawn	5
 significant difference use	5
-natural science mean	5
 chapter of book	5
-case variable	5
-news agency	5
+entity recognition	5
+cross validation	5
+social medium platform	5
 sentence type	5
 concordance of word	5
-datum corpora	5
+r function	5
 translation language	5
-information frequency	5
-number of match	5
-data structure r	5
+lexical co occurrence	5
 argument specifies	5
 vector txt	5
 vector element	5
 number of level	5
 access element	5
 result vector	5
-search option	5
 attribute of vector	5
 match character	5
 non word character	5
+check code	5
 problem arises	5
-define search expression	5
+course use	5
 bnc world edition	5
 xml tag	5
 xml version	5
-case study chapter	5
 main subordinate clause	5
 row contain	5
 categorical dependent variable	5
 frequency of construction	5
 reason of space	5
-word differ	5
 word gram	5
 capital letter	5
 collocate slot	5
-high token frequency	5
 loglength type	5
-different type of datum	5
+response x	5
 word of corpus	5
 pattern corpus	5
-statistical software package	5
+grammar pattern	5
 test of independence	5
 association strength	5
 cram r v	5
-metalinguistic language use	5
-digital humanity corpus	5
 quantitative corpus linguist	5
 ambiguity tag	5
-corpus interface	5
 number of error	5
-rissanen problem	5
-choice of corpus	5
+web datum	5
+child language datum	5
+solution workaround	5
 proportion of text	5
 sentence boundary	5
 lengthwise quantile	5
 bilingualism score	5
 speaker turn	5
 sentence corpus	5
-corpus vary	5
-computer corpus	5
+distribution corpus	5
 number of speaker	5
 observer paradox	5
 ice usa	5
-speaker b	5
 question consider	5
 specialized word list	5
-cluster analysis hypothesis generation	5
 speaker cluster	5
 datum manifold	5
-document collection	5
 second problem	5
 reduced dimensionality representation	5
-variance of v	5
-data object	5
-euclidean distance matrix	5
-stress function	5
-datum object	5
+metric square mds	5
+distance relation	5
 cluster shape	5
+data object	5
 core point	5
+p cluster	5
 closeness pair	5
-complete linkage distance	5
 corpus generation	5
 frequency range	5
+general reference corpus	5
 future direction chapter	5
 look case	5
-level of formality	5
 hit rate	5
-multimodal corpus research	5
 look file	5
 dimension inspect	5
-representative research question	5
 visualisation technique	5
-datum order	5
-random effect model	5
 contour line	5
-citation analysis	5
 keyword theme	5
 native speaker of language	5
 intuition datum	5
-result of query	5
+bnc baby	5
+way search	5
+ditto tag	5
 assign label	5
-coin flip	5
+series of head	5
 number of degree	5
-bivariate design	5
 word expression	5
 introduce study	5
 quotation mark	5
@@ -1094,41 +1059,41 @@ context menu	5
 issue encounter	5
 byu interface	5
 year france	5
-language method	5
 collocation word	5
 le monde corpus	5
 annotation manual	5
+lexical dispersion corpus	5
 base of normalization	5
 discourse context	4
-field of linguistics	4
 modern corpus linguistics	4
 space punctuation	4
+basic concept corpus linguistics	4
 example of text	4
 corpus meant	4
-design principle	4
+different research project	4
 situational characteristic of text	4
-corpus metadata	4
-hand hand	4
+datum type	4
+interest corpus	4
 family of corpora	4
+language choice	4
 look study	4
 behaviour profile	4
 sense disambiguation	4
 cause time factor	4
 language context	4
+result study	4
 word morpheme	4
 problem arise	4
+language r	4
 measure of association	4
-colligation collostruction	4
 sample datum	4
+problem corpus	4
 design criterion	4
-datum language	4
-order use	4
 type of file	4
 language world	4
 metadata corpus	4
 living room	4
 value corpus	4
-different type of information	4
 different form of verb	4
 token word	4
 argument structure	4
@@ -1137,19 +1102,18 @@ dependency relation	4
 annotation layer	4
 number of clause	4
 use simple	4
+poisson process	4
+datum use	4
 information table	4
-table shows	4
+recursive partitioning method	4
 speaker text	4
-group of language	4
-corpora datum	4
+corpus sociolinguistics	4
 set of feature	4
 interview datum	4
-corpus variety	4
 coca coha	4
+variation register	4
 access datum	4
-history of language	4
 corpus development	4
-approach corpus	4
 computer analysis	4
 strength weakness	4
 available sketch engine	4
@@ -1158,25 +1122,26 @@ level annotation	4
 type of resource	4
 sheer size	4
 low frequency word	4
-type of search	4
-word size	4
 word contain	4
 word glowbe	4
+computational tool method	4
 computational method tool	4
 high quality recording	4
 small set of word	4
 collocate node	4
 corpus retrieval software	4
+high frequency word	4
 inspection of concordance	4
+comparison of frequency	4
 construction pattern	4
 statistic corpus linguistics	4
 search function	4
-keyword key	4
+keyness analysis	4
 form meaning	4
-method study	4
+important role play	4
 minimum co occurrence frequency	4
 result outcome	4
-distribution text	4
+language description	4
 text use	4
 word total	4
 area of grammar	4
@@ -1186,223 +1151,217 @@ genre text type	4
 logistic regression analysis	4
 core modal	4
 frequency frequency	4
-word formation	4
 historical corpus linguist	4
 description of language	4
+reference grammar	4
 base form of verb	4
-discourse type	4
+study of kind	4
 indication of speaker	4
-diachronic study	4
-eighteenth century collection	4
+white house press	4
+press conference	4
+software application	4
+research datum	4
+eighteenth century collection online	4
 discourse community	4
 use of feature	4
-research question study	4
 number of year	4
-range of genre	4
-feature corpus	4
+word lemma	4
 individual feature approach	4
-register research	4
+dimension score	4
 sentence contain	4
 engineering content	4
-register parameter	4
+feature text	4
 matter of degree	4
-different type of text	4
 research discipline	4
 building block	4
+concordance search	4
+approach dialectology	4
+letter editor	4
 second language variety	4
+small scale study	4
 approach analysis	4
 language contact	4
-sla study	4
+multi word item	4
 word beginning	4
-different mother tongue	4
 verb adverb	4
 learner l	4
 research method	4
 study shows	4
 word subset	4
-lemma word family	4
 frequency of item	4
 corpus time	4
 frequency column	4
 language question	4
 book chapter	4
-post test	4
+study design	4
 need of study	4
 number of way	4
-core corpus	4
+focus form	4
 english norwegian parallel corpus	4
 fiction text	4
 certain text type	4
 publishing house	4
-text domain	4
-translation process	4
 book book	4
 exercise reader	4
 available companion website	4
-information value	4
 value mean	4
-probability value	4
+normality assumption	4
+end of text	4
 datum exploration	4
-type of graph	4
-example illustrates	4
 straightforward approach	4
+use frequency	4
 speaker sample	4
+calculate distance	4
 collocation graph	4
 figure note	4
 probability of occurrence	4
 interest context	4
 test met	4
-baseline model	4
+need datum	4
+linguistic feature corpus	4
 baseline value	4
 scale predictor	4
 comma dash	4
 correlation population	4
 correlation matrix	4
 point b	4
-different type of language	4
 corpus needs	4
 variation datum	4
-example section	4
-statistical test use	4
 gender use	4
 use of pronoun	4
-cross tabulation table	4
-distance point	4
 peak trough technique	4
 different part of world	4
-work corpora	4
-research paper	4
+sentence word	4
 large amount of text	4
-different type of analysis	4
+difference word	4
 writer speaker	4
-assumption language	4
+telephone conversation	4
 level of instruction	4
+laurence anthony	4
 work text	4
 find verb	4
 decision use	4
 frequency comparison	4
-building corpora	4
 twitter post	4
 research purpose	4
-news text	4
 design of corpus	4
 text display score	4
 use lot	4
-student presentation	4
+hand corner	4
 variability dependent	4
 independent dependent variable	4
 df b	4
 discipline level of instruction	4
-effect relationship	4
 structure corpus	4
 need of researcher	4
-entity recognition	4
 data annotation	4
-previous case study	4
 number of example	4
 annotation standard	4
 twitter corpus	4
+news agency	4
 machine language	4
+social media language	4
 entity corpus	4
 kind of result	4
+generate frequency list	4
 related corpus linguistics	4
 time effort	4
 perl python	4
 perform search	4
+information frequency	4
 column table	4
-function r	4
+notion of word	4
 introduction r	4
 vector of word	4
 vector contains	4
 use argument	4
 access part	4
-argument vector factor	4
-part of datum	4
 form of analysis	4
 remainder of book	4
-function loop	4
 iteration of loop	4
-output vector	4
-way r	4
+search option	4
 multiple element vector	4
+split character	4
 argument character vector	4
 element of text	4
 second line of code	4
+function matches	4
 natcorp ox ac	4
 start tag	4
 utterance tag	4
-data value	4
 line retrieves	4
-function definition	4
 lot of time	4
+case study chapter	4
 percent of variation	4
 probability p	4
 percent of datum	4
+word differ	4
 line number	4
 rchoose dir define directory	4
 clear memory define load	4
-corpus file dir	4
-plot ecdf	4
 vector counter	4
 corpus example	4
 collocation x	4
 regression equation	4
 optimal random effect structure	4
 analysis section	4
-way interaction	4
+family of method	4
+partial dependence score	4
 binary logistic regression model	4
+work corpus	4
 concordance result	4
 key item analysis	4
 research interest	4
+work corpus linguistics	4
 difference category	4
 distribution figure	4
-phi cram r v	4
 rank sum	4
 particular research project	4
 user of corpora	4
 speech annotation	4
 co uk	4
 word name	4
-case word	4
+corpus interface	4
 digital scholar lab	4
-child language datum	4
+rissanen problem	4
+corpora of language	4
 approach problem	4
-research language	4
 length distribution	4
-generation corpus	4
-conclusion drawn	4
 philosophy of science	4
 transcription information	4
 corpus chapter	4
-kind of speech	4
 record of text	4
 permit study	4
+computer corpus	4
 kind of variation	4
+age gender	4
 large number of word	4
 individual speech writing	4
 woman man	4
-right of word	4
+task corpus	4
 sample b	4
 sample contains	4
 speaker corpus	4
+speaker b	4
 trump twitter	4
-frequent co occurrence	4
-cluster analysis corpus	4
+cluster analysis method	4
+river tyne	4
 representation of domain	4
 vector space v	4
 real world object	4
 data dimensionality	4
 n dimensional datum matrix	4
+probability theory	4
 variable column variable	4
-distance relation	4
 definition of similarity	4
 cluster c	4
 distance cluster	4
 point manifold	4
 lattice cell	4
-cosine proximity	4
 noise point	4
 tree building sequence	4
+single linkage criterion	4
+single linkage distance	4
 intrinsic cluster structure	4
 mean of sum	4
 index value	4
@@ -1410,22 +1369,23 @@ chronological variation research	4
 observed language use	4
 linguistics language technology	4
 corpus offer	4
-data model	4
+homoform multi word unit	4
 lexical decision task	4
-collocation corpus	4
 foreign language learner	4
 occurrence of verb	4
 sort result	4
 issue challenge	4
 transcription convention	4
+level of formality	4
 method of analysis	4
 target source	4
-language pair	4
 group of learner	4
+web corpus approach	4
 explore detail	4
-issue dealt	4
-practical guide r section	4
+case variable	4
+data table	4
 input table	4
+stress pattern	4
 wiggly basis function	4
 effective degree of freedom	4
 contour plot	4
@@ -1433,45 +1393,45 @@ diphone deviation	4
 sample of size	4
 high frequency vocabulary	4
 relationship response	4
+citation analysis	4
 corpus linguistics paper	4
 major point of criticism	4
 matter n	4
-discuss detail section	4
 sub discipline of linguistics	4
-bnc baby	4
-way search	4
-category label	4
+result of query	4
+interrater reliability	4
 possessive modifier discourse	4
+coin flip	4
 flip coin time	4
 modifier of possessive	4
 probability significance	4
 level of significance	4
 difference construction	4
+bivariate design	4
 world knowledge	4
 boy girl	4
-grammar case	4
 v link adj	4
 verb begin	4
 choose option	4
 jane austen	4
 hesitation marker	4
+web address	4
+meta datum	4
+source corpus	4
 zip archive	4
 word document	4
 change search term	4
 check box	4
-word form mind	4
 compound noun	4
 word end	4
 sherlock holmes	4
 particular word class	4
 click cell	4
 degree of relatedness	4
-xml declaration	4
 specific language impairment	4
 quantitative corpus study	4
 main limitation use	4
 child autism spectrum disorder	4
-year of residence	4
 translation universal	4
 corpus internet	4
 frequency class number	4
@@ -1484,9 +1444,10 @@ spoken language corpora	3
 language differ	3
 linguistic characteristic of text	3
 population of text	3
-different research project	3
+ad hoc	3
 real life language	3
 context of language	3
+design principle	3
 different text type	3
 large number of people	3
 production perception	3
@@ -1497,77 +1458,66 @@ raw datum metadata	3
 situational feature of text	3
 result analysis	3
 test difference	3
+hand hand	3
 specific research goal	3
 standard reference corpus	3
 atc corpora	3
 example collection	3
 sex age	3
 aspect of research	3
+big reference corpora	3
 language family	3
-language choice	3
 account probability	3
 context use	3
+issue discuss	3
 word company	3
 pairwise correlation	3
-result study	3
 aligner use	3
 applied corpus linguistics	3
-turn duration	3
 picture book	3
 referent expression	3
-example context	3
+step corpus	3
+aim of corpus	3
 dispersion plot	3
 handful of text	3
 woman soap	3
 woman woman	3
-association word	3
 word of interest	3
 occurrence of w	3
 lot of people	3
 speech of word	3
-corpus hand	3
 information theory	3
 compiler of corpus	3
 set of factor	3
-problem corpus	3
-corpus contain text	3
-entry point	3
 web crawler	3
+datum language	3
 speech production	3
 language speaker	3
 world language	3
 r package	3
 computer script	3
-corpus range	3
+importance of corpora	3
 day night	3
 co reference relation	3
 annotation time	3
 way datum	3
 oslo bergen corpus	3
 form text	3
-relation word	3
-referent index	3
 set of example	3
-way language	3
-difficult time consuming	3
 meet assumption	3
-assumption datum	3
 bell curve	3
 normal distribution mean	3
 datum range	3
-datum use	3
 test chi	3
-example dataset	3
 test result table	3
-recursive partitioning method	3
 datum help	3
 effect random	3
 predictor of interest	3
 pronoun use	3
-datum section	3
-sense of datum	3
 method help	3
+reason focus	3
 particular language variety	3
+corpora datum	3
 wellington corpus	3
 black south africans	3
 apparent time study	3
@@ -1578,60 +1528,59 @@ annotation file	3
 particular point time	3
 annotation metadata	3
 research variation	3
+datum research	3
+study language use	3
 facet of language	3
-work author	3
 head noun	3
 possibility use	3
+corpora corpora	3
 language investigation	3
 number of collocate	3
 year period	3
 target audience	3
 study area	3
 corpus research area	3
+type of search	3
+word size	3
 difference genre	3
 advance technology	3
 computer searching	3
 speech recognition software	3
-example line	3
+search item	3
 n gram method	3
 significance of difference	3
 word of caution	3
 number of result	3
-high frequency word	3
-social science research	3
 different association measure	3
-frequency effect	3
 different word type	3
 concordance datum	3
 application of chi	3
 predictor effect	3
 datum violate assumption	3
 regression approach	3
-tree structure	3
 exploratory tool	3
 use of prominence	3
+keyword key	3
 briefly introduce	3
 analysis example	3
 word span	3
-important role play	3
+difference near synonym	3
 state of affair	3
-present case study	3
-purpose of chapter	3
 study begin	3
 way word	3
 sample of study	3
 discourse structure	3
 analysis procedure	3
-approach identify	3
+token ratio	3
 study of grammar	3
 advance corpus	3
-view of language	3
+corpus grammar	3
 wall street journal	3
+likelihood ratio	3
 frequency change	3
 clause clause	3
-role play	3
 dalton puffer	3
-different point time	3
+word formation	3
 ment type database	3
 association pattern	3
 difference term	3
@@ -1639,11 +1588,9 @@ proportion of language	3
 object of sentence	3
 speaker role	3
 word string	3
-press conference	3
 use of hedge	3
 family member	3
-study research question	3
-example coca	3
+spoken corpus focus	3
 example spoken	3
 different language background	3
 academic formula list	3
@@ -1651,19 +1598,19 @@ phase of interaction	3
 range of feature	3
 author identity	3
 analysis start	3
-high frequency item	3
+group of language	3
 point corpus	3
 example of pos	3
-register subregister	3
 analysis technique	3
 n delaney collentine	3
+compare register	3
 slope stability analysis	3
 research group	3
 active voice sentence	3
+register parameter	3
 period sample	3
 large collection of text	3
 concordance package	3
-concordance search	3
 range of method	3
 different variety of language	3
 dialectology sociolinguistics	3
@@ -1672,44 +1619,45 @@ background information	3
 bre ame	3
 newspaper section	3
 envelope of variation	3
-small scale study	3
 component of bnc	3
+corpus evidence	3
 large scale study	3
 elf speaker	3
 lcr study	3
+sla study	3
 transfer mother tongue	3
 native learner corpus	3
+level of analysis	3
+lemma word family	3
 gsl avl	3
-corpus source	3
 change result	3
 attempt use	3
 language dictionary	3
+information need	3
 pattern of word	3
-corpus purpose	3
 word usage	3
 corpus result	3
 level of proficiency	3
 interaction corpus	3
 collocation idiom	3
 feature time	3
-study design	3
-target feature	3
-focus form	3
+treatment of passive	3
+core corpus	3
 translation shift	3
 mean sentence length	3
 percentage of text	3
 bootstrap test	3
 source of information	3
 figure introduction	3
-normality assumption	3
-wide range of text	3
+null hypothesis states	3
 type of bias	3
-corpus order	3
-information datum	3
+text copyright	3
+look frequency	3
+corpus answer	3
+trend datum	3
 male speaker female speaker	3
 punctuation token	3
 source of variation	3
-dispersion corpus	3
 number of part	3
 total number of token	3
 time time	3
@@ -1724,13 +1672,15 @@ collocate occur	3
 frequency exclusivity	3
 difference text	3
 excerpt b	3
+comparison corpora	3
 element of subjectivity	3
+case case	3
 daily mail reader	3
+figure use	3
 different research design	3
 observation use	3
 test following	3
-need datum	3
-linguistic feature corpus	3
+baseline model	3
 model summary	3
 meaning of sentence	3
 difference rank	3
@@ -1747,32 +1697,33 @@ effect population	3
 wise comparison	3
 u test kruskal	3
 point p	3
+distance point	3
 time series	3
 quality of corpus	3
 reliability of analysis	3
 effect size confidence	3
 effect model	3
 normed frequency count	3
+project chapter	3
 datum spss	3
 mean score group	3
-approach language analysis	3
-corpus software program	3
 basis analysis	3
 natural language text	3
-book corpus	3
+book corpus linguistics	3
 conduct corpus	3
+relationship participant	3
 mode medium	3
-social medium post	3
-laurence anthony	3
 www laurenceanthony net software	3
 word file	3
 capture word	3
 frequent word corpus	3
 closed class word	3
+reason register	3
 passive voice sentence	3
 variation form	3
 gender difference	3
 book uses	3
+field of study	3
 bnc corpus	3
 individual text file	3
 n gram size	3
@@ -1781,32 +1732,26 @@ frequency of person	3
 relationship measure	3
 th percentile means	3
 score group	3
-variability datum	3
 number of turn	3
 test want	3
 observation cell	3
 involved production circumstance	3
-formulate research question	3
-mean square group	3
 division undergraduate	3
+effect relationship	3
+relationship type	3
 vowel consonant	3
 way set	3
 methodology study	3
-corpus datum annotation	3
 method method	3
 different classification approach	3
 model prediction	3
-cross validation	3
 classification approach	3
 mass weight	3
 level of granularity	3
 scent term reuk geur	3
 result of comparison	3
 language research	3
-r data	3
 datum post	3
-social medium language	3
-n gram word	3
 twitter datum	3
 entity use	3
 ready corpus tool	3
@@ -1814,58 +1759,55 @@ good corpus linguist	3
 version of script	3
 raw text file	3
 speech error	3
-notion of word	3
-check file	3
 block of code	3
+function r	3
 argument use	3
 vector qwe	3
-range operator	3
+r vector	3
 element of bb	3
 string vector	3
 vector r	3
 important issue corpus	3
 user chooses	3
 change element	3
-argument vector	3
+output vector	3
 dataframe csv	3
 column name	3
-datum data frame	3
+result value	3
 list vector	3
 single square bracket	3
 series of command	3
 fact use	3
 determine error	3
+way r	3
 vector list	3
-split character	3
 r of course	3
 grep returns position	3
 corpus element	3
-function matches	3
 line anchor	3
 expression like match	3
 match occurrence	3
 occurrence of character	3
 look verb	3
 issue exercise	3
-check code	3
 portmanteau tag	3
 character range	3
 define character class	3
 way look	3
 start end tag	3
+annotation tag	3
 different level of annotation	3
 sentence number	3
 package rchoicedialogs	3
 function use	3
 anonymous inline function	3
-course use	3
+term of role	3
 test goodness	3
 value of cell	3
-result gries	3
 test independence	3
 case datum	3
 distribution of vector	3
-value vector	3
+function vector	3
 regular expression search	3
 word line	3
 beginning of section	3
@@ -1873,9 +1815,10 @@ line word	3
 load prepare corpus file	3
 character gram	3
 table create frequency list	3
-file name directory	3
+corpus file dir	3
 windows system	3
 windows computer	3
+plot ecdf	3
 function script	3
 verb modal	3
 frequency sort	3
@@ -1893,13 +1836,12 @@ null hypothesis significance	3
 significant coefficient female versus	3
 statistical analysis determine	3
 vast majority of corpus	3
+example section	3
 optimal fixed effect structure	3
-family of method	3
 sc mc	3
-partial dependence score	3
 direction of effect	3
+random forests	3
 issue hand	3
-companion file	3
 single tree fit datum	3
 language works	3
 statistic corpus datum	3
@@ -1913,33 +1855,36 @@ handful of word	3
 individual word form	3
 child learner	3
 phenomenon study	3
+phi cram r v	3
 information sample	3
 search hit	3
 god truth fallacy	3
 database corpus	3
+digital humanity corpus	3
 problem of course	3
 use of pos	3
 fiction genre	3
+discussion conclusion	3
+example frequency	3
 use of capital	3
-bncweb interface	3
 part of name	3
-comparison of frequency	3
 total number of hit	3
 word choice	3
 result list	3
 multilingual language use	3
 lexical constructional bias	3
+annotation method	3
 linguistic research design	3
 replicability reproducibility	3
-corpora of language	3
+part of datum	3
 annotation category	3
-common corpus linguistics	3
+copyright problem	3
 open access publication	3
-solution workaround	3
+research language	3
 length limit	3
 fact text	3
 dataset contains	3
-corpus linguistics literature	3
+conclusion drawn	3
 corpus of tweet	3
 neural network architecture	3
 cluster output analysis	3
@@ -1948,49 +1893,51 @@ proportion of tweet	3
 distribution of occurrence	3
 annotation corpus datum	3
 search form	3
+verb walk	3
 consequence of fact	3
 feature of intonation	3
+kind of speech	3
 qualitative corpus analysis	3
-cambridge university press	3
-html cc html	3
+trump speech	3
+html cc	3
 level of adequacy	3
 discussion of language	3
-researcher study	3
+study type	3
 ethnographic information individual	3
 view result	3
 gender balance	3
 individual text sample	3
 ice contains	3
 ice bnc	3
-corpus contain sample	3
+humanity text	3
 comma pause	3
 language speak	3
 american component of ice	3
 multi party dialogue	3
 research assistant	3
-task corpus	3
 cassette tape	3
+right of word	3
 word processing program	3
 transcription of text	3
 transcription of speech	3
+corpus of speech	3
 creator of corpus	3
 transcription system	3
 police boat	3
 context frame rule	3
 use tag	3
 uk english usage projects	3
+frequent co occurrence	3
 quantitative analysis of corpora	3
+word table	3
 relevant datum corpus	3
 word selection criterion	3
 issue consider	3
+online corpus	3
+aspect of domain	3
 natural language speech	3
 book journal	3
-cluster analysis method	3
-cluster analysis tool	3
 thing world	3
-range of issue	3
-river tyne	3
-relevant research question	3
 phonetic segment interview	3
 point data	3
 point space	3
@@ -1999,20 +1946,25 @@ people city	3
 distance pair	3
 number n	3
 mean of value	3
-cluster tree	3
+frequency matrix	3
 document corpus	3
 segment transcription	3
 decrease value	3
+proximity data	3
 data geometry	3
 proximity measure	3
 method dimensionality reduction	3
+mean rate of occurrence	3
+column represent	3
 variable extraction method	3
-probability theory	3
 inner product of vector	3
+datum figure	3
 set of k	3
 dimensionality space	3
 proceeds step	3
+variance data	3
 right corner	3
+original datum matrix	3
 eigenvector eigenvalue	3
 superscript denotes	3
 number k	3
@@ -2026,45 +1978,50 @@ projection clustering	3
 number of cell	3
 training vector	3
 available software implementation	3
+selection of k	3
 suitable parameter value	3
+reference cluster	3
 average linkage tree	3
-respect datum	3
-cluster result	3
+number of data	3
+section outlines	3
+cophenetic correlation coefficient	3
 speaker g	3
 dbscan k mean	3
-result k	3
 result section	3
-range of language	3
 observation of language	3
-geographical variation research	3
 technology development	3
 question of nativity	3
+processing of corpus	3
 result publication	3
 type of material	3
 demographic information speaker writer	3
 information file	3
+corpus vary	3
 phenomenon x	3
 language way	3
 corpus comprises	3
 ing form of verb	3
 annotation software	3
-reference time	3
+coca interface	3
+data model	3
 corpus practitioner	3
 research paradigm	3
-homoform multi word unit	3
 list coverage	3
 different measure of dispersion	3
 different corpus part	3
 people cancer	3
 word set	3
+collocation corpus	3
 alternation phenomenon	3
-text order	3
 space discuss	3
 majority of example	3
+corpus analysis toolkit	3
 word brown corpus	3
 data format	3
+source target language	3
 paramount importance	3
 item structure	3
+language pair	3
 spoken learner corpora	3
 statistical significance testing	3
 particle verb	3
@@ -2072,14 +2029,17 @@ year time	3
 target child	3
 coverage c	3
 number of hour	3
+hour sample	3
 language acquisition research	3
+transcription annotation	3
+criterion set	3
 html code	3
 speech tagger	3
 scope of corpus	3
 web content	3
-current multimodal corpus	3
 sc length diff	3
 mean median	3
+issue dealt	3
 dimensional contingency table	3
 expected frequency cell	3
 proportion of variance	3
@@ -2093,12 +2053,11 @@ speaker behave	3
 residual standard error	3
 model quality	3
 multilevel model	3
+random effect model	3
 second level predictor	3
-practical guide r	3
-p predictor	3
-random effect factor	3
 subject random intercept	3
 model model	3
+datum sample	3
 parameter estimate	3
 entire data set	3
 bootstrap sample	3
@@ -2109,24 +2068,22 @@ area corpus linguistics	3
 different language register	3
 aggregate effect size	3
 moderator analysis	3
-research trend	3
 co citation analysis	3
 research collocation	3
 word noun	3
 exclamation mark	3
-corpus linguistics investigation	3
 order of frequency	3
+lob flob corpora	3
+question word	3
 fragment of reality	3
 example demonstrate	3
 set of sense	3
 try save	3
 sense mean	3
+manual datum extraction	3
 silverstein hierarchy	3
-reliability of annotation	3
-interrater reliability	3
 stride of horse	3
 return issue chapter	3
-raw datum table	3
 background assumption	3
 hypothesis swans	3
 percent probability	3
@@ -2137,30 +2094,32 @@ speaker preferring	3
 multivariate design	3
 old man use	3
 quality of result	3
-compare datum	3
 word structure	3
+table case study	3
+citation database	3
+study difference	3
 arm length	3
+hapax token	3
 stem affix	3
 fiction newspaper	3
 result differ	3
 differential collexeme analysis	3
 intensity of emotion	3
+text domain	3
+air force	3
 raise awareness	3
-use corpus datum	3
 section of book	3
-menu item	3
-corpus determine	3
 different text genre	3
 country country	3
+table of content	3
 trigger context menu	3
-source corpus	3
-web address	3
-extra line break	3
 simple corpus tool	3
 start antconc	3
 initial capital letter	3
 negative character class	3
 unlimited number of time	3
+test corpus	3
+restrict search	3
 simple pos tagger	3
 dropdown list click	3
 option click	3
@@ -2169,24 +2128,28 @@ search lemma	3
 single word list	3
 basic frequency list	3
 paste datum	3
+byu interface allow	3
 n gram analysis	3
 annotation refer	3
+xml declaration	3
 background colour	3
 pseudo class	3
+corpus childes	3
 computer tool	3
 grammatical category of word	3
 english speaking learner	3
+translation process	3
 evolution of language	3
-discourse connective	3
 cohesion marker	3
 usefulness of corpora	3
+year of residence	3
 parliamentary debate genre	3
 equivalence language	3
+possible look occurrence	3
 frequent content word	3
 datum collection phase	3
 different portion of corpus	3
 discourse segment	3
 condition cause	3
-calculate lexical dispersion corpus	3
 lexical richness of corpus	3
 word boat	3

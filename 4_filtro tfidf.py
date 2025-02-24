@@ -37,6 +37,9 @@ if not documentos:
 
 print(f"✅ Se han cargado {len(documentos)} documentos.")
 
+# Definir número total de documentos en el corpus
+total_documentos = 30
+
 # Crear el vectorizador TF-IDF con el vocabulario restringido a los términos extraídos
 vectorizer = TfidfVectorizer(vocabulary=terminos, ngram_range=(2, 3))  # Trabajamos solo con bigramas y trigramas
 tfidf_matrix = vectorizer.fit_transform(documentos)
@@ -49,11 +52,16 @@ if tfidf_matrix.shape[0] == 0 or tfidf_matrix.shape[1] == 0:
 # Obtener los términos y sus puntajes TF-IDF
 tfidf_scores = tfidf_matrix.toarray()
 
+# Calcular el porcentaje de documentos en los que aparece cada término
+presencia_terminos = (tfidf_matrix > 0).sum(axis=0)  # Número de documentos donde aparece el término
+porcentaje_documentos = (presencia_terminos / total_documentos) * 100  # Convertir a porcentaje
+
 # Crear un DataFrame con los términos y sus valores TF-IDF
 df_tfidf = pd.DataFrame({
     "Término": vectorizer.get_feature_names_out(),
     "TF-IDF Promedio": tfidf_scores.mean(axis=0),
-    "TF-IDF Máximo": tfidf_scores.max(axis=0)
+    "TF-IDF Máximo": tfidf_scores.max(axis=0),
+    "% de Textos": porcentaje_documentos.A1  # Extraer los valores de la matriz
 })
 
 # Guardar dos rankings: por TF-IDF Promedio y TF-IDF Máximo
@@ -70,6 +78,6 @@ output_maximo = os.path.join(documentos_dir, "ranking_tfidf_maximo.csv")
 df_sorted_promedio.to_csv(output_promedio, sep=",", index=False)
 df_sorted_maximo.to_csv(output_maximo, sep=",", index=False)
 
-print(f"✅ Se han generado los rankings de términos basado en TF-IDF:")
+print(f"✅ Se han generado los rankings de términos basado en TF-IDF con el porcentaje de aparición en el corpus:")
 print(f"📂 Ranking por TF-IDF Promedio guardado en: {output_promedio}")
 print(f"📂 Ranking por TF-IDF Máximo guardado en: {output_maximo}")
