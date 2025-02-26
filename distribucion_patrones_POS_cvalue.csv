@@ -1,0 +1,4 @@
+POS Pattern,Porcentaje,Ejemplos
+"{<NN.*>{2,}}",88.48425196850394,"['data set', 'concordance line', 'corpus study']"
+{<JJ><NN.*>},2.690288713910761,"['multi word', 'co occurrence', 'subordinate clause']"
+{<NN.*><IN><NN.*>},8.825459317585302,"['collection of text', 'number of time', 'occurrence of word']"
