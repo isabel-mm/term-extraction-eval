@@ -1,83 +1,62 @@
 import os
+import numpy as np
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 
 # Definir rutas de archivos
-documentos_dir = "processed_texts"
-terminos_path = "terminos_limpios.txt"  # Ruta correcta del archivo de términos
+corpus_path = "/content/term-extraction-eval/corpus_completo_procesado.txt"
+terminos_path = "terminos_limpios.txt"  # Ruta del archivo de términos
 
-# Verificar existencia del archivo de términos
+# Verificar existencia de los archivos
 if not os.path.exists(terminos_path):
     print("❌ El archivo de términos no existe.")
     exit()
 
-# Cargar los términos candidatos, eliminando líneas vacías
+if not os.path.exists(corpus_path):
+    print("❌ El archivo del corpus no existe.")
+    exit()
+
+# Cargar términos candidatos, eliminando líneas vacías
 with open(terminos_path, 'r', encoding='utf-8') as f:
     terminos = [line.strip() for line in f.readlines() if line.strip()]
 
-# Identificar todos los archivos de texto en el directorio especificado
-documentos = []
-nombres_documentos = []
+# Cargar el corpus completo en una única variable
+with open(corpus_path, 'r', encoding='utf-8') as f:
+    corpus_text = f.read()
 
-if not os.path.exists(documentos_dir):
-    print(f"❌ La carpeta '{documentos_dir}' no existe.")
-    exit()
-
-for archivo in sorted(os.listdir(documentos_dir)):  # Ordenamos para consistencia
-    ruta = os.path.join(documentos_dir, archivo)
-    if os.path.isfile(ruta) and archivo.endswith(".txt"):
-        with open(ruta, 'r', encoding='utf-8') as f:
-            documentos.append(f.read())
-            nombres_documentos.append(archivo)  # Guardamos el nombre del documento
-
-# Verificar que hay documentos para procesar
-if not documentos:
-    print("❌ No se encontraron documentos de texto en la carpeta especificada.")
-    exit()
-
-print(f"✅ Se han cargado {len(documentos)} documentos.")
+print("✅ Corpus cargado exitosamente.")
 
 # Definir número total de documentos en el corpus
-total_documentos = 30
+total_documentos = 30  # 🔹 Ajusta este valor si tienes el número exacto
 
-# Crear el vectorizador TF-IDF con el vocabulario restringido a los términos extraídos
-vectorizer = TfidfVectorizer(vocabulary=terminos, ngram_range=(2, 3))  # Trabajamos solo con bigramas y trigramas
-tfidf_matrix = vectorizer.fit_transform(documentos)
+# 1️⃣ Paso: Calcular TTF (Total Term Frequency) en todo el corpus
+vectorizer_ttf = CountVectorizer(vocabulary=terminos, ngram_range=(2, 3))
+ttf_matrix = vectorizer_ttf.fit_transform([corpus_text])  # Matriz con una sola fila (todo el corpus)
 
-# Verificar que el vectorizador no esté vacío
-if tfidf_matrix.shape[0] == 0 or tfidf_matrix.shape[1] == 0:
-    print("❌ La matriz TF-IDF está vacía. Revisa que los términos coincidan con el contenido del corpus.")
-    exit()
+# Sumar todas las ocurrencias de cada término en el corpus
+ttf_scores = np.asarray(ttf_matrix.sum(axis=0)).flatten()
 
-# Obtener los términos y sus puntajes TF-IDF
-tfidf_scores = tfidf_matrix.toarray()
+# 2️⃣ Paso: Calcular IDF con la fórmula adaptada
+df_t = (ttf_matrix > 0).sum(axis=0)  # Número de documentos donde aparece cada término
+idf_scores = np.log((total_documentos + 1) / (df_t + 1)) + 1  # Ajuste para evitar división por cero
 
-# Calcular el porcentaje de documentos en los que aparece cada término
-presencia_terminos = (tfidf_matrix > 0).sum(axis=0)  # Número de documentos donde aparece el término
-porcentaje_documentos = (presencia_terminos / total_documentos) * 100  # Convertir a porcentaje
+# 3️⃣ Paso: Aplicar la fórmula adaptada de TF-IDF (TTF-IDF)
+ttf_idf_scores = ttf_scores * idf_scores.A1  # Multiplicación elemento a elemento
 
-# Crear un DataFrame con los términos y sus valores TF-IDF
+# Crear un DataFrame con los términos y sus valores adaptados de TF-IDF
 df_tfidf = pd.DataFrame({
-    "Término": vectorizer.get_feature_names_out(),
-    "TF-IDF Promedio": tfidf_scores.mean(axis=0),
-    "TF-IDF Máximo": tfidf_scores.max(axis=0),
-    "% de Textos": porcentaje_documentos.A1  # Extraer los valores de la matriz
+    "Término": vectorizer_ttf.get_feature_names_out(),
+    "TTF": ttf_scores,
+    "IDF": idf_scores.A1,
+    "TTF-IDF": ttf_idf_scores
 })
 
-# Guardar dos rankings: por TF-IDF Promedio y TF-IDF Máximo
-df_sorted_promedio = df_tfidf.sort_values(by="TF-IDF Promedio", ascending=False)
-df_sorted_maximo = df_tfidf.sort_values(by="TF-IDF Máximo", ascending=False)
+# Ordenar por TTF-IDF
+df_sorted_ttf_idf = df_tfidf.sort_values(by="TTF-IDF", ascending=False)
 
-# Crear la carpeta de salida si no existe
-os.makedirs(documentos_dir, exist_ok=True)
+# Guardar resultados en archivo CSV
+output_ttf_idf = "ranking_ttf_idf.csv"
+df_sorted_ttf_idf.to_csv(output_ttf_idf, sep=",", index=False)
 
-# Guardar resultados en archivos CSV
-output_promedio = os.path.join(documentos_dir, "ranking_tfidf_promedio.csv")
-output_maximo = os.path.join(documentos_dir, "ranking_tfidf_maximo.csv")
-
-df_sorted_promedio.to_csv(output_promedio, sep=",", index=False)
-df_sorted_maximo.to_csv(output_maximo, sep=",", index=False)
-
-print(f"✅ Se han generado los rankings de términos basado en TF-IDF con el porcentaje de aparición en el corpus:")
-print(f"📂 Ranking por TF-IDF Promedio guardado en: {output_promedio}")
-print(f"📂 Ranking por TF-IDF Máximo guardado en: {output_maximo}")
+print(f"✅ Se ha generado el ranking de términos basado en TTF-IDF:")
+print(f"📂 Archivo guardado en: {output_ttf_idf}")
